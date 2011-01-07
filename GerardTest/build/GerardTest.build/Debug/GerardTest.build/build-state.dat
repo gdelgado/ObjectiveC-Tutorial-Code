@@ -1,0 +1,194 @@
+TGerardTest
+v7
+r0
+t315265598.541617
+cCheck dependencies
+cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch.gch GerardTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o /Users/gdelgadoarch/Documents/GerardTest/GerardTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o /Users/gdelgadoarch/Documents/GerardTest/Person.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectangle.o /Users/gdelgadoarch/Documents/GerardTest/Rectangle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gdelgadoarch/Documents/GerardTest/build/Debug/GerardTest normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/Users/gdelgadoarch/Documents/GerardTest/GerardTest.m
+c000000004D1A3D390000000000000163
+t1293565241
+s355
+i<Foundation/Foundation.h>
+i"Person.h"
+
+N/Users/gdelgadoarch/Documents/GerardTest/GerardTest_Prefix.pch
+c000000004D1A292400000000000000A2
+t1293560100
+s162
+i<Foundation/Foundation.h>
+
+N/Users/gdelgadoarch/Documents/GerardTest/Person.h
+c000000004D1A3CEC0000000000000145
+t1293565164
+s325
+i<Foundation/Foundation.h>
+
+N/Users/gdelgadoarch/Documents/GerardTest/Person.m
+c000000004D1A570800000000000001BD
+t1293571848
+s445
+i<Foundation/Foundation.h>
+i"Rectangle.h"
+
+N/Users/gdelgadoarch/Documents/GerardTest/Rectagle.h
+c000000004D1A560F00000000000000D6
+t1293571599
+s214
+
+N/Users/gdelgadoarch/Documents/GerardTest/Rectagle.m
+c000000004D1A562A00000000000003FE
+t1293571626
+s1022
+i"Rectangle.h"
+i<Foundation/Foundation.h>
+i"Rectangle.h"
+
+N/Users/gdelgadoarch/Documents/GerardTest/Rectangle.h
+c000000004D1A5ABE0000000000000245
+t1293572798
+s581
+i"Rectangle.h"
+
+N/Users/gdelgadoarch/Documents/GerardTest/Rectangle.m
+c000000004D1A5ABE00000000000001B8
+t1293572798
+s440
+i<Foundation/Foundation.h>
+i"Rectangle.h"
+
+N/Users/gdelgadoarch/Documents/GerardTest/build/Debug/GerardTest
+t2
+s0
+
+N/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.LinkFileList
+c000000004D1A5ABE0000000000000169
+t1293572798
+s361
+
+N/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o
+t1293565241
+s7548
+
+N/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o
+t1293572798
+s13408
+
+N/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectagle.o
+t2
+s0
+
+N/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectangle.o
+t1293572798
+s13416
+
+N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch.gch
+t1293563555
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies315265598#315265598#0(0"0(0#1#0"8602238880#0"0#
+
+CCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o /Users/gdelgadoarch/Documents/GerardTest/GerardTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315258041.326298
+e315258041.666235
+r1
+xCompileC
+xbuild/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o
+x/Users/gdelgadoarch/Documents/GerardTest/GerardTest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/gdelgadoarch/Documents/GerardTest/GerardTest.m315258041#315258041#0(0"0(0#0#53"/Users/gdelgadoarch/Documents/GerardTest/GerardTest.m8612837920#1544"    cd /Users/gdelgadoarch/Documents/GerardTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-generated-files.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-project-headers.hmap -F/Users/gdelgadoarch/Documents/GerardTest/build/Debug -I/Users/gdelgadoarch/Documents/GerardTest/build/Debug/include -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch -c /Users/gdelgadoarch/Documents/GerardTest/GerardTest.m -o /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o0#
+
+CCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o /Users/gdelgadoarch/Documents/GerardTest/Person.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315265598.269740
+e315265598.424940
+r1
+xCompileC
+xbuild/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o
+x/Users/gdelgadoarch/Documents/GerardTest/Person.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/gdelgadoarch/Documents/GerardTest/Person.m315265598#315265598#0(0"0(0#0#49"/Users/gdelgadoarch/Documents/GerardTest/Person.m8612718112#1536"    cd /Users/gdelgadoarch/Documents/GerardTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-generated-files.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-project-headers.hmap -F/Users/gdelgadoarch/Documents/GerardTest/build/Debug -I/Users/gdelgadoarch/Documents/GerardTest/build/Debug/include -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch -c /Users/gdelgadoarch/Documents/GerardTest/Person.m -o /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o0#
+
+CCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectagle.o /Users/gdelgadoarch/Documents/GerardTest/Rectagle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315264473.548986
+e315264473.676616
+r0
+xCompileC
+xbuild/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectagle.o
+x/Users/gdelgadoarch/Documents/GerardTest/Rectagle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/gdelgadoarch/Documents/GerardTest/Rectagle.m:15:22: error: Rectangle.h: No such file or directory
+lSLF07#2@59"Compile /Users/gdelgadoarch/Documents/GerardTest/Rectagle.m315264473#315264473#0(105"/Users/gdelgadoarch/Documents/GerardTest/Rectagle.m:15:22: error: Rectangle.h: No such file or directory1(4@38"Rectangle.h: No such file or directory315264473#0#105#0(6@51"/Users/gdelgadoarch/Documents/GerardTest/Rectagle.m315264426#15#0#15#0#28"*: No such file or directory0(0#0#51"/Users/gdelgadoarch/Documents/GerardTest/Rectagle.m8615277184#1540"    cd /Users/gdelgadoarch/Documents/GerardTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-generated-files.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-project-headers.hmap -F/Users/gdelgadoarch/Documents/GerardTest/build/Debug -I/Users/gdelgadoarch/Documents/GerardTest/build/Debug/include -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch -c /Users/gdelgadoarch/Documents/GerardTest/Rectagle.m -o /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectagle.o1#
+
+CCompileC build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectangle.o /Users/gdelgadoarch/Documents/GerardTest/Rectangle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315265598.271224
+e315265598.478548
+r1
+xCompileC
+xbuild/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectangle.o
+x/Users/gdelgadoarch/Documents/GerardTest/Rectangle.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/gdelgadoarch/Documents/GerardTest/Rectangle.m315265598#315265598#0(0"0(0#0#52"/Users/gdelgadoarch/Documents/GerardTest/Rectangle.m8598173056#1542"    cd /Users/gdelgadoarch/Documents/GerardTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-generated-files.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-project-headers.hmap -F/Users/gdelgadoarch/Documents/GerardTest/build/Debug -I/Users/gdelgadoarch/Documents/GerardTest/build/Debug/include -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch -c /Users/gdelgadoarch/Documents/GerardTest/Rectangle.m -o /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Rectangle.o0#
+
+CLd /Users/gdelgadoarch/Documents/GerardTest/build/Debug/GerardTest normal x86_64
+s315265598.478630
+e315265598.541586
+r0
+xLd
+x/Users/gdelgadoarch/Documents/GerardTest/build/Debug/GerardTest
+xnormal
+xx86_64
+old: duplicate symbol _main in /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o and /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@68"Link /Users/gdelgadoarch/Documents/GerardTest/build/Debug/GerardTest315265598#315265598#0(369"ld: duplicate symbol _main in /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o and /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/gcc-4.2 failed with exit code 12(13@269"Duplicate symbol _main in /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/Person.o and /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.o315265598#0#274#0(6@0"315265598#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/gcc-4.2 failed with exit code 1315265598#18446744073709551615#0#0(1@0"0(0#0#0"8617740704#542"    cd /Users/gdelgadoarch/Documents/GerardTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gdelgadoarch/Documents/GerardTest/build/Debug -F/Users/gdelgadoarch/Documents/GerardTest/build/Debug -filelist /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/Objects-normal/x86_64/GerardTest.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/gdelgadoarch/Documents/GerardTest/build/Debug/GerardTest1#
+
+CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch.gch GerardTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s315256308.128106
+e315256356.104608
+r1
+xProcessPCH
+x/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch.gch
+xGerardTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile GerardTest_Prefix.pch315256308#315256356#0(0"0(0#0#62"/Users/gdelgadoarch/Documents/GerardTest/GerardTest_Prefix.pch8391161943858241536#1433"    cd /Users/gdelgadoarch/Documents/GerardTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-generated-files.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/GerardTest-project-headers.hmap -F/Users/gdelgadoarch/Documents/GerardTest/build/Debug -I/Users/gdelgadoarch/Documents/GerardTest/build/Debug/include -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/GerardTest/build/GerardTest.build/Debug/GerardTest.build/DerivedSources -c /Users/gdelgadoarch/Documents/GerardTest/GerardTest_Prefix.pch -o /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GerardTest_Prefix-cbuxxpjxeuobbvboqlelvmfybsug/GerardTest_Prefix.pch.gch0#
+

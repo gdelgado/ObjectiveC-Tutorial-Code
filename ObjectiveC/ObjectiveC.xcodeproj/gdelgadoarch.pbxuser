@@ -1,0 +1,122 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8AC5429912B8032F00BD363D /* ObjectiveC */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* ObjectiveC */;
+		codeSenseManager = 8AC542A012B8034E00BD363D /* Code sense */;
+		executables = (
+			8AC5429912B8032F00BD363D /* ObjectiveC */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314658168;
+			PBXWorkspaceStateSaveDate = 314658168;
+		};
+		perUserProjectItems = {
+			8AC542E912BA85F900BD363D /* PBXTextBookmark */ = 8AC542E912BA85F900BD363D /* PBXTextBookmark */;
+			8AEB8A6F12C3AD1600B41A99 /* PBXTextBookmark */ = 8AEB8A6F12C3AD1600B41A99 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8AC5429F12B8034E00BD363D /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* ObjectiveC.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 273}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 299}";
+		};
+	};
+	8AC5429912B8032F00BD363D /* ObjectiveC */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ObjectiveC;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8AC5429F12B8034E00BD363D /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8AC542A012B8034E00BD363D /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8AC542E912BA85F900BD363D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* ObjectiveC.m */;
+		name = "ObjectiveC.m: 13";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 311;
+		vrLoc = 0;
+	};
+	8AEB8A6F12C3AD1600B41A99 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* ObjectiveC.m */;
+		name = "ObjectiveC.m: 8";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 299;
+		vrLoc = 0;
+	};
+	8DD76F960486AA7600D96B5E /* ObjectiveC */ = {
+		activeExec = 0;
+		executables = (
+			8AC5429912B8032F00BD363D /* ObjectiveC */,
+		);
+	};
+}

@@ -1,0 +1,219 @@
+TCocoaTestProject
+v7
+r0
+t313444577.873140
+cCheck dependencies
+cProcessInfoPlistFile /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Info.plist CocoaTestProject-Info.plist
+cCopyStringsFile /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch.gch CocoaTestProject_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/main.o /Users/gdelgadoarch/Documents/CocoaTestProject/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProjectAppDelegate.o /Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/MacOS/CocoaTestProject normal x86_64
+cTouch /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/objc/Object.h
+c000000004C4DF4B10000000000000E8B
+t1280177329
+s3723
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.h
+c000000004CB49389000000000000015D
+t1286902665
+s349
+i<Cocoa/Cocoa.h>
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m
+c000000004CB49389000000000000019B
+t1286902665
+s411
+i"CocoaTestProjectAppDelegate.h"
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProject_Prefix.pch
+c000000004CB4938900000000000000A3
+t1286902665
+s163
+i<Cocoa/Cocoa.h>
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/InfoPlist.strings
+c000000004CB49389000000000000002D
+t1286902665
+s45
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/MainMenu.xib
+c000000004CB496A7000000000002F352
+t1286903463
+s193362
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProject.LinkFileList
+c000000004CB4942F0000000000000123
+t1286902831
+s291
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProjectAppDelegate.o
+t1290203431
+s21344
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/main.o
+t1290203431
+s7296
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app
+t1290203433
+s102
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Info.plist
+t1286902831
+s913
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/MacOS/CocoaTestProject
+t1290203433
+s15216
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/PkgInfo
+t1286902831
+s8
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1290202139
+s92
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj/MainMenu.nib
+t1290202141
+s38554
+
+N/Users/gdelgadoarch/Documents/CocoaTestProject/main.m
+c000000004CE6EC1800000000000002DB
+t1290202136
+s731
+i<objc/Object.h>
+i<stdio.h>
+i<stdlib.h>
+
+N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch.gch
+t1290203427
+s54265616
+
+NCocoaTestProject-Info.plist
+c000000004CB4938900000000000003EA
+t1286902665
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies313444577#313444577#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProjectAppDelegate.o /Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311896227.371064
+e311896231.748865
+r1
+xCompileC
+xbuild/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProjectAppDelegate.o
+x/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m311896227#311896231#0(0"0(0#0#76"/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m8620561472#1764"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-generated-files.hmap -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-project-headers.hmap -F/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/include -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch -c /Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProjectAppDelegate.m -o /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProjectAppDelegate.o0#
+
+CCompileC build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/main.o /Users/gdelgadoarch/Documents/CocoaTestProject/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311896227.333126
+e311896231.406924
+r1
+xCompileC
+xbuild/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/main.o
+x/Users/gdelgadoarch/Documents/CocoaTestProject/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/gdelgadoarch/Documents/CocoaTestProject/main.m: In function 'main':
+o/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: 'Greeter' may not respond to '+new'
+o/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: (Messages without a matching method signature
+o/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: will be assumed to return 'id' and accept
+o/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: '...' as arguments.)
+o/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:43: warning: no '-free' method found
+lSLF07#2@61"Compile /Users/gdelgadoarch/Documents/CocoaTestProject/main.m311896227#311896231#0(579"/Users/gdelgadoarch/Documents/CocoaTestProject/main.m: In function 'main':/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: 'Greeter' may not respond to '+new'/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: (Messages without a matching method signature/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: will be assumed to return 'id' and accept/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:39: warning: '...' as arguments.)/Users/gdelgadoarch/Documents/CocoaTestProject/main.m:43: warning: no '-free' method found3(22@35"'Greeter' may not respond to '+new'311896230#75#103#0(6@53"/Users/gdelgadoarch/Documents/CocoaTestProject/main.m311894936#39#0#39#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)311896230#178#113#0(6@53"/Users/gdelgadoarch/Documents/CocoaTestProject/main.m311894936#39#0#39#0#0"0(22@23"No '-free' method found311896230#488#91#0(6@53"/Users/gdelgadoarch/Documents/CocoaTestProject/main.m311894936#43#0#43#0#19"no '*' method found0(0#0#53"/Users/gdelgadoarch/Documents/CocoaTestProject/main.m8626755552#1718"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-generated-files.hmap -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-project-headers.hmap -F/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/include -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch -c /Users/gdelgadoarch/Documents/CocoaTestProject/main.m -o /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/MainMenu.xib
+s311894936.918761
+e311894942.028843
+r1
+xCompileXIB
+x/Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib311894936#311894942#0(0"0(0#0#73"/Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/MainMenu.xib8602326528#397"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj/MainMenu.nib /Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s311894936.861312
+e311894939.567793
+r1
+xCopyStringsFile
+x/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings311894936#311894939#0(0"0(0#0#78"/Users/gdelgadoarch/Documents/CocoaTestProject/English.lproj/InfoPlist.strings32369819897823348#390"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Resources/English.lproj0#
+
+CLd /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/MacOS/CocoaTestProject normal x86_64
+s311896231.748968
+e311896233.563685
+r1
+xLd
+x/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/MacOS/CocoaTestProject
+xnormal
+xx86_64
+lSLF07#2@116"Link /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/MacOS/CocoaTestProject311896231#311896233#0(0"0(0#0#0"8620764576#627"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug -F/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug -filelist /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/Objects-normal/x86_64/CocoaTestProject.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/MacOS/CocoaTestProject0#
+
+CProcessInfoPlistFile /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Info.plist CocoaTestProject-Info.plist
+s308595631.698787
+e308595631.846654
+r1
+xProcessInfoPlistFile
+x/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Info.plist
+xCocoaTestProject-Info.plist
+lSLF07#2@35"Process CocoaTestProject-Info.plist308595631#308595631#0(0"0(0#0#74"/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProject-Info.plist32651569751457908#361"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    builtin-infoPlistUtility CocoaTestProject-Info.plist -genpkginfo /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch.gch CocoaTestProject_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s311896174.720764
+e311896227.332897
+r1
+xProcessPCH
+x/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch.gch
+xCocoaTestProject_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile CocoaTestProject_Prefix.pch311896174#311896227#0(0"0(0#0#74"/Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProject_Prefix.pch8621552000#1607"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-generated-files.hmap -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/CocoaTestProject-project-headers.hmap -F/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/include -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CocoaTestProject/build/CocoaTestProject.build/Debug/CocoaTestProject.build/DerivedSources -c /Users/gdelgadoarch/Documents/CocoaTestProject/CocoaTestProject_Prefix.pch -o /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CocoaTestProject_Prefix-ggzzkadfieiorlgvuchvflssxlwi/CocoaTestProject_Prefix.pch.gch0#
+
+CTouch /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app
+s311896233.563880
+e311896233.583481
+r1
+xTouch
+x/Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app
+lSLF07#2@85"Touch /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app311896233#311896233#0(0"0(0#0#0"8631722688#156"    cd /Users/gdelgadoarch/Documents/CocoaTestProject    /usr/bin/touch -c /Users/gdelgadoarch/Documents/CocoaTestProject/build/Debug/CocoaTestProject.app0#
+

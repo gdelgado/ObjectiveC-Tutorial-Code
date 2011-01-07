@@ -1,0 +1,93 @@
+TObjectiveC
+v7
+r0
+t314659406.194855
+cCheck dependencies
+cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveC_Prefix-azpibqpnvnnmwubxyqicxwyeuyrs/ObjectiveC_Prefix.pch.gch ObjectiveC_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.o /Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/ObjectiveC normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m
+c000000004D111ACD000000000000012D
+t1292966605
+s301
+i<Foundation/Foundation.h>
+
+N/Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC_Prefix.pch
+c000000004D07CBAF00000000000000A2
+t1292356527
+s162
+i<Foundation/Foundation.h>
+
+N/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/ObjectiveC
+t1292966606
+s9288
+
+N/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.LinkFileList
+c000000004D07CBE3000000000000007A
+t1292356579
+s122
+
+N/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.o
+t1292966606
+s7136
+
+N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveC_Prefix-azpibqpnvnnmwubxyqicxwyeuyrs/ObjectiveC_Prefix.pch.gch
+t1292356603
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies314659405#314659405#0(0"0(0#1#0"8607938496#0"0#
+
+CCompileC build/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.o /Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314659405.799556
+e314659406.175979
+r1
+xCompileC
+xbuild/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.o
+x/Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m314659405#314659406#0(0"0(0#0#53"/Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m8608290400#1544"    cd /Users/gdelgadoarch/Documents/ObjectiveC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-generated-files.hmap -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-project-headers.hmap -F/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug -I/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/include -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveC_Prefix-azpibqpnvnnmwubxyqicxwyeuyrs/ObjectiveC_Prefix.pch -c /Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC.m -o /Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.o0#
+
+CLd /Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/ObjectiveC normal x86_64
+s314659406.176098
+e314659406.194791
+r1
+xLd
+x/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/ObjectiveC
+xnormal
+xx86_64
+lSLF07#2@68"Link /Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/ObjectiveC314659406#314659406#0(0"0(0#0#0"8613529088#542"    cd /Users/gdelgadoarch/Documents/ObjectiveC    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug -F/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug -filelist /Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/Objects-normal/x86_64/ObjectiveC.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/ObjectiveC0#
+
+CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveC_Prefix-azpibqpnvnnmwubxyqicxwyeuyrs/ObjectiveC_Prefix.pch.gch ObjectiveC_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s314049379.698743
+e314049403.471826
+r1
+xProcessPCH
+x/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveC_Prefix-azpibqpnvnnmwubxyqicxwyeuyrs/ObjectiveC_Prefix.pch.gch
+xObjectiveC_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile ObjectiveC_Prefix.pch314049380#314049403#0(0"0(0#0#62"/Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC_Prefix.pch4856417968485262336#1433"    cd /Users/gdelgadoarch/Documents/ObjectiveC    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-generated-files.hmap -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/ObjectiveC-project-headers.hmap -F/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug -I/Users/gdelgadoarch/Documents/ObjectiveC/build/Debug/include -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/ObjectiveC/build/ObjectiveC.build/Debug/ObjectiveC.build/DerivedSources -c /Users/gdelgadoarch/Documents/ObjectiveC/ObjectiveC_Prefix.pch -o /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveC_Prefix-azpibqpnvnnmwubxyqicxwyeuyrs/ObjectiveC_Prefix.pch.gch0#
+
