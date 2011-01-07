@@ -11,6 +11,8 @@
 		8A77018A12CD20000043B69B /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A77018912CD20000043B69B /* Square.m */; };
 		8A77019312CD217D0043B69B /* Bucky.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A77019212CD217D0043B69B /* Bucky.m */; };
 		8A77019E12D3BB1B0043B69B /* XYPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A77019D12D3BB1B0043B69B /* XYPoint.m */; };
+		8AC20B6D12D7BFB500E02BA6 /* Mom.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AC20B6C12D7BFB500E02BA6 /* Mom.m */; };
+		8AC20B7012D7C04800E02BA6 /* Son.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AC20B6F12D7C04800E02BA6 /* Son.m */; };
 		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
 		8DD76F9F0486AA7600D96B5E /* CodeProject1.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859EA3029092ED04C91782 /* CodeProject1.1 */; };
 /* End PBXBuildFile section */
@@ -39,6 +41,10 @@
 		8A77019212CD217D0043B69B /* Bucky.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Bucky.m; sourceTree = "<group>"; };
 		8A77019C12D3BB1B0043B69B /* XYPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYPoint.h; sourceTree = "<group>"; };
 		8A77019D12D3BB1B0043B69B /* XYPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYPoint.m; sourceTree = "<group>"; };
+		8AC20B6B12D7BFB500E02BA6 /* Mom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Mom.h; sourceTree = "<group>"; };
+		8AC20B6C12D7BFB500E02BA6 /* Mom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Mom.m; sourceTree = "<group>"; };
+		8AC20B6E12D7C04800E02BA6 /* Son.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Son.h; sourceTree = "<group>"; };
+		8AC20B6F12D7C04800E02BA6 /* Son.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Son.m; sourceTree = "<group>"; };
 		8DD76FA10486AA7600D96B5E /* CodeProject1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodeProject1; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859EA3029092ED04C91782 /* CodeProject1.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = CodeProject1.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -78,6 +84,10 @@
 				8A77019212CD217D0043B69B /* Bucky.m */,
 				8A77019C12D3BB1B0043B69B /* XYPoint.h */,
 				8A77019D12D3BB1B0043B69B /* XYPoint.m */,
+				8AC20B6B12D7BFB500E02BA6 /* Mom.h */,
+				8AC20B6C12D7BFB500E02BA6 /* Mom.m */,
+				8AC20B6E12D7C04800E02BA6 /* Son.h */,
+				8AC20B6F12D7C04800E02BA6 /* Son.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -160,6 +170,8 @@
 				8A77018A12CD20000043B69B /* Square.m in Sources */,
 				8A77019312CD217D0043B69B /* Bucky.m in Sources */,
 				8A77019E12D3BB1B0043B69B /* XYPoint.m in Sources */,
+				8AC20B6D12D7BFB500E02BA6 /* Mom.m in Sources */,
+				8AC20B7012D7C04800E02BA6 /* Son.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
