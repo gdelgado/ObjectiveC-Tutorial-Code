@@ -195,6 +195,81 @@ N/Users/gdelgadoarch/Dropbox/ObjectiveC_Tutorial_Code/CodeProject1/build/Debug/C
 t1294259120
 s17424
 
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Bucky.m
+c000000004D24D3AF0000000000000274
+t1294259119
+s628
+i<Foundation/Foundation.h>
+i"Rectangle.h"
+i"XYPoint.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/CodeProject1_Prefix.pch
+c000000004D1CE76600000000000000A5
+t1293739878
+s165
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Rectangle.h
+c000000004D24D1AF0000000000000180
+t1294258607
+s384
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Rectangle.m
+c000000004D24D1D60000000000000191
+t1294258646
+s401
+i"Rectangle.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Square.h
+c000000004D1CE9CB00000000000000D2
+t1293740491
+s210
+i"Rectangle.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Square.m
+c000000004D1CE9CB0000000000000111
+t1293740491
+s273
+i"Square.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/XYPoint.h
+c000000004D24CA03000000000000009A
+t1294256643
+s154
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/XYPoint.m
+c000000004D24CFDE0000000000000086
+t1294258142
+s134
+i"XYPoint.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Bucky.o
+t1294259120
+s9064
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/CodeProject1.LinkFileList
+c000000004D24CA0400000000000001F3
+t1294256644
+s499
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Rectangle.o
+t1294258647
+s12196
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Square.o
+t1294258607
+s7540
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/XYPoint.o
+t1294258142
+s9492
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/Debug/CodeProject1
+t1294259120
+s17424
+
 N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-buivkzssxwiqktfipiqhgpkrnevh/CodeProject1_Prefix.pch.gch
 t2
 s0
@@ -207,9 +282,16 @@ N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/Shared
 t1293739880
 s41401104
 
+N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-ejvinvwcvuqktubnsarxfqsqkxnj/CodeProject1_Prefix.pch.gch
+t2
+s0
+
 CCheck dependencies
 r0
 lSLF07#2@18"Check dependencies315951919#315951919#0(0"0(0#1#0"8622117952#0"0#
+
+CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Bucky.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Bucky.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Bucky.o /Users/gdelgadoarch/Documents/CodeProject1/Bucky.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s315951919.711855
@@ -240,6 +322,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@65"Compile /Users/gdelgadoarch/Documents/CodeProject1/CodeProject1.m315432680#315432680#0(0"0(0#0#57"/Users/gdelgadoarch/Documents/CodeProject1/CodeProject1.m8604930400#1610"    cd /Users/gdelgadoarch/Documents/CodeProject1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-generated-files.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-project-headers.hmap -F/Users/gdelgadoarch/Documents/CodeProject1/build/Debug -I/Users/gdelgadoarch/Documents/CodeProject1/build/Debug/include -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-ejndysweowbvniefnqalficusilr/CodeProject1_Prefix.pch -c /Users/gdelgadoarch/Documents/CodeProject1/CodeProject1.m -o /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/CodeProject1.o0#
 
+CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Rectangle.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Rectangle.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Rectangle.o /Users/gdelgadoarch/Documents/CodeProject1/Rectangle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s315951446.982453
 e315951447.303972
@@ -254,6 +339,9 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@62"Compile /Users/gdelgadoarch/Documents/CodeProject1/Rectangle.m315951446#315951447#0(0"0(0#0#54"/Users/gdelgadoarch/Documents/CodeProject1/Rectangle.m8629890656#1604"    cd /Users/gdelgadoarch/Documents/CodeProject1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-generated-files.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-project-headers.hmap -F/Users/gdelgadoarch/Documents/CodeProject1/build/Debug -I/Users/gdelgadoarch/Documents/CodeProject1/build/Debug/include -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-cvkjikmmqwksjcblfnmgxfyvxzzu/CodeProject1_Prefix.pch -c /Users/gdelgadoarch/Documents/CodeProject1/Rectangle.m -o /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Rectangle.o0#
 
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Rectangle.o /Users/gdelgadoarch/Dropbox/ObjectiveC_Tutorial_Code/CodeProject1/Rectangle.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Square.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Square.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 r0
 
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Square.o /Users/gdelgadoarch/Documents/CodeProject1/Square.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -272,6 +360,9 @@ lSLF07#2@59"Compile /Users/gdelgadoarch/Documents/CodeProject1/Square.m315951407
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Square.o /Users/gdelgadoarch/Dropbox/ObjectiveC_Tutorial_Code/CodeProject1/Square.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/XYPoint.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/XYPoint.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/XYPoint.o /Users/gdelgadoarch/Documents/CodeProject1/XYPoint.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s315950942.371200
 e315950942.873748
@@ -286,6 +377,9 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@60"Compile /Users/gdelgadoarch/Documents/CodeProject1/XYPoint.m315950942#315950942#0(0"0(0#0#52"/Users/gdelgadoarch/Documents/CodeProject1/XYPoint.m8619956096#1600"    cd /Users/gdelgadoarch/Documents/CodeProject1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-generated-files.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-project-headers.hmap -F/Users/gdelgadoarch/Documents/CodeProject1/build/Debug -I/Users/gdelgadoarch/Documents/CodeProject1/build/Debug/include -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-cvkjikmmqwksjcblfnmgxfyvxzzu/CodeProject1_Prefix.pch -c /Users/gdelgadoarch/Documents/CodeProject1/XYPoint.m -o /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/XYPoint.o0#
 
 CCompileC build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/XYPoint.o /Users/gdelgadoarch/Dropbox/ObjectiveC_Tutorial_Code/CodeProject1/XYPoint.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CLd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/Debug/CodeProject1" normal x86_64
 r0
 
 CLd /Users/gdelgadoarch/Documents/CodeProject1/build/Debug/CodeProject1 normal x86_64
@@ -329,4 +423,7 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@34"Precompile CodeProject1_Prefix.pch315432678#315432680#0(0"0(0#0#66"/Users/gdelgadoarch/Documents/CodeProject1/CodeProject1_Prefix.pch8604843712#1491"    cd /Users/gdelgadoarch/Documents/CodeProject1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-generated-files.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-own-target-headers.hmap -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-all-target-headers.hmap -iquote /Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/CodeProject1-project-headers.hmap -F/Users/gdelgadoarch/Documents/CodeProject1/build/Debug -I/Users/gdelgadoarch/Documents/CodeProject1/build/Debug/include -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources/x86_64 -I/Users/gdelgadoarch/Documents/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/DerivedSources -c /Users/gdelgadoarch/Documents/CodeProject1/CodeProject1_Prefix.pch -o /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-ejndysweowbvniefnqalficusilr/CodeProject1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-ejvinvwcvuqktubnsarxfqsqkxnj/CodeProject1_Prefix.pch.gch CodeProject1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
 
