@@ -5,7 +5,7 @@
 
 @implementation Son 
 -(void) setNum1{
-	num1=14;
+	num1=24;
 }
 
 -(void) PrintNumber{
