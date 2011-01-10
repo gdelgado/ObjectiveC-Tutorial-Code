@@ -3,6 +3,7 @@
 #import "Charz.h"
 
 
+
 @implementation Charz
 -(void) setCharz{
     c1='B';
