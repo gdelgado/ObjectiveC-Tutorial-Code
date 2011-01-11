@@ -1,0 +1,151 @@
+TObjectiveCBookTutorial
+v7
+r0
+t316414073.957968
+cCheck dependencies
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch ObjectiveCBookTutorial_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Fractions.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h
+c000000004D2BE0F600000000000001FD
+t1294721270
+s509
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m
+c000000004D2BE0F6000000000000003A
+t1294721270
+s58
+i"Fractions.h"
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m
+c000000004D2BE0F60000000000000228
+t1294721270
+s552
+i<Foundation/Foundation.h>
+i"Fractions.h"
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial_Prefix.pch
+c000000004D2BDCCA00000000000000BA
+t1294720202
+s186
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Fractions.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.LinkFileList
+c000000004D2BE0F6000000000000013F
+t1294721270
+s319
+
+N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o
+t2
+s0
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch
+t1294721273
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316414070#316414070#0(0"0(0#1#0"6083078245337752576#0"0#
+
+CCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Fractions.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316414073.782289
+e316414073.957193
+r0
+xCompileC
+xbuild/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Fractions.o
+x/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:3:
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:23: warning: cannot find interface declaration for 'Fraction'
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction print]':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'numerator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: (Each undeclared identifier is reported only once
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: for each function it appears in.)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'denominator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setNumerator:]':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:27: error: 'numerator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setDenominator:]':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:30: error: 'denominator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m: At top level:
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: incomplete implementation of class 'Fractions'
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: method definition for '-setDenominator:' not found
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: method definition for '-setNumerator:' not found
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: method definition for '-print' not found
+lSLF07#2@68"Compile /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414073#316414073#0(1796"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:3:/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:23: warning: cannot find interface declaration for 'Fraction'/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction print]':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'numerator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: (Each undeclared identifier is reported only once/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: for each function it appears in.)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'denominator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setNumerator:]':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:27: error: 'numerator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setDenominator:]':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:30: error: 'denominator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m: At top level:/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: incomplete implementation of class 'Fractions'/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: method definition for '-setDenominator:' not found/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: method definition for '-setNumerator:' not found/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: method definition for '-print' not found10(22@48"Cannot find interface declaration for 'Fraction'316414073#86#123#2(7@82"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#3#0#3#0#0"0(13@112"Cannot find interface declaration for 'Fraction' in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#23#0#23#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#23#0#23#0#0"0(4@51"'numerator' undeclared (first use in this function)316414073#304#124#2(7@82"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#3#0#3#0#0"0(13@115"'numerator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#43"'*' undeclared (first use in this function)0(4@53"'denominator' undeclared (first use in this function)316414073#656#126#2(7@82"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#3#0#3#0#0"0(13@117"'denominator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#43"'*' undeclared (first use in this function)0(4@51"'numerator' undeclared (first use in this function)316414073#885#124#2(7@82"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#3#0#3#0#0"0(13@115"'numerator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#27#0#27#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#27#0#27#0#43"'*' undeclared (first use in this function)0(4@53"'denominator' undeclared (first use in this function)316414073#1114#126#2(7@82"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#3#0#3#0#0"0(13@117"'denominator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#30#0#30#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#30#0#30#0#43"'*' undeclared (first use in this function)0(23@13"At top level:316414073#1240#76#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#0#0#0#0#0"0(22@46"Incomplete implementation of class 'Fractions'316414073#1316#120#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#8#0#8#0#38"incomplete implementation of class '*'0(22@50"Method definition for '-setDenominator:' not found316414073#1436#124#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#8#0#8#0#35"method definition for '*' not found0(22@48"Method definition for '-setNumerator:' not found316414073#1560#122#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#8#0#8#0#35"method definition for '*' not found0(22@40"Method definition for '-print' not found316414073#1682#114#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#8#0#8#0#35"method definition for '*' not found0(0#0#60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m8617566304#1870"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-generated-files.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-project-headers.hmap -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/include -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch -c /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Fractions.o1#
+
+CCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316414073.780551
+e316414073.957906
+r0
+xCompileC
+xbuild/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o
+x/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:2:
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:23: warning: cannot find interface declaration for 'Fraction'
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction print]':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'numerator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: (Each undeclared identifier is reported only once
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: for each function it appears in.)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'denominator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setNumerator:]':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:27: error: 'numerator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setDenominator:]':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:30: error: 'denominator' undeclared (first use in this function)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m: In function 'main':
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: 'Fraction' may not respond to '+alloc'
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: (Messages without a matching method signature
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: will be assumed to return 'id' and accept
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: '...' as arguments.)
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:11: warning: 'Fraction' may not respond to '-init'
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:16: warning: 'Fraction' may not respond to '-setDenomiator:'
+o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:21: warning: 'Fraction' may not respond to '-release'
+lSLF07#2@81"Compile /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414073#316414073#0(2232"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:2:/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:23: warning: cannot find interface declaration for 'Fraction'/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction print]':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'numerator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: (Each undeclared identifier is reported only once/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: for each function it appears in.)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:24: error: 'denominator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setNumerator:]':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:27: error: 'numerator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h: In function '-[Fraction setDenominator:]':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h:30: error: 'denominator' undeclared (first use in this function)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m: In function 'main':/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: 'Fraction' may not respond to '+alloc'/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: (Messages without a matching method signature/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: will be assumed to return 'id' and accept/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:10: warning: '...' as arguments.)/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:11: warning: 'Fraction' may not respond to '-init'/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:16: warning: 'Fraction' may not respond to '-setDenomiator:'/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m:21: warning: 'Fraction' may not respond to '-release'10(22@48"Cannot find interface declaration for 'Fraction'316414073#99#123#2(7@95"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414073#18446744073709551615#0#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#2#0#2#0#0"0(13@112"Cannot find interface declaration for 'Fraction' in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#23#0#23#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#23#0#23#0#0"0(4@51"'numerator' undeclared (first use in this function)316414073#317#124#2(7@95"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414073#18446744073709551615#0#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#2#0#2#0#0"0(13@115"'numerator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#43"'*' undeclared (first use in this function)0(4@53"'denominator' undeclared (first use in this function)316414073#669#126#2(7@95"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414073#18446744073709551615#0#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#2#0#2#0#0"0(13@117"'denominator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#24#0#24#0#43"'*' undeclared (first use in this function)0(4@51"'numerator' undeclared (first use in this function)316414073#898#124#2(7@95"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414073#18446744073709551615#0#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#2#0#2#0#0"0(13@115"'numerator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#27#0#27#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#27#0#27#0#43"'*' undeclared (first use in this function)0(4@53"'denominator' undeclared (first use in this function)316414073#1127#126#2(7@95"In file included from /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414073#18446744073709551615#0#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#2#0#2#0#0"0(13@117"'denominator' undeclared (first use in this function) in /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414073#18446744073709551615#0#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#30#0#30#0#0"0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.h316414070#30#0#30#0#43"'*' undeclared (first use in this function)0(22@38"'Fraction' may not respond to '+alloc'316414073#1348#126#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#10#0#10#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)316414073#1474#133#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#10#0#10#0#0"0(22@37"'Fraction' may not respond to '-init'316414073#1844#125#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#11#0#11#0#26"'*' may not respond to '*'0(22@47"'Fraction' may not respond to '-setDenomiator:'316414073#1969#135#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#16#0#16#0#26"'*' may not respond to '*'0(22@40"'Fraction' may not respond to '-release'316414073#2104#128#0(6@73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m316414070#21#0#21#0#26"'*' may not respond to '*'0(0#0#73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m8620718944#1896"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-generated-files.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-project-headers.hmap -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/include -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch -c /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o1#
+
+CLd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial normal x86_64
+r0
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch ObjectiveCBookTutorial_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316414070.553431
+e316414073.780102
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch
+xObjectiveCBookTutorial_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@44"Precompile ObjectiveCBookTutorial_Prefix.pch316414070#316414073#0(0"0(0#0#82"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial_Prefix.pch4856417968485262336#1741"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-generated-files.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-project-headers.hmap -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/include -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources -c /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch0#
+

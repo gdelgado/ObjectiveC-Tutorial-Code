@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23E4204F12DC144A0051489E /* ObjectiveCBookTutorial */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* ObjectiveCBookTutorial */;
+		addToTargets = (
+			8DD76F960486AA7600D96B5E /* ObjectiveCBookTutorial */,
+		);
+		codeSenseManager = 23E4205612DC14690051489E /* Code sense */;
+		executables = (
+			23E4204F12DC144A0051489E /* ObjectiveCBookTutorial */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					223,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 316413126;
+			PBXWorkspaceStateSaveDate = 316413126;
+		};
+		perUserProjectItems = {
+			23E4205712DC14BD0051489E = 23E4205712DC14BD0051489E /* PBXTextBookmark */;
+			23E4205812DC14BD0051489E = 23E4205812DC14BD0051489E /* PBXBookmark */;
+			23E4205912DC14BD0051489E = 23E4205912DC14BD0051489E /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23E4205512DC14690051489E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {460, 338}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{189, 364}";
+		};
+	};
+	23E4204F12DC144A0051489E /* ObjectiveCBookTutorial */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ObjectiveCBookTutorial;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23E4205512DC14690051489E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23E4205612DC14690051489E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23E4205712DC14BD0051489E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */;
+		name = "ObjectiveCBookTutorial.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	23E4205812DC14BD0051489E /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* ObjectiveCBookTutorial_Prefix.pch */;
+	};
+	23E4205912DC14BD0051489E /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* ObjectiveCBookTutorial_Prefix.pch */;
+		name = "ObjectiveCBookTutorial_Prefix.pch: 5";
+		rLen = 6;
+		rLoc = 92;
+		rType = 0;
+		vrLen = 99;
+		vrLoc = 0;
+	};
+	23E4206512DC14DB0051489E /* Fractions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {401, 494}}";
+			sepNavSelRange = "{137, 0}";
+			sepNavVisRange = "{276, 232}";
+		};
+	};
+	32A70AAB03705E1F00C91783 /* ObjectiveCBookTutorial_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 237}}";
+			sepNavSelRange = "{92, 6}";
+			sepNavVisRange = "{0, 186}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* ObjectiveCBookTutorial */ = {
+		activeExec = 0;
+		executables = (
+			23E4204F12DC144A0051489E /* ObjectiveCBookTutorial */,
+		);
+	};
+}
