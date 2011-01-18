@@ -347,8 +347,8 @@ s87
 i"Mom.h"
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/Son.m
-c000000004D278CA00000000000000087
-t1294437536
+c000000004D2B78BF0000000000000087
+t1294694591
 s135
 i"Son.h"
 
@@ -377,37 +377,37 @@ s134
 i"XYPoint.h"
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Bucky.o
-t1294437613
-s7368
+t1294694591
+s7320
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/CodeProject1.LinkFileList
-c000000004D278CA0000000000000035D
-t1294437536
-s861
+c000000004D2B78BF00000000000002CD
+t1294694591
+s717
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Mom.o
-t1294437613
-s6824
+t1294694591
+s6776
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Rectangle.o
-t1294437569
-s12236
+t1294694591
+s12188
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Son.o
-t1294437613
-s7520
+t1294694591
+s7472
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/Square.o
-t1294437569
-s7580
+t1294694591
+s7532
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/CodeProject1.build/Debug/CodeProject1.build/Objects-normal/x86_64/XYPoint.o
-t1294437569
-s9532
+t1294694591
+s9484
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/CodeProject1/build/Debug/CodeProject1
-t1294437614
-s18896
+t1294694591
+s18608
 
 N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CodeProject1_Prefix-guhmgkanmyflkabnjnzaklxmrbcw/CodeProject1_Prefix.pch.gch
 t1294448380
