@@ -1,7 +1,7 @@
 TObjectiveCBookTutorial
 v7
 r0
-t317016255.082278
+t317017897.979229
 cCheck dependencies
 cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch ObjectiveCBookTutorial_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
@@ -18,8 +18,8 @@ t1279704390
 s5094
 
 N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Calculator.h
-c000000004D34EE28000000000000016B
-t1295314472
+c000000004D3517A9000000000000016B
+t1295325097
 s363
 i<Foundation/Foundation.h>
 
@@ -89,7 +89,7 @@ t1295316674
 s166
 
 N/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o
-t1295323455
+t1295325097
 s8352
 
 N/System/Library/Frameworks/Foundation.framework/Foundation
@@ -103,7 +103,7 @@ s41401104
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies317016254#317016254#0(0"0(0#1#0"8603963360#0"0#
+lSLF07#2@18"Check dependencies317017897#317017897#0(0"0(0#1#0"6083078245337752576#0"0#
 
 CCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Calculator.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Calculator.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s317009465.015085
@@ -146,8 +146,8 @@ o/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: cannot
 lSLF07#2@68"Compile /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414187#316414188#0(123"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m:8: warning: cannot find interface declaration for 'Fractions'1(22@49"Cannot find interface declaration for 'Fractions'316414188#0#123#0(6@60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m316414070#8#0#8#0#0"0(0#0#60"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m8600304256#1870"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-generated-files.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-project-headers.hmap -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/include -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch -c /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/Fractions.m -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/Fractions.o0#
 
 CCompileC build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s317016254.924250
-e317016255.061988
+s317017897.831168
+e317017897.959726
 r1
 xCompileC
 xbuild/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o
@@ -156,11 +156,11 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m317016254#317016255#0(0"0(0#0#73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m8590334144#1896"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-generated-files.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-project-headers.hmap -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/include -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch -c /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o0#
+lSLF07#2@81"Compile /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m317017897#317017897#0(0"0(0#0#73"/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m7019267317254411264#1896"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-generated-files.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/ObjectiveCBookTutorial-project-headers.hmap -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/include -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch -c /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/ObjectiveCBookTutorial.m -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.o0#
 
 CLd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial normal x86_64
-s317016255.062095
-e317016255.082234
+s317017897.959821
+e317017897.979179
 r0
 xLd
 x/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial
@@ -171,7 +171,7 @@ o  "_OBJC_CLASS_$_Calculator", referenced from:
 o      objc-class-ref-to-Calculator in ObjectiveCBookTutorial.o
 old: symbol(s) not found
 ocollect2: ld returned 1 exit status
-lSLF07#2@88"Link /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial317016255#317016255#0(189"Undefined symbols:  "_OBJC_CLASS_$_Calculator", referenced from:      objc-class-ref-to-Calculator in ObjectiveCBookTutorial.old: symbol(s) not foundcollect2: ld returned 1 exit status4(4@44""_OBJC_CLASS_$_Calculator", referenced from:317016255#19#47#0(6@0"317016255#0#0#0#0#0"0(13@56"Objc-class-ref-to-Calculator in ObjectiveCBookTutorial.o317016255#66#63#0(6@0"317016255#0#0#0#0#0"0(13@19"Symbol(s) not found317016255#129#24#0(6@0"317016255#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status317016255#153#36#0(6@0"317016255#0#0#0#0#0"0(0#0#0"8606887488#630"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -filelist /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial1#
+lSLF07#2@88"Link /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial317017897#317017897#0(189"Undefined symbols:  "_OBJC_CLASS_$_Calculator", referenced from:      objc-class-ref-to-Calculator in ObjectiveCBookTutorial.old: symbol(s) not foundcollect2: ld returned 1 exit status4(4@44""_OBJC_CLASS_$_Calculator", referenced from:317017897#19#47#0(6@0"317017897#0#0#0#0#0"0(13@56"Objc-class-ref-to-Calculator in ObjectiveCBookTutorial.o317017897#66#63#0(6@0"317017897#0#0#0#0#0"0(13@19"Symbol(s) not found317017897#129#24#0(6@0"317017897#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status317017897#153#36#0(6@0"317017897#0#0#0#0#0"0(0#0#0"8600207872#630"    cd /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -F/ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug -filelist /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/ObjectiveCBookTutorial.build/Debug/ObjectiveCBookTutorial.build/Objects-normal/x86_64/ObjectiveCBookTutorial.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /ObjectiveC-Tutorial-Code/ObjectiveCBookTutorial/build/Debug/ObjectiveCBookTutorial1#
 
 CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ObjectiveCBookTutorial_Prefix-eusflgajphcqnfhjzovhnfmlgnqz/ObjectiveCBookTutorial_Prefix.pch.gch ObjectiveCBookTutorial_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s316414070.553431
