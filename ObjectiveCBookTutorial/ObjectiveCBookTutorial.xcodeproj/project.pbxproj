@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8DD76F9A0486AA7600D96B5E /* ObjectiveCBookTutorial.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */; settings = {ATTRIBUTES = (); }; };
+		23ADAAE812E52E4100C1194C /* ObjectiveCBookTutorial.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */; };
 		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
 		8DD76F9F0486AA7600D96B5E /* ObjectiveCBookTutorial.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859EA3029092ED04C91782 /* ObjectiveCBookTutorial.1 */; };
 /* End PBXBuildFile section */
@@ -28,7 +28,11 @@
 /* Begin PBXFileReference section */
 		08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectiveCBookTutorial.m; sourceTree = "<group>"; };
 		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		23ADAAA612E521BC00C1194C /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		23ADAAA712E521BC00C1194C /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 		23E4206512DC14DB0051489E /* Fractions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fractions.h; sourceTree = "<group>"; };
+		23E4208E12DECE670051489E /* Car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Car.h; sourceTree = "<group>"; };
+		23E4208F12DECE670051489E /* Car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Car.m; sourceTree = "<group>"; };
 		32A70AAB03705E1F00C91783 /* ObjectiveCBookTutorial_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectiveCBookTutorial_Prefix.pch; sourceTree = "<group>"; };
 		8DD76FA10486AA7600D96B5E /* ObjectiveCBookTutorial */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ObjectiveCBookTutorial; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6859EA3029092ED04C91782 /* ObjectiveCBookTutorial.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = ObjectiveCBookTutorial.1; sourceTree = "<group>"; };
@@ -63,6 +67,10 @@
 				32A70AAB03705E1F00C91783 /* ObjectiveCBookTutorial_Prefix.pch */,
 				08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */,
 				23E4206512DC14DB0051489E /* Fractions.h */,
+				23E4208E12DECE670051489E /* Car.h */,
+				23E4208F12DECE670051489E /* Car.m */,
+				23ADAAA612E521BC00C1194C /* Calculator.h */,
+				23ADAAA712E521BC00C1194C /* Calculator.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -141,7 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8DD76F9A0486AA7600D96B5E /* ObjectiveCBookTutorial.m in Sources */,
+				23ADAAE812E52E4100C1194C /* ObjectiveCBookTutorial.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

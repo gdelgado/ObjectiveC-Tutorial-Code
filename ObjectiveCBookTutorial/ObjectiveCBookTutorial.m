@@ -1,25 +1,23 @@
 #import <Foundation/Foundation.h>
-#import "Fractions.h"
+#import "Calculator.h"
 
-int main (int argc, const char * argv[]) {
-    NSAutoreleasePool * pool = [[NSAutoreleasePool alloc] init];
-	Fraction *myFraction;
-
-    // Create an instance of a Fraction
+int main (int argc, const char * argv[])
+{
+    NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
+    Calculator *deskCalc;
+    
+    deskCalc = [[Calculator alloc] init];
+    
+    [deskCalc clear];
+    [deskCalc setAccumulator: 100.0];
+    [deskCalc add: 200.0];
+    [deskCalc divide: 15.0];
+    [deskCalc subtract: 10.0];
+    [deskCalc multiply: 5];
+    NSLog(@"The result is %g", [deskCalc accumulator]);
+    [deskCalc release];
 	
-	myFraction = [Fraction alloc];
-	myFraction = [myFraction init];
-	
-	//Set fraction 1/3
-	
-	[myFraction setNumerator: 1];
-	[myFraction setDenominator: 3];
-	
-	//Display the fraction using the print method
-	NSLog(@"The value of My Fraction is:");
-	[myFraction print];
-	[myFraction release];
- 
     [pool drain];
     return 0;
 }
+
