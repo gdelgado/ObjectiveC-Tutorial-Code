@@ -1,12 +1,12 @@
 #import <Foundation/Foundation.h>
 #import "Calculator.h"
+#import "Calculator.m"
 
 int main (int argc, const char * argv[])
 {
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
-    Calculator *deskCalc;
-    
-    deskCalc = [[Calculator alloc] init];
+    Calculator *deskCalc = [[Calculator alloc] init];
+   
     
     [deskCalc clear];
     [deskCalc setAccumulator: 100.0];
@@ -20,4 +20,3 @@ int main (int argc, const char * argv[])
     [pool drain];
     return 0;
 }
-

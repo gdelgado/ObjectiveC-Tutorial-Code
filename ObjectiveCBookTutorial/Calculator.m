@@ -1,7 +1,4 @@
 
-
-#import "Calculator.h"
-
 @implementation Calculator
 
 -(void) setAccumulator : (double) value{
