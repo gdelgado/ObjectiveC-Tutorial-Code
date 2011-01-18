@@ -10,7 +10,7 @@ int main (int argc, const char * argv[])
     
     [deskCalc clear];
     [deskCalc setAccumulator: 100.0];
-    [deskCalc add: 200.0];
+    [deskCalc add: 200.];
     [deskCalc divide: 15.0];
     [deskCalc subtract: 10.0];
     [deskCalc multiply: 5];
