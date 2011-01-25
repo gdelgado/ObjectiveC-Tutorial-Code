@@ -1,8 +1,7 @@
-#import <Foundation/Foundation.h>
-
 @interface Calculator : NSObject {
 	
 	double accumulator;
+	double memory;
 
 }
 
@@ -16,6 +15,14 @@
 -(void) subtract: (double) value;
 -(void) multiply: (double) value;
 -(void) divide: (double) value; 
+
+// Memory Capabilities
+
+-(double) memoryclear;
+-(double) memorystore;
+-(double) memoryRecall;
+-(double) memoryAdd;
+-(double) memorySubtract;
 
 @end
 

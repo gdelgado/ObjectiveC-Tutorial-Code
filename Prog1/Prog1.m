@@ -1,78 +1,66 @@
-// Implement a Calculator
-
 #import <Foundation/Foundation.h>
 
-@interface Calculator: NSObject
-{
-    double accumulator;
+@interface Rectangle: NSObject{
+
+	int height;
+	int width;
 }
-
-// accumulator methods
--(void)   setAccumulator: (double) value;
--(void)   clear;
--(double) accumulator;
-
-// arithmetic methods
--(void) add: (double) value;
--(void) substract: (double) value;
--(void) multiply: (double) value;
--(void) divide: (double) value;
+-(void) SetWidth: (int) w;
+-(void) SetHeight: (int) h;
+-(int) width;
+-(int) height;
+-(int) area;
+-(int) perimeter;
 
 @end
 
-@implementation Calculator
--(void)   setAccumulator: (double) value
-{
-    accumulator = value;
-}
+@implementation Rectangle
 
--(void)   clear
-{
-    accumulator = 0;
-}
+-(void) SetWidth: (int) w{
 
--(double) accumulator
-{
-    return accumulator;
+	width = w;
 }
+-(void) SetHeight: (int) h{
+    
+	height = h;
 
--(void) add: (double) value
-{
-    accumulator += value;
 }
+-(int) width{
+	return width;
+}
+-(int) height{
 
--(void) substract: (double) value
-{
-    accumulator -= value;
+	return height;
 }
+-(int) area{
+    
+	return (width*height);
+}
+-(int) perimeter{
 
--(void) multiply: (double) value
-{
-    accumulator *= value;
-}
-
--(void) divide: (double) value
-{
-    accumulator /= value;
-}
+	return (2*width + 2*height);
+ }
 
 @end
+
+
+
 
 int main (int argc, const char * argv[])
 {
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
-    Calculator *deskCalc;
-    
-    deskCalc = [[Calculator alloc] init];
-    
-    [deskCalc clear];
-    [deskCalc setAccumulator: 100.0];
-    [deskCalc add: 200.0];
-    [deskCalc divide: 15.0];
-    [deskCalc substract: 10.0];
-    [deskCalc multiply: 5];
-    NSLog(@"The result is %g", [deskCalc accumulator]);
-    [deskCalc release];
+	
+	int counter, n, n2;  
+    NSLog(@" n  -----   n2");  
+	
+    n = 0;  
+    n2 = 0;  
+	
+    for (counter = 1; counter <=10; ++counter){  
+        ++n;  
+        n2 = counter * counter;  
+        NSLog(@"%2i          %i", n, n2);  
+    } 
 	
     [pool drain];
     return 0;

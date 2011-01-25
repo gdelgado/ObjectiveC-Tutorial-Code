@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		23ADAAE812E52E4100C1194C /* ObjectiveCBookTutorial.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* ObjectiveCBookTutorial.m */; };
 		8DD76F9C0486AA7600D96B5E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 08FB779EFE84155DC02AAC07 /* Foundation.framework */; };
 		8DD76F9F0486AA7600D96B5E /* ObjectiveCBookTutorial.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = C6859EA3029092ED04C91782 /* ObjectiveCBookTutorial.1 */; };
 /* End PBXBuildFile section */
@@ -149,7 +148,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				23ADAAE812E52E4100C1194C /* ObjectiveCBookTutorial.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,93 @@
+TTemperatureDegreeConverter
+v7
+r0
+t317099172.079112
+cCheck dependencies
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureDegreeConverter_Prefix-emorscjvanmsupdgqrjiwsyjrifb/TemperatureDegreeConverter_Prefix.pch.gch TemperatureDegreeConverter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/Objects-normal/x86_64/TemperatureDegreeConverter.o /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m
+c000000004D36551F00000000000002EF
+t1295406367
+s751
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter_Prefix.pch
+c000000004D3644C000000000000000C2
+t1295402176
+s194
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/Debug/TemperatureDegreeConverter
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/Objects-normal/x86_64/TemperatureDegreeConverter.LinkFileList
+c000000004D36551F00000000000000B6
+t1295406367
+s182
+
+N/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/Objects-normal/x86_64/TemperatureDegreeConverter.o
+t2
+s0
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureDegreeConverter_Prefix-emorscjvanmsupdgqrjiwsyjrifb/TemperatureDegreeConverter_Prefix.pch.gch
+t1295406371
+s41401104
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317099167#317099168#0(0"0(0#1#0"8619524288#0"0#
+
+CCompileC build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/Objects-normal/x86_64/TemperatureDegreeConverter.o /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317099171.897012
+e317099172.079027
+r0
+xCompileC
+xbuild/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/Objects-normal/x86_64/TemperatureDegreeConverter.o
+x/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m: In function 'main':
+o/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: 'Converter' may not respond to '-alloc'
+o/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: (Messages without a matching method signature
+o/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: will be assumed to return 'id' and accept
+o/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: '...' as arguments.)
+o/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:39: error: invalid use of void expression
+o{standard input}:unknown:Undefined local symbol LC0
+o{standard input}:unknown:Undefined local symbol LC1
+lSLF07#2@89"Compile /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m317099171#317099172#0(860"/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m: In function 'main':/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: 'Converter' may not respond to '-alloc'/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: (Messages without a matching method signature/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: will be assumed to return 'id' and accept/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:34: warning: '...' as arguments.)/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m:39: error: invalid use of void expression{standard input}:unknown:Undefined local symbol LC0{standard input}:unknown:Undefined local symbol LC13(22@39"'Converter' may not respond to '-alloc'317099172#103#135#0(6@81"/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m317099167#34#0#34#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)317099172#238#141#0(6@81"/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m317099167#34#0#34#0#0"0(4@30"Invalid use of void expression317099172#632#124#0(6@81"/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m317099167#39#0#39#0#0"0(0#0#81"/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m8613370912#2028"    cd /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-generated-files.hmap -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-project-headers.hmap -F/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/Debug -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/Debug/include -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureDegreeConverter_Prefix-emorscjvanmsupdgqrjiwsyjrifb/TemperatureDegreeConverter_Prefix.pch -c /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter.m -o /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/Objects-normal/x86_64/TemperatureDegreeConverter.o1#
+
+CLd /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/Debug/TemperatureDegreeConverter normal x86_64
+r0
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureDegreeConverter_Prefix-emorscjvanmsupdgqrjiwsyjrifb/TemperatureDegreeConverter_Prefix.pch.gch TemperatureDegreeConverter_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317099168.010488
+e317099171.896582
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureDegreeConverter_Prefix-emorscjvanmsupdgqrjiwsyjrifb/TemperatureDegreeConverter_Prefix.pch.gch
+xTemperatureDegreeConverter_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Precompile TemperatureDegreeConverter_Prefix.pch317099168#317099171#0(0"0(0#0#90"/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter_Prefix.pch8621723040#1857"    cd /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-generated-files.hmap -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/TemperatureDegreeConverter-project-headers.hmap -F/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/Debug -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/Debug/include -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/build/TemperatureDegreeConverter.build/Debug/TemperatureDegreeConverter.build/DerivedSources -c /ObjectiveC-Tutorial-Code/TemperatureDegreeConverter/TemperatureDegreeConverter_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TemperatureDegreeConverter_Prefix-emorscjvanmsupdgqrjiwsyjrifb/TemperatureDegreeConverter_Prefix.pch.gch0#
+

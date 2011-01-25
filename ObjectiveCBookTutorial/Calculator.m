@@ -1,3 +1,5 @@
+#import <Foundation/Foundation.h>
+#import "Calculator.h"
 
 @implementation Calculator
 
@@ -22,6 +24,23 @@
 -(void) divide: (double) value{
 	accumulator /= value;
 } 
+-(double) memoryclear{
+	memory = 0;
+	return memory; 
+}
+-(double) memorystore{
+	return memory = accumulator;
+}
+-(double) memoryRecall{
+    return accumulator = memory;
+}
+-(double) memoryAdd{
+	return memory = (memory + accumulator);
+   
+}
+-(double) memorySubtract{
+   return memory = (memory - accumulator);
+}
 
 @end
 

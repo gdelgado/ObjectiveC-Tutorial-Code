@@ -1,11 +1,11 @@
 TProg1
 v7
 r0
-t317075321.614159
+t317454148.943421
 cCheck dependencies
-cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gbelobxpxgpykycbsyynottofotd/Prog1_Prefix.pch.gch Prog1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/Prog1.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-cLd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1" normal x86_64
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gkklghpxjgtjimaacbaizkowwvle/Prog1_Prefix.pch.gch Prog1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o /ObjectiveC-Tutorial-Code/Prog1/Prog1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1 normal x86_64
 
 N/Developer/SDKs/MacOSX10.6.sdk
 c000000004C5342BA00000000000000EE
@@ -42,6 +42,31 @@ N/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Pro
 t1295322662
 s13204
 
+N/ObjectiveC-Tutorial-Code/Prog1/Prog1.m
+c000000004D3BBFC4000000000000037D
+t1295761348
+s893
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/Prog1/Prog1_Prefix.pch
+c000000004D004AEE0000000000000098
+t1291864814
+s152
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1
+t1295761348
+s10712
+
+N/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.LinkFileList
+c000000004D36578B0000000000000062
+t1295406987
+s98
+
+N/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o
+t1295761348
+s11908
+
 N/System/Library/Frameworks/Foundation.framework/Foundation
 c000000004CD605D10000000000B3E910
 t1289094609
@@ -76,13 +101,17 @@ N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/Shared
 t1291865147
 s41401104
 
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gkklghpxjgtjimaacbaizkowwvle/Prog1_Prefix.pch.gch
+t1295406990
+s41401104
+
 N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gbelobxpxgpykycbsyynottofotd/Prog1_Prefix.pch.gch
 t1295382521
 s41401104
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies317075315#317075315#0(0"0(0#1#0"3343187568374212096#0"0#
+lSLF07#2@18"Check dependencies317454148#317454148#0(0"0(0#1#0"8611158144#0"0#
 
 CCompileC build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o "/ObjC Progs/Prog1/Prog1.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s317015461.803250
@@ -110,6 +139,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@71"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/Prog1.m317075321#317075321#0(0"0(0#0#63"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/Prog1.m8607116480#1621"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gbelobxpxgpykycbsyynottofotd/Prog1_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/Prog1.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o"0#
 
+CCompileC build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o /ObjectiveC-Tutorial-Code/Prog1/Prog1.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317454148.784122
+e317454148.923160
+r1
+xCompileC
+xbuild/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o
+x/ObjectiveC-Tutorial-Code/Prog1/Prog1.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /ObjectiveC-Tutorial-Code/Prog1/Prog1.m317454148#317454148#0(0"0(0#0#39"/ObjectiveC-Tutorial-Code/Prog1/Prog1.m8618066336#1335"    cd /ObjectiveC-Tutorial-Code/Prog1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-project-headers.hmap -F/ObjectiveC-Tutorial-Code/Prog1/build/Debug -I/ObjectiveC-Tutorial-Code/Prog1/build/Debug/include -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gkklghpxjgtjimaacbaizkowwvle/Prog1_Prefix.pch -c /ObjectiveC-Tutorial-Code/Prog1/Prog1.m -o /ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.o0#
+
 CLd "/ObjC Progs/Prog1/build/Debug/Prog1" normal x86_64
 s317015462.091033
 e317015462.110323
@@ -130,6 +172,16 @@ xnormal
 xx86_64
 lSLF07#2@78"Link /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1317075321#317075321#0(0"0(0#0#0"8606340160#607"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug" -filelist "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1"0#
 
+CLd /ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1 normal x86_64
+s317454148.923260
+e317454148.943371
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1
+xnormal
+xx86_64
+lSLF07#2@54"Link /ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog1317454148#317454148#0(0"0(0#0#0"8621637312#477"    cd /ObjectiveC-Tutorial-Code/Prog1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/ObjectiveC-Tutorial-Code/Prog1/build/Debug -F/ObjectiveC-Tutorial-Code/Prog1/build/Debug -filelist /ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Objects-normal/x86_64/Prog1.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /ObjectiveC-Tutorial-Code/Prog1/build/Debug/Prog10#
+
 CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-ftubjilhybqdggdrhhlksztevbxa/Prog1_Prefix.pch.gch Prog1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s313557944.852935
 e313557947.969962
@@ -142,6 +194,19 @@ xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@27"Precompile Prog1_Prefix.pch313557944#313557947#0(0"0(0#0#34"/ObjC Progs/Prog1/Prog1_Prefix.pch7378429254036449280#1128"    cd "/ObjC Progs/Prog1"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-generated-files.hmap" "-I/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-own-target-headers.hmap" "-I/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-all-target-headers.hmap" -iquote "/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-project-headers.hmap" "-F/ObjC Progs/Prog1/build/Debug" "-I/ObjC Progs/Prog1/build/Debug/include" "-I/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources/x86_64" "-I/ObjC Progs/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources" -c "/ObjC Progs/Prog1/Prog1_Prefix.pch" -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-ftubjilhybqdggdrhhlksztevbxa/Prog1_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gkklghpxjgtjimaacbaizkowwvle/Prog1_Prefix.pch.gch Prog1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s317099787.810896
+e317099790.923392
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gkklghpxjgtjimaacbaizkowwvle/Prog1_Prefix.pch.gch
+xProg1_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Prog1_Prefix.pch317099787#317099790#0(0"0(0#0#48"/ObjectiveC-Tutorial-Code/Prog1/Prog1_Prefix.pch8611280896#1248"    cd /ObjectiveC-Tutorial-Code/Prog1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/Prog1-project-headers.hmap -F/ObjectiveC-Tutorial-Code/Prog1/build/Debug -I/ObjectiveC-Tutorial-Code/Prog1/build/Debug/include -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/Prog1/build/Prog1.build/Debug/Prog1.build/DerivedSources -c /ObjectiveC-Tutorial-Code/Prog1/Prog1_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gkklghpxjgtjimaacbaizkowwvle/Prog1_Prefix.pch.gch0#
 
 CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Prog1_Prefix-gbelobxpxgpykycbsyynottofotd/Prog1_Prefix.pch.gch Prog1_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s317075315.091825

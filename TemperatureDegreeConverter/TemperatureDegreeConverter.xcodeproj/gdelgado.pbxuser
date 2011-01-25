@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 234757EF12E67C4000627515 /* TemperatureDegreeConverter */;
+		activeTarget = 8DD76F960486AA7600D96B5E /* TemperatureDegreeConverter */;
+		codeSenseManager = 234757FB12E67C4500627515 /* Code sense */;
+		executables = (
+			234757EF12E67C4000627515 /* TemperatureDegreeConverter */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 317099977;
+			PBXWorkspaceStateSaveDate = 317099977;
+		};
+		perUserProjectItems = {
+			2347584112E68D5F00627515 /* PBXTextBookmark */ = 2347584112E68D5F00627515 /* PBXTextBookmark */;
+			2347585E12E68F3B00627515 /* PBXTextBookmark */ = 2347585E12E68F3B00627515 /* PBXTextBookmark */;
+			2347588D12E691F800627515 /* PBXTextBookmark */ = 2347588D12E691F800627515 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 234757FA12E67C4500627515 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* TemperatureDegreeConverter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 247}}";
+			sepNavSelRange = "{261, 0}";
+			sepNavVisRange = "{0, 302}";
+		};
+	};
+	234757EF12E67C4000627515 /* TemperatureDegreeConverter */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = TemperatureDegreeConverter;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	234757FA12E67C4500627515 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	234757FB12E67C4500627515 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2347584112E68D5F00627515 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32A70AAB03705E1F00C91783 /* TemperatureDegreeConverter_Prefix.pch */;
+		name = "TemperatureDegreeConverter_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 194;
+		vrLoc = 0;
+	};
+	2347585E12E68F3B00627515 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* TemperatureDegreeConverter.m */;
+		name = "TemperatureDegreeConverter.m: 39";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 377;
+		vrLoc = 371;
+	};
+	2347588D12E691F800627515 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* TemperatureDegreeConverter.m */;
+		name = "TemperatureDegreeConverter.m: 12";
+		rLen = 0;
+		rLoc = 261;
+		rType = 0;
+		vrLen = 302;
+		vrLoc = 0;
+	};
+	32A70AAB03705E1F00C91783 /* TemperatureDegreeConverter_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {887, 245}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 194}";
+		};
+	};
+	8DD76F960486AA7600D96B5E /* TemperatureDegreeConverter */ = {
+		activeExec = 0;
+		executables = (
+			234757EF12E67C4000627515 /* TemperatureDegreeConverter */,
+		);
+	};
+}
