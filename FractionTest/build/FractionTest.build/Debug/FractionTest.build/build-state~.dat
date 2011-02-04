@@ -1,0 +1,177 @@
+TFractionTest
+v7
+r0
+t318144763.236869
+cCheck dependencies
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch.gch FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch.pth FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m
+cAnalyze /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004C5342BA00000000000000EE
+t1280524986
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C46BD4600000000000013E6
+t1279704390
+s5094
+
+N/ObjectiveC-Tutorial-Code/FractionTest/Fraction.h
+c000000004D46497700000000000001A6
+t1296451959
+s422
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m
+c000000004D4649770000000000000241
+t1296451959
+s577
+i"Fraction.h"
+
+N/ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m
+c000000004D46497700000000000000FF
+t1296451959
+s255
+i<Foundation/Foundation.h>
+i"Fraction.h"
+
+N/ObjectiveC-Tutorial-Code/FractionTest/FractionTest_Prefix.pch
+c000000004D4646DE00000000000000A6
+t1296451294
+s166
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/FractionTest
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.LinkFileList
+c000000004D46497700000000000000F8
+t1296451959
+s248
+
+N/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o
+t1296451963
+s6964
+
+N/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/StaticAnalyzer/normal/x86_64/Fraction.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/StaticAnalyzer/normal/x86_64/FractionTest.plist
+t1296451963
+s276
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CD605D10000000000B3E910
+t1289094609
+s11790608
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch.gch
+t1296451962
+s41401104
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch.pth
+t1296451960
+s6378636
+
+CAnalyze /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m
+s318144763.134786
+e318144763.236820
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:32:4: error: expected expression
+o           else 
+o           ^
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:37:1: error: expected external declaration
+o }
+o ^
+o2 errors generated.
+lSLF07#2@57"Analyze /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144763#318144763#0(232"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:32:4: error: expected expression           else            ^/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:37:1: error: expected external declaration } ^2 errors generated.1(25@46"Analyzer skipped this file due to parse errors318144763#18446744073709551615#0#2(25@19"expected expression318144763#18446744073709551615#0#0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#32#0#32#0#0"0(25@29"expected external declaration318144763#18446744073709551615#0#0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#37#0#37#0#0"0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#0#0#0#0#0"0(0#0#49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m8627866272#1612"    cd /ObjectiveC-Tutorial-Code/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/ObjectiveC-Tutorial-Code/FractionTest/build/Debug -I/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/include -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch --analyze /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m -o /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/StaticAnalyzer/normal/x86_64/Fraction.plist0#
+
+CAnalyze /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m
+s318144763.103180
+e318144763.236542
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m
+lSLF07#2@61"Analyze /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m318144763#318144763#0(0"0(0#0#53"/ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m8628273056#1620"    cd /ObjectiveC-Tutorial-Code/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/ObjectiveC-Tutorial-Code/FractionTest/build/Debug -I/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/include -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch --analyze /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m -o /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/StaticAnalyzer/normal/x86_64/FractionTest.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318144759#318144759#0(0"0(0#1#0"8628258976#0"0#
+
+CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318144762.987808
+e318144763.103077
+r0
+xCompileC
+xbuild/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o
+x/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m: In function '-[Fraction convertToNum]':
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:32: error: expected expression before 'else'
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:36: warning: control reaches end of non-void function
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m: At top level:
+o/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:37: error: expected identifier or '(' before '}' token
+lSLF07#2@57"Compile /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144762#318144763#0(460"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m: In function '-[Fraction convertToNum]':/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:32: error: expected expression before 'else'/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:36: warning: control reaches end of non-void function/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m: At top level:/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m:37: error: expected identifier or '(' before '}' token4(4@33"Expected expression before 'else'318144763#91#95#0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#32#0#32#0#19"expected * before *0(22@40"Control reaches end of non-void function318144763#186#104#0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#36#0#36#0#40"control reaches end of non-void function0(23@13"At top level:318144763#290#65#0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#0#0#0#0#0"0(4@43"Expected identifier or '(' before '}' token318144763#355#105#0(6@49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m318144759#37#0#37#0#19"expected * before *0(0#0#49"/ObjectiveC-Tutorial-Code/FractionTest/Fraction.m8615711232#1558"    cd /ObjectiveC-Tutorial-Code/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/ObjectiveC-Tutorial-Code/FractionTest/build/Debug -I/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/include -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch -c /ObjectiveC-Tutorial-Code/FractionTest/Fraction.m -o /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/Fraction.o1#
+
+CCompileC build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318144762.986141
+e318144763.134686
+r1
+xCompileC
+xbuild/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o
+x/ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m318144762#318144763#0(0"0(0#0#53"/ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m8625974304#1566"    cd /ObjectiveC-Tutorial-Code/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/ObjectiveC-Tutorial-Code/FractionTest/build/Debug -I/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/include -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch -c /ObjectiveC-Tutorial-Code/FractionTest/FractionTest.m -o /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/Objects-normal/x86_64/FractionTest.o0#
+
+CLd /ObjectiveC-Tutorial-Code/FractionTest/build/Debug/FractionTest normal x86_64
+r0
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch.gch FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s318144759.193178
+e318144762.985643
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch.gch
+xFractionTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile FractionTest_Prefix.pch318144759#318144762#0(0"0(0#0#62"/ObjectiveC-Tutorial-Code/FractionTest/FractionTest_Prefix.pch8626339456#1451"    cd /ObjectiveC-Tutorial-Code/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/ObjectiveC-Tutorial-Code/FractionTest/build/Debug -I/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/include -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -c /ObjectiveC-Tutorial-Code/FractionTest/FractionTest_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-asksjzmkgnvhkodgssviwwwnkcoa/FractionTest_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch.pth FractionTest_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s318144759.194282
+e318144760.612810
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch.pth
+xFractionTest_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@34"Precompile FractionTest_Prefix.pch318144759#318144760#0(0"0(0#0#62"/ObjectiveC-Tutorial-Code/FractionTest/FractionTest_Prefix.pch8626241216#1487"    cd /ObjectiveC-Tutorial-Code/FractionTest    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/FractionTest-project-headers.hmap -F/ObjectiveC-Tutorial-Code/FractionTest/build/Debug -I/ObjectiveC-Tutorial-Code/FractionTest/build/Debug/include -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FractionTest/build/FractionTest.build/Debug/FractionTest.build/DerivedSources -c /ObjectiveC-Tutorial-Code/FractionTest/FractionTest_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/FractionTest_Prefix-eltycrifumsqjiczyxlsxojlspsf/FractionTest_Prefix.pch.pth0#
+
