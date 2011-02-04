@@ -1,7 +1,7 @@
 TRectangleClass
 v7
 r0
-t318535438.314339
+t318535906.372705
 cCheck dependencies
 cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-gcvwunvrmedsmggivztwefhklduj/RectangleClass_Prefix.pch.gch RectangleClass_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
 cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-fxedlneublztdscmaywaclvrrtjd/RectangleClass_Prefix.pch.pth RectangleClass_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
@@ -54,8 +54,8 @@ s170
 i<Foundation/Foundation.h>
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.h
-c000000004D4C3F78000000000000011D
-t1296842616
+c000000004D4C4160000000000000011D
+t1296843104
 s285
 i<Foundation/Foundation.h>
 i"Rectangle.h"
@@ -67,7 +67,7 @@ s314
 i"Square.h"
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass
-t1296842638
+t1296843106
 s16072
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Rectangle.o
@@ -84,7 +84,7 @@ t1296842244
 s7820
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Square.o
-t1296842638
+t1296843105
 s7548
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/StaticAnalyzer/normal/x86_64/Rectangle.plist
@@ -96,7 +96,7 @@ t1296842244
 s276
 
 N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/StaticAnalyzer/normal/x86_64/Square.plist
-t1296842638
+t1296843104
 s276
 
 N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-fxedlneublztdscmaywaclvrrtjd/RectangleClass_Prefix.pch.pth
@@ -124,16 +124,16 @@ x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass
 lSLF07#2@89"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass.m318535044#318535044#0(0"0(0#0#81"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass.m8614563616#1972"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-fxedlneublztdscmaywaclvrrtjd/RectangleClass_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/StaticAnalyzer/normal/x86_64/RectangleClass.plist"0#
 
 CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m"
-s318535438.186413
-e318535438.275328
+s318535904.752336
+e318535904.990044
 r1
 xAnalyze
 x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m
-lSLF07#2@81"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m318535438#318535438#0(0"0(0#0#73"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m8620220960#1956"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-fxedlneublztdscmaywaclvrrtjd/RectangleClass_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/StaticAnalyzer/normal/x86_64/Square.plist"0#
+lSLF07#2@81"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m318535904#318535904#0(0"0(0#0#73"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m8620966208#1956"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-fxedlneublztdscmaywaclvrrtjd/RectangleClass_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/StaticAnalyzer/normal/x86_64/Square.plist"0#
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies318535437#318535438#0(0"0(0#1#0"8619637760#0"0#
+lSLF07#2@18"Check dependencies318535904#318535904#0(0"0(0#1#0"8613175360#0"0#
 
 CCompileC build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Rectangle.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Rectangle.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
 s318534623.070640
@@ -162,8 +162,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@89"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass.m318535042#318535044#0(0"0(0#0#81"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass.m8612962016#1918"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-gcvwunvrmedsmggivztwefhklduj/RectangleClass_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/RectangleClass.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/RectangleClass.o"0#
 
 CCompileC build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Square.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
-s318535437.970526
-e318535438.297330
+s318535904.750993
+e318535905.781141
 r1
 xCompileC
 xbuild/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Square.o
@@ -172,17 +172,17 @@ xnormal
 xx86_64
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@81"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m318535437#318535438#0(0"0(0#0#73"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m8612583104#1902"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-gcvwunvrmedsmggivztwefhklduj/RectangleClass_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Square.o"0#
+lSLF07#2@81"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m318535904#318535905#0(0"0(0#0#73"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m8621100320#1902"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/RectangleClass-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources/x86_64" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-gcvwunvrmedsmggivztwefhklduj/RectangleClass_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/Square.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/Square.o"0#
 
 CLd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass" normal x86_64
-s318535438.297442
-e318535438.314296
+s318535905.781260
+e318535906.372599
 r1
 xLd
 x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass
 xnormal
 xx86_64
-lSLF07#2@96"Link /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass318535438#318535438#0(0"0(0#0#0"8613299008#688"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" -filelist "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/RectangleClass.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass"0#
+lSLF07#2@96"Link /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass318535905#318535906#0(0"0(0#0#0"8620665504#688"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug" -filelist "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/RectangleClass.build/Debug/RectangleClass.build/Objects-normal/x86_64/RectangleClass.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/RectangleClass/build/Debug/RectangleClass"0#
 
 CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/RectangleClass_Prefix-fxedlneublztdscmaywaclvrrtjd/RectangleClass_Prefix.pch.pth RectangleClass_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
 s318533965.176865
