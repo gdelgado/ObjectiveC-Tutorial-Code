@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		23B2351012FDE83700430C6E /* XYPoint.m in Sources */ = {isa = PBXBuildFile; fileRef = 23B2350F12FDE83700430C6E /* XYPoint.m */; };
 		8A80D00212FC6C9500A9C867 /* Rectangle.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A80D00112FC6C9500A9C867 /* Rectangle.m */; };
 		8A80D06012FC75CA00A9C867 /* Square.m in Sources */ = {isa = PBXBuildFile; fileRef = 8A80D05F12FC75CA00A9C867 /* Square.m */; };
 		8DD76F9A0486AA7600D96B5E /* RectangleClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FB7796FE84155DC02AAC07 /* RectangleClass.m */; settings = {ATTRIBUTES = (); }; };
@@ -30,6 +31,8 @@
 /* Begin PBXFileReference section */
 		08FB7796FE84155DC02AAC07 /* RectangleClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RectangleClass.m; sourceTree = "<group>"; };
 		08FB779EFE84155DC02AAC07 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		23B2350E12FDE83700430C6E /* XYPoint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XYPoint.h; sourceTree = "<group>"; };
+		23B2350F12FDE83700430C6E /* XYPoint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XYPoint.m; sourceTree = "<group>"; };
 		32A70AAB03705E1F00C91783 /* RectangleClass_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RectangleClass_Prefix.pch; sourceTree = "<group>"; };
 		8A80D00012FC6C9500A9C867 /* Rectangle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Rectangle.h; sourceTree = "<group>"; };
 		8A80D00112FC6C9500A9C867 /* Rectangle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Rectangle.m; sourceTree = "<group>"; };
@@ -71,6 +74,8 @@
 				8A80D00112FC6C9500A9C867 /* Rectangle.m */,
 				8A80D05E12FC75CA00A9C867 /* Square.h */,
 				8A80D05F12FC75CA00A9C867 /* Square.m */,
+				23B2350E12FDE83700430C6E /* XYPoint.h */,
+				23B2350F12FDE83700430C6E /* XYPoint.m */,
 			);
 			name = Source;
 			sourceTree = "<group>";
@@ -152,6 +157,7 @@
 				8DD76F9A0486AA7600D96B5E /* RectangleClass.m in Sources */,
 				8A80D00212FC6C9500A9C867 /* Rectangle.m in Sources */,
 				8A80D06012FC75CA00A9C867 /* Square.m in Sources */,
+				23B2351012FDE83700430C6E /* XYPoint.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

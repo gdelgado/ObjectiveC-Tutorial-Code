@@ -8,6 +8,7 @@
 
 
 #import "Rectangle.h"
+#import "XYPoint.h"
 
 
 @implementation Rectangle
@@ -27,6 +28,15 @@
     return (width + height) * 2;
 
 }
+-(XYPoint *) origin{
+    return origin;
+
+}
+-(void) setOrigin: (XYPoint *) pt{
+    origin = pt;
+
+}
+
 @end
 
 
