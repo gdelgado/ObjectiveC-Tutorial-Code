@@ -1,0 +1,235 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		231C7CC2131032C400B48379 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 231C7CC1131032C400B48379 /* Foundation.framework */; };
+		231C7CC5131032C400B48379 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 231C7CC4131032C400B48379 /* main.m */; };
+		231C7CD0131032F200B48379 /* AddressCardClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 231C7CCF131032F200B48379 /* AddressCardClass.m */; };
+		231C7CD313103D4000B48379 /* AddressBook.m in Sources */ = {isa = PBXBuildFile; fileRef = 231C7CD213103D4000B48379 /* AddressBook.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		231C7CBB131032C400B48379 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		231C7CBD131032C400B48379 /* AddressCard */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AddressCard; sourceTree = BUILT_PRODUCTS_DIR; };
+		231C7CC1131032C400B48379 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		231C7CC4131032C400B48379 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		231C7CC7131032C400B48379 /* AddressCard-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AddressCard-Prefix.pch"; sourceTree = "<group>"; };
+		231C7CC8131032C400B48379 /* AddressCard.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = AddressCard.1; sourceTree = "<group>"; };
+		231C7CCE131032F200B48379 /* AddressCardClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressCardClass.h; sourceTree = "<group>"; };
+		231C7CCF131032F200B48379 /* AddressCardClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressCardClass.m; sourceTree = "<group>"; };
+		231C7CD113103D4000B48379 /* AddressBook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressBook.h; sourceTree = "<group>"; };
+		231C7CD213103D4000B48379 /* AddressBook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressBook.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		231C7CBA131032C400B48379 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				231C7CC2131032C400B48379 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		231C7CB2131032C400B48379 = {
+			isa = PBXGroup;
+			children = (
+				231C7CC3131032C400B48379 /* AddressCard */,
+				231C7CC0131032C400B48379 /* Frameworks */,
+				231C7CBE131032C400B48379 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		231C7CBE131032C400B48379 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				231C7CBD131032C400B48379 /* AddressCard */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		231C7CC0131032C400B48379 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				231C7CC1131032C400B48379 /* Foundation.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		231C7CC3131032C400B48379 /* AddressCard */ = {
+			isa = PBXGroup;
+			children = (
+				231C7CC4131032C400B48379 /* main.m */,
+				231C7CC8131032C400B48379 /* AddressCard.1 */,
+				231C7CC6131032C400B48379 /* Supporting Files */,
+				231C7CCE131032F200B48379 /* AddressCardClass.h */,
+				231C7CCF131032F200B48379 /* AddressCardClass.m */,
+				231C7CD113103D4000B48379 /* AddressBook.h */,
+				231C7CD213103D4000B48379 /* AddressBook.m */,
+			);
+			path = AddressCard;
+			sourceTree = "<group>";
+		};
+		231C7CC6131032C400B48379 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				231C7CC7131032C400B48379 /* AddressCard-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		231C7CBC131032C400B48379 /* AddressCard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 231C7CCB131032C400B48379 /* Build configuration list for PBXNativeTarget "AddressCard" */;
+			buildPhases = (
+				231C7CB9131032C400B48379 /* Sources */,
+				231C7CBA131032C400B48379 /* Frameworks */,
+				231C7CBB131032C400B48379 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AddressCard;
+			productName = AddressCard;
+			productReference = 231C7CBD131032C400B48379 /* AddressCard */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		231C7CB4131032C400B48379 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 231C7CB7131032C400B48379 /* Build configuration list for PBXProject "AddressCard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 231C7CB2131032C400B48379;
+			productRefGroup = 231C7CBE131032C400B48379 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				231C7CBC131032C400B48379 /* AddressCard */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		231C7CB9131032C400B48379 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				231C7CC5131032C400B48379 /* main.m in Sources */,
+				231C7CD0131032F200B48379 /* AddressCardClass.m in Sources */,
+				231C7CD313103D4000B48379 /* AddressBook.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		231C7CC9131032C400B48379 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		231C7CCA131032C400B48379 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		231C7CCC131032C400B48379 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AddressCard/AddressCard-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		231C7CCD131032C400B48379 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AddressCard/AddressCard-Prefix.pch";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		231C7CB7131032C400B48379 /* Build configuration list for PBXProject "AddressCard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				231C7CC9131032C400B48379 /* Debug */,
+				231C7CCA131032C400B48379 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		231C7CCB131032C400B48379 /* Build configuration list for PBXNativeTarget "AddressCard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				231C7CCC131032C400B48379 /* Debug */,
+				231C7CCD131032C400B48379 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 231C7CB4131032C400B48379 /* Project object */;
+}
