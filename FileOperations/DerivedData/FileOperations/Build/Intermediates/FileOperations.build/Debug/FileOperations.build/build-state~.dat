@@ -1,0 +1,151 @@
+TFileOperations
+v3
+r1
+cCheck dependencies
+cProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cAnalyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D4B07DB00000000000000EE
+t1296762843
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D4B07CE00000000000C7160
+t1296762830
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/FileOperations.LinkFileList
+c000000004D65030B00000000000000A5
+t1298465547
+s165
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/StaticAnalyzer/normal/x86_64/main.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch
+c000000004D65025000000000000000A9
+t1298465360
+s169
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+c000000004D65030B0000000000000159
+t1298465547
+s345
+i<Foundation/Foundation.h>
+
+CAnalyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+s320158348.244995
+e320158348.564086
+r0
+xAnalyze
+x/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: error: expected identifier or '(' [3]
+o     [pool drain];
+o     ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:6: error: missing '[' at start of message send expression [2]
+o     [pool drain];
+o      ^
+o      [
+ofix-it:"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m":{14:6-14:6}:"["
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:17: error: expected ']' [3]
+o     [pool drain];
+o                 ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: note: to match this '['
+o     [pool drain];
+o     ^
+o3 errors generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Analyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.medd23e8c3a15b341^0b9c988c3a15b341^-655"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: error: expected identifier or '(' [3]     [pool drain];     ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:6: error: missing '[' at start of message send expression [2]     [pool drain];      ^      [fix-it:"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m":{14:6-14:6}:"["/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:17: error: expected ']' [3]     [pool drain];                 ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: note: to match this '['     [pool drain];     ^3 errors generated.1(36%IDEActivityLogAnalyzerWarningMessage2@46"Analyzer skipped this file due to parse errors-320158348#18446744073709551615#0#3(2@26"expected identifier or '('-320158348#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning23%DVTTextDocumentLocation3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2@47"missing '[' at start of message send expression-320158348#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---2@12"expected ']'-320158348#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#18446744073709551615#13#18446744073709551615#18446744073709551615#0#---1#33"com.apple.dt.IDE.analyzer.warning3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^2356"Analyze FileOperations/main.m    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -include /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/StaticAnalyzer/normal/x86_64/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0ad83e8b3a15b341^950b558b3a15b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320158348.196319
+e320158348.356719
+r0
+xCompileC
+xDerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o
+x/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: error: expected identifier or '(' [3]
+o     [pool drain];
+o     ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:6: error: missing '[' at start of message send expression [2]
+o     [pool drain];
+o      ^
+o      [
+ofix-it:"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m":{14:6-14:6}:"["
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:17: error: expected ']' [3]
+o     [pool drain];
+o                 ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: note: to match this '['
+o     [pool drain];
+o     ^
+o3 errors generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.mf261328c3a15b341^a6475b8c3a15b341^-655"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: error: expected identifier or '(' [3]     [pool drain];     ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:6: error: missing '[' at start of message send expression [2]     [pool drain];      ^      [fix-it:"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m":{14:6-14:6}:"["/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:17: error: expected ']' [3]     [pool drain];                 ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:14:5: note: to match this '['     [pool drain];     ^3 errors generated.3(21%IDEActivityLogMessage2@26"Expected identifier or '('24"Expected identifier or '320158348#0#107#-2#-23%DVTTextDocumentLocation3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#4#13#4#18446744073709551615#0#11"Parse Issue--2@47"Missing '[' at start of message send expression-320158348#133#128#1(26%IDEActivityLogFixItMessage4@22"Fix-It: replace with [-320158348#296#88#-0#23"com.apple.dt.IDE.fix-it3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#5#13#5#18446744073709551615#0#---1"[2#-3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#5#13#5#18446744073709551615#0#14"Semantic Issue--2@12"Expected ']'-320158348#384#94#1(2@17"To match this '['-320158348#516#93#-0#-3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#4#13#4#18446744073709551615#0#---2#-3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^13#16#13#16#18446744073709551615#0#11"Parse Issue--0#0#0#-19%DVTDocumentLocation5@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^2386"CompileC DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o FileOperations/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -include /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch -c /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o
+
+CLd /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations normal x86_64
+r0
+
+CProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320158347.337479
+e320158348.195271
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth
+xFileOperations/FileOperations-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile FileOperations/FileOperations-Prefix.pch94a1568b3a15b341^cefd318c3a15b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch0000000000000000^2272"ProcessPCH DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -c /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s320158347.337658
+e320158348.244633
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth
+xFileOperations/FileOperations-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile FileOperations/FileOperations-Prefix.pchd387568b3a15b341^8ba73e8c3a15b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch0000000000000000^2419"ProcessPCH DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -c /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Index/PrecompiledHeaders/FileOperations-Prefix-bopvnbjemvuoywellxnvozzqaxxu_ast/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

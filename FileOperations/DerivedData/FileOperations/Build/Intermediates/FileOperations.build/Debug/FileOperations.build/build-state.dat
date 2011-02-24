@@ -1,0 +1,184 @@
+TFileOperations
+v3
+r1
+cCheck dependencies
+cProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D4B07DB00000000000000EE
+t1296762843
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h
+c000000004B90C8A50000000000003A75
+t1267779749
+s14965
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D4B07CE00000000000C7160
+t1296762830
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
+c000000004B90FBB80000000000000198
+t1267792824
+s408
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004B90FBB80000000000000EA7
+t1267792824
+s3751
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSEnumerator.h
+c000000004B90FBB800000000000003CA
+t1267792824
+s970
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h
+c000000004B90FBB80000000000007280
+t1267792824
+s29312
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004B90FBB90000000000000EDE
+t1267792825
+s3806
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSPathUtilities.h
+c000000004B90FBB90000000000001502
+t1267792825
+s5378
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004B90FBB90000000000005F75
+t1267792825
+s24437
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/FileOperations.LinkFileList
+c000000004D65030B00000000000000A5
+t1298465547
+s165
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o
+t1298518604
+s9152
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/StaticAnalyzer/normal/x86_64/main.plist
+t1298518604
+s276
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth
+t1298465547
+s8069248
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth
+t1298465548
+s8069836
+
+N/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations
+t1298518604
+s9540
+
+N/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch
+c000000004D65025000000000000000A9
+t1298465360
+s169
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+c000000004D65D24C00000000000007EE
+t1298518604
+s2030
+i<Foundation/NSObject.h>
+i<Foundation/NSString.h>
+i<Foundation/NSFileManager.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSDictionary.h>
+
+CAnalyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+s320211404.595746
+e320211404.812714
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Analyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.mbb9a98cc0916b341^aa0fd0cc0916b341^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^2356"Analyze FileOperations/main.m    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -include /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/StaticAnalyzer/normal/x86_64/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies0b0d0c050a16b341^952b10050a16b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320211404.595105
+e320211404.719488
+r1
+xCompileC
+xDerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o
+x/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:33:10: warning: 'copyPath:toPath:handler:' is deprecated [-Wdeprecated-declarations,6]
+o     if ([fm copyPath: fName toPath: @"newfile" handler: nil] == NO){
+o          ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:46:10: warning: 'movePath:toPath:handler:' is deprecated [-Wdeprecated-declarations,6]
+o     if ([fm movePath:@"newfile" toPath:@"newfile2" handler:nil] == NO){
+o          ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:53:18: warning: 'fileAttributesAtPath:traverseLink:' is deprecated [-Wdeprecated-declarations,6]
+o     if ((attr = [fm fileAttributesAtPath:@"newfile2" traverseLink:NO]) == nil){
+o                  ^
+o/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:61:10: warning: 'removeFileAtPath:handler:' is deprecated [-Wdeprecated-declarations,6]
+o     if ([fm removeFileAtPath:fName handler:nil] == NO){
+o          ^
+o4 warnings generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m587398cc0916b341^67d4b8cc0916b341^-970"/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:33:10: warning: 'copyPath:toPath:handler:' is deprecated [-Wdeprecated-declarations,6]     if ([fm copyPath: fName toPath: @"newfile" handler: nil] == NO){          ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:46:10: warning: 'movePath:toPath:handler:' is deprecated [-Wdeprecated-declarations,6]     if ([fm movePath:@"newfile" toPath:@"newfile2" handler:nil] == NO){          ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:53:18: warning: 'fileAttributesAtPath:traverseLink:' is deprecated [-Wdeprecated-declarations,6]     if ((attr = [fm fileAttributesAtPath:@"newfile2" traverseLink:NO]) == nil){                  ^/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m:61:10: warning: 'removeFileAtPath:handler:' is deprecated [-Wdeprecated-declarations,6]     if ([fm removeFileAtPath:fName handler:nil] == NO){          ^4 warnings generated.4(21%IDEActivityLogMessage2@40"'copyPath:toPath:handler:' is deprecated-320211404#0#150#-1#-23%DVTTextDocumentLocation3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^32#9#32#9#18446744073709551615#0#12"Deprecations--2@40"'movePath:toPath:handler:' is deprecated-320211404#232#150#-1#-3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^45#9#45#9#18446744073709551615#0#12"Deprecations--2@50"'fileAttributesAtPath:traverseLink:' is deprecated-320211404#467#160#-1#-3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^52#17#52#17#18446744073709551615#0#12"Deprecations--2@41"'removeFileAtPath:handler:' is deprecated-320211404#728#151#-1#-3@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^60#9#60#9#18446744073709551615#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@78"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m0000000000000000^2386"CompileC DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o FileOperations/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -include /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch -c /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/main.m -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/main.o
+
+CLd /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations normal x86_64
+s320211404.720816
+e320211404.750438
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations
+xnormal
+xx86_64
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Link /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations87a2b8cc0916b341^3929c0cc0916b341^---0#0#0#--785"Ld DerivedData/FileOperations/Build/Products/Debug/FileOperations normal x86_64    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -filelist /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/Objects-normal/x86_64/FileOperations.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/FileOperations
+
+CProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320158347.337479
+e320158348.195271
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth
+xFileOperations/FileOperations-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile FileOperations/FileOperations-Prefix.pch94a1568b3a15b341^cefd318c3a15b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch0000000000000000^2272"ProcessPCH DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -c /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-fownzljjokhwylemzbivhyakikrp/FileOperations-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s320158347.337658
+e320158348.244633
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth
+xFileOperations/FileOperations-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Precompile FileOperations/FileOperations-Prefix.pchd387568b3a15b341^8ba73e8c3a15b341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch0000000000000000^2419"ProcessPCH DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/FileOperations    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-generated-files.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/FileOperations-project-headers.hmap -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug/include -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources/x86_64 -I/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Intermediates/FileOperations.build/Debug/FileOperations.build/DerivedSources -F/ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/Products/Debug -c /ObjectiveC-Tutorial-Code/FileOperations/FileOperations/FileOperations-Prefix.pch -o /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Build/PrecompiledHeaders/FileOperations-Prefix-hctivykklcwsbedqrglbklwljaqp/FileOperations-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/FileOperations/DerivedData/FileOperations/Index/PrecompiledHeaders/FileOperations-Prefix-bopvnbjemvuoywellxnvozzqaxxu_ast/FileOperations-Prefix.pch.pth FileOperations/FileOperations-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
