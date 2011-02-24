@@ -1,0 +1,24 @@
+Contents of /ObjectiveC-Tutorial-Code/Program 16.6/Program 16/Program_16-Prefix.pch
+2.0 (tags/Apple/clang-134) (based on LLVM 2.9svn)
+-x
+objective-c
+-arch
+x86_64
+-fmessage-length=0
+-fdiagnostics-print-source-range-info
+-fdiagnostics-show-category=id
+-fdiagnostics-parseable-fixits
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Developer/SDKs/MacOSX10.6.sdk
+-fasm-blocks
+-mmacosx-version-min=10.6
+-gdwarf-2
+-fvisibility=hidden
+-iquote
+-iquote
+-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/include
+-F/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug

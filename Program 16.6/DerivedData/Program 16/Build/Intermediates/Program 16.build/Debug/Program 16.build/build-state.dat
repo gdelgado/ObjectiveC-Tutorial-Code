@@ -1,0 +1,134 @@
+TProgram 16
+v3
+r1
+cCheck dependencies
+cProcessPCH "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch.pth" "Program 16/Program_16-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/main.o" "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/Program 16" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D4B07DB00000000000000EE
+t1296762843
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D4B07CE00000000000C7160
+t1296762830
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/Program 16.LinkFileList
+c000000004D65EA530000000000000097
+t1298524755
+s151
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/main.o
+t1298526143
+s7828
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/StaticAnalyzer/normal/x86_64/main.plist
+t1298525632
+s276
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch.pth
+t1298524756
+s8069208
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-fsgmdpmheaxzjlgzeyvgmpdaonbp/Program_16-Prefix.pch.pth
+t1298524755
+s8069792
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/Program 16
+t1298526143
+s9488
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/Program_16-Prefix.pch
+c000000004D65EA2E00000000000000A1
+t1298524718
+s161
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m
+c000000004D65F02F00000000000006D6
+t1298526255
+s1750
+i<Foundation/Foundation.h>
+
+CAnalyze "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m"
+s320218431.885525
+e320218432.128767
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Analyze /ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m19c9e23f2516b341^7ff920402516b341^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/ObjectiveC-Tutorial-Code/Program%2016.6/Program%2016/main.m0000000000000000^2230"Analyze "Program 16/main.m"    cd "/ObjectiveC-Tutorial-Code/Program 16.6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/include" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources/x86_64" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug" -include "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-fsgmdpmheaxzjlgzeyvgmpdaonbp/Program_16-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m" -o "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/StaticAnalyzer/normal/x86_64/main.plist"
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4f7540af2716b341^185a41af2716b341^---0#1#0#--18"Check dependencies
+
+CCompileC "DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/main.o" "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320219055.259248
+e320219055.316973
+r1
+xCompileC
+xDerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/main.o
+x/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m:52:6: warning: 'removeFileAtPath:handler:' is deprecated [-Wdeprecated-declarations,6]
+o     [fm removeFileAtPath: dest handler: nil];
+o      ^
+o/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m:56:10: warning: 'copyPath:toPath:handler:' is deprecated [-Wdeprecated-declarations,6]
+o     if ([fm copyPath: source toPath:dest handler: nil] == NO)
+o          ^
+o2 warnings generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m207a42af2716b341^a75851af2716b341^-440"/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m:52:6: warning: 'removeFileAtPath:handler:' is deprecated [-Wdeprecated-declarations,6]     [fm removeFileAtPath: dest handler: nil];      ^/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m:56:10: warning: 'copyPath:toPath:handler:' is deprecated [-Wdeprecated-declarations,6]     if ([fm copyPath: source toPath:dest handler: nil] == NO)          ^2 warnings generated.2(21%IDEActivityLogMessage2@41"'removeFileAtPath:handler:' is deprecated-320219055#0#144#-1#-23%DVTTextDocumentLocation3@76"file://localhost/ObjectiveC-Tutorial-Code/Program%2016.6/Program%2016/main.m0000000000000000^51#5#51#5#18446744073709551615#0#12"Deprecations--2@40"'copyPath:toPath:handler:' is deprecated-320219055#199#144#-1#-3@76"file://localhost/ObjectiveC-Tutorial-Code/Program%2016.6/Program%2016/main.m0000000000000000^55#9#55#9#18446744073709551615#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@76"file://localhost/ObjectiveC-Tutorial-Code/Program%2016.6/Program%2016/main.m0000000000000000^2250"CompileC "DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/main.o" "Program 16/main.m" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/ObjectiveC-Tutorial-Code/Program 16.6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/include" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources/x86_64" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug" -include "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/main.m" -o "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/main.o"
+
+CLd "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/Program 16" normal x86_64
+s320219055.317307
+e320219055.344383
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/Program 16
+xnormal
+xx86_64
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Link /ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/Program 165d4e51af2716b341^302b58af2716b341^---0#0#0#--747"Ld "DerivedData/Program 16/Build/Products/Debug/Program 16" normal x86_64    cd "/ObjectiveC-Tutorial-Code/Program 16.6"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug" "-F/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug" -filelist "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Objects-normal/x86_64/Program 16.LinkFileList" -mmacosx-version-min=10.6 -framework Foundation -o "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/Program 16"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch.pth" "Program 16/Program_16-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s320217555.126944
+e320217556.252565
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch.pth
+xProgram 16/Program_16-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Program 16/Program_16-Prefix.pchf19d20d32116b341^0da740d42116b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/Program%2016.6/Program%2016/Program_16-Prefix.pch0000000000000000^2140"ProcessPCH "DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch.pth" "Program 16/Program_16-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/ObjectiveC-Tutorial-Code/Program 16.6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/include" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources/x86_64" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug" -c "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/Program_16-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-eutoqbtdndqfxzgcdvlkcvcfoltq/Program_16-Prefix.pch.pth"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-fsgmdpmheaxzjlgzeyvgmpdaonbp/Program_16-Prefix.pch.pth" "Program 16/Program_16-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s320217555.127933
+e320217556.100495
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-fsgmdpmheaxzjlgzeyvgmpdaonbp/Program_16-Prefix.pch.pth
+xProgram 16/Program_16-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Program 16/Program_16-Prefix.pch1edd20d32116b341^41b919d42116b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/Program%2016.6/Program%2016/Program_16-Prefix.pch0000000000000000^2287"ProcessPCH "DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-fsgmdpmheaxzjlgzeyvgmpdaonbp/Program_16-Prefix.pch.pth" "Program 16/Program_16-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd "/ObjectiveC-Tutorial-Code/Program 16.6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wshorten-64-to-32 -DDEBUG -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/Program 16-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug/include" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources/x86_64" "-I/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Intermediates/Program 16.build/Debug/Program 16.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/Products/Debug" -c "/ObjectiveC-Tutorial-Code/Program 16.6/Program 16/Program_16-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Build/PrecompiledHeaders/Program_16-Prefix-fsgmdpmheaxzjlgzeyvgmpdaonbp/Program_16-Prefix.pch.pth"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/Program 16.6/DerivedData/Program 16/Index/PrecompiledHeaders/Program_16-Prefix-gaooygaoxvnaaudtthxhubnwxxvv_ast/Program_16-Prefix.pch.pth" "Program 16/Program_16-Prefix.pch" normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
