@@ -11,7 +11,8 @@
 @implementation iPhone_1AppDelegate
 
 
-@synthesize window=_window;
+// @synthesize window=_window;
+@synthesize window,display;
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
@@ -58,10 +59,22 @@
      See also applicationDidEnterBackground:.
      */
 }
-
+- (void) applicationDidFinishLaunching:(UIApplication *)application
+{
+    // Override point for customization after application launch
+    [window makeKeyAndVisible];
+}
+-(IBAction) click1: (id) sender
+{
+    [display setText: @"1"];
+}
+-(IBAction) clickCLR: (id) sender
+{
+    [display setText: @""];
+}
 - (void)dealloc
 {
-    [_window release];
+    [window release];
     [super dealloc];
 }
 

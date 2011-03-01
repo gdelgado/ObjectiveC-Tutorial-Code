@@ -1,0 +1,281 @@
+TiPhone_1
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/Info.plist iPhone_1/iPhone_1-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch.gch iPhone_1/iPhone_1-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1AppDelegate.o /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1 normal i386
+cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1
+cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/InfoPlist.strings iPhone_1/en.lproj/InfoPlist.strings
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib
+cTouch /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1.LinkFileList
+c000000004D6C2D230000000000000145
+t1298935075
+s325
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1AppDelegate.o
+t1298937622
+s48956
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/main.o
+t1298935078
+s3084
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/StaticAnalyzer/normal/i386/iPhone_1AppDelegate.plist
+t1298936073
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/StaticAnalyzer/normal/i386/main.plist
+t1298935077
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch.pth
+t1298935077
+s3235532
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch.gch
+t1298935077
+s11992272
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app
+t1298937623
+s204
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM
+t1298937622
+s102
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/Info.plist
+t1298935075
+s779
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/PkgInfo
+t1298935075
+s8
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/InfoPlist.strings
+t1298935103
+s42
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/MainWindow.nib
+t1298937623
+s4056
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1
+t1298937622
+s16508
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/InfoPlist.strings
+c000000004D6C2B92000000000000002D
+t1298934674
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib
+c000000004D6C37110000000000003FB5
+t1298937617
+s16309
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1-Prefix.pch
+c000000004D6C2B920000000000000142
+t1298934674
+s322
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.h
+c000000004D6C371600000000000001E2
+t1298937622
+s482
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m
+c000000004D6C37160000000000000A04
+t1298937622
+s2564
+i"iPhone_1AppDelegate.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m
+c000000004D6C2B920000000000000168
+t1298934674
+s360
+i<UIKit/UIKit.h>
+
+NiPhone_1/iPhone_1-Info.plist
+c000000004D6C2B9200000000000004A1
+t1298934674
+s1185
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m
+s320628873.067645
+e320628873.162195
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Analyze /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.mf5651189681cb341^49852989681cb341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m0000000000000000^2538"Analyze iPhone_1/iPhone_1AppDelegate.m    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/StaticAnalyzer/normal/i386/iPhone_1AppDelegate.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m
+s320627877.693227
+e320627877.787696
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Analyze /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.mcd91b1a5641cb341^c9adc9a5641cb341^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m0000000000000000^2493"Analyze iPhone_1/main.m    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/StaticAnalyzer/normal/i386/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies62828279941cb341^cbda8279941cb341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1AppDelegate.o /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s320630422.783558
+e320630422.901132
+r1
+xCompileC
+xDerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1AppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.maab5c8966e1cb341^d9b0e6966e1cb341^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m0000000000000000^2461"CompileC DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1AppDelegate.o iPhone_1/iPhone_1AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1AppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1AppDelegate.o
+
+CCompileC DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s320627877.935051
+e320627878.147960
+r0
+xCompileC
+xDerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m118cefa5641cb341^02d927a6641cb341^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m0000000000000000^2401"CompileC DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/main.o iPhone_1/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/main.m -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib
+s320630422.959770
+e320630423.252372
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compiling /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib6ec2f5966e1cb341^959b40976e1cb341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib0000000000000000^669"CompileXIB iPhone_1/en.lproj/MainWindow.xib    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/MainWindow.nib /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/InfoPlist.strings iPhone_1/en.lproj/InfoPlist.strings
+s320627903.781535
+e320627903.785673
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/InfoPlist.strings
+xiPhone_1/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy iPhone_1/en.lproj/InfoPlist.strings4a29c8bf641cb341^632ac9bf641cb341^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/en.lproj/InfoPlist.strings0000000000000000^567"CopyStringsFile DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj/InfoPlist.strings iPhone_1/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/en.lproj -- iPhone_1/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1
+s320630422.937656
+e320630422.957920
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generating /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYMca1bf0966e1cb341^cd3cf5966e1cb341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM/0000000000000000^607"GenerateDSYMFile DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1 -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app.dSYM
+
+CLd /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1 normal i386
+s320630422.903092
+e320630422.937452
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1a54be7966e1cb341^15ffef966e1cb341^---0#0#0#--1110"Ld DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1 normal i386    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/Objects-normal/i386/iPhone_1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/iPhone_1
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/Info.plist iPhone_1/iPhone_1-Info.plist
+s320627875.687541
+e320627875.693412
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/Info.plist
+xiPhone_1/iPhone_1-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process iPhone_1/iPhone_1-Info.plistda1fb0a3641cb341^228ab1a3641cb341^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1-Info.plist0000000000000000^671"ProcessInfoPlistFile DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/Info.plist iPhone_1/iPhone_1-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iPhone_1/iPhone_1-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch.pth iPhone_1/iPhone_1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s320627875.700486
+e320627877.484902
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch.pth
+xiPhone_1/iPhone_1-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile iPhone_1/iPhone_1-Prefix.pch8b6cb3a3641cb341^25227ca5641cb341^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1-Prefix.pch0000000000000000^2534"ProcessPCH DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch.pth iPhone_1/iPhone_1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-ausvjewhtgsqoacvsxalykzyusew/iPhone_1-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch.gch iPhone_1/iPhone_1-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s320627875.699378
+e320627877.934442
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch.gch
+xiPhone_1/iPhone_1-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile iPhone_1/iPhone_1-Prefix.pch0839b3a3641cb341^f036efa5641cb341^---0#0#0#-19%DVTDocumentLocation2@79"file://localhost/ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1-Prefix.pch0000000000000000^2271"ProcessPCH DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch.gch iPhone_1/iPhone_1-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/iPhone_1-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Intermediates/iPhone_1.build/Debug-iphonesimulator/iPhone_1.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone_1/iPhone_1/iPhone_1-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/PrecompiledHeaders/iPhone_1-Prefix-bgeanzlaykfenvbqvoxbafvtpndq/iPhone_1-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Index/PrecompiledHeaders/iPhone_1-Prefix-gucmvccjirguuygdchowzgqdloph_ast/iPhone_1-Prefix.pch.pth iPhone_1/iPhone_1-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app
+s320630423.254483
+e320630423.264443
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.appfd3141976e1cb341^c8b343976e1cb341^---0#0#0#--378"Touch DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app    cd /ObjectiveC-Tutorial-Code/iPhone_1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone_1/DerivedData/iPhone_1/Build/Products/Debug-iphonesimulator/iPhone_1.app
+
