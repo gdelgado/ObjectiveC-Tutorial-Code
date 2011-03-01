@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "Calculator.h"
+#import "Fraction.h"
 
 @interface Fraction_CalculatorViewController : UIViewController {
     UILabel *display;
@@ -41,5 +42,6 @@
 -(IBAction) clickOver: (id) sender;
 -(IBAction) clickEquals: (id) sender;
 -(IBAction) clickClear: (id) sender;
+-(IBAction) clickConvert: (id) sender;
 
 @end

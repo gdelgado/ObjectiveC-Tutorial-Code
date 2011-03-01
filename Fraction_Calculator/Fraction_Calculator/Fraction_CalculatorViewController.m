@@ -35,6 +35,8 @@
     int digit = [sender tag];
     
     [self processDigit:digit];
+    
+   
 }
 
 - (void) processOp:(char)theOp
@@ -137,6 +139,18 @@
     
     [displayString setString: @""];
     [display setText: displayString];
+}
+-(IBAction) clickConvert: (id) sender
+{
+    
+    /*If  firstOperand and isNumerator are YES and currentNumber is 0, then the last action was clear or equals 
+     This is as much error checking I could do, without further modifiying the app*/  
+    
+    if(firstOperand && isNumerator && !currentNumber)  
+    {  
+        [displayString setString: [NSString stringWithFormat: @"%g", [myCalculator.accumulator convertToNum]]];  
+        [display setText: displayString]; 
+    }
 }
 - (void)dealloc
 {

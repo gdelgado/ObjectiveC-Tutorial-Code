@@ -24,6 +24,7 @@
 		23912351131C952A00428C9B /* Fraction_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 23912350131C952A00428C9B /* Fraction_CalculatorTests.m */; };
 		23912362131CA93C00428C9B /* Fraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 23912361131CA93C00428C9B /* Fraction.m */; };
 		23912365131CB13D00428C9B /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 23912364131CB13D00428C9B /* Calculator.m */; };
+		8A0B748B131D673600066777 /* Calculators.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A0B748A131D673600066777 /* Calculators.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,7 @@
 		23912361131CA93C00428C9B /* Fraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Fraction.m; path = ../Fraction.m; sourceTree = "<group>"; };
 		23912363131CB13D00428C9B /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Calculator.h; path = ../Calculator.h; sourceTree = "<group>"; };
 		23912364131CB13D00428C9B /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Calculator.m; path = ../Calculator.m; sourceTree = "<group>"; };
+		8A0B748A131D673600066777 /* Calculators.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Calculators.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		23912312131C952900428C9B = {
 			isa = PBXGroup;
 			children = (
+				8A0B748A131D673600066777 /* Calculators.png */,
 				23912327131C952900428C9B /* Fraction_Calculator */,
 				23912347131C952900428C9B /* Fraction_CalculatorTests */,
 				23912320131C952900428C9B /* Frameworks */,
@@ -235,6 +238,7 @@
 				2391232C131C952900428C9B /* InfoPlist.strings in Resources */,
 				23912335131C952900428C9B /* MainWindow.xib in Resources */,
 				2391233B131C952900428C9B /* Fraction_CalculatorViewController.xib in Resources */,
+				8A0B748B131D673600066777 /* Calculators.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +460,7 @@
 				23912356131C952A00428C9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		23912357131C952A00428C9B /* Build configuration list for PBXNativeTarget "Fraction_CalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +469,7 @@
 				23912359131C952A00428C9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
