@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Program 19-2' target in the 'Program 19-2' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
