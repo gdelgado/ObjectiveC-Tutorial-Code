@@ -22,6 +22,8 @@
 		2391234C131C952900428C9B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 2391234A131C952900428C9B /* InfoPlist.strings */; };
 		2391234F131C952900428C9B /* Fraction_CalculatorTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 2391234E131C952900428C9B /* Fraction_CalculatorTests.h */; };
 		23912351131C952A00428C9B /* Fraction_CalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 23912350131C952A00428C9B /* Fraction_CalculatorTests.m */; };
+		23912362131CA93C00428C9B /* Fraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 23912361131CA93C00428C9B /* Fraction.m */; };
+		23912365131CB13D00428C9B /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 23912364131CB13D00428C9B /* Calculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,22 +41,26 @@
 		23912321131C952900428C9B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		23912323131C952900428C9B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23912325131C952900428C9B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		23912329131C952900428C9B /* Fraction_Calculator-Info.plist */ = {isa = PBXFileReference; path = "Fraction_Calculator-Info.plist"; sourceTree = "<group>"; };
+		23912329131C952900428C9B /* Fraction_Calculator-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Fraction_Calculator-Info.plist"; sourceTree = "<group>"; };
 		2391232B131C952900428C9B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2391232D131C952900428C9B /* Fraction_Calculator-Prefix.pch */ = {isa = PBXFileReference; path = "Fraction_Calculator-Prefix.pch"; sourceTree = "<group>"; };
+		2391232D131C952900428C9B /* Fraction_Calculator-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fraction_Calculator-Prefix.pch"; sourceTree = "<group>"; };
 		2391232E131C952900428C9B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		23912330131C952900428C9B /* Fraction_CalculatorAppDelegate.h */ = {isa = PBXFileReference; path = Fraction_CalculatorAppDelegate.h; sourceTree = "<group>"; };
+		23912330131C952900428C9B /* Fraction_CalculatorAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fraction_CalculatorAppDelegate.h; sourceTree = "<group>"; };
 		23912331131C952900428C9B /* Fraction_CalculatorAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fraction_CalculatorAppDelegate.m; sourceTree = "<group>"; };
 		23912334131C952900428C9B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		23912336131C952900428C9B /* Fraction_CalculatorViewController.h */ = {isa = PBXFileReference; path = Fraction_CalculatorViewController.h; sourceTree = "<group>"; };
+		23912336131C952900428C9B /* Fraction_CalculatorViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fraction_CalculatorViewController.h; sourceTree = "<group>"; };
 		23912337131C952900428C9B /* Fraction_CalculatorViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fraction_CalculatorViewController.m; sourceTree = "<group>"; };
 		2391233A131C952900428C9B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/Fraction_CalculatorViewController.xib; sourceTree = "<group>"; };
 		23912341131C952900428C9B /* Fraction_CalculatorTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Fraction_CalculatorTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
-		23912349131C952900428C9B /* Fraction_CalculatorTests-Info.plist */ = {isa = PBXFileReference; path = "Fraction_CalculatorTests-Info.plist"; sourceTree = "<group>"; };
+		23912349131C952900428C9B /* Fraction_CalculatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Fraction_CalculatorTests-Info.plist"; sourceTree = "<group>"; };
 		2391234B131C952900428C9B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2391234D131C952900428C9B /* Fraction_CalculatorTests-Prefix.pch */ = {isa = PBXFileReference; path = "Fraction_CalculatorTests-Prefix.pch"; sourceTree = "<group>"; };
+		2391234D131C952900428C9B /* Fraction_CalculatorTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Fraction_CalculatorTests-Prefix.pch"; sourceTree = "<group>"; };
 		2391234E131C952900428C9B /* Fraction_CalculatorTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Fraction_CalculatorTests.h; sourceTree = "<group>"; };
 		23912350131C952A00428C9B /* Fraction_CalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Fraction_CalculatorTests.m; sourceTree = "<group>"; };
+		23912360131CA93C00428C9B /* Fraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Fraction.h; path = ../Fraction.h; sourceTree = "<group>"; };
+		23912361131CA93C00428C9B /* Fraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Fraction.m; path = ../Fraction.m; sourceTree = "<group>"; };
+		23912363131CB13D00428C9B /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Calculator.h; path = ../Calculator.h; sourceTree = "<group>"; };
+		23912364131CB13D00428C9B /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = Calculator.m; path = ../Calculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +119,10 @@
 		23912327131C952900428C9B /* Fraction_Calculator */ = {
 			isa = PBXGroup;
 			children = (
+				23912360131CA93C00428C9B /* Fraction.h */,
+				23912363131CB13D00428C9B /* Calculator.h */,
+				23912364131CB13D00428C9B /* Calculator.m */,
+				23912361131CA93C00428C9B /* Fraction.m */,
 				23912330131C952900428C9B /* Fraction_CalculatorAppDelegate.h */,
 				23912331131C952900428C9B /* Fraction_CalculatorAppDelegate.m */,
 				23912333131C952900428C9B /* MainWindow.xib */,
@@ -263,6 +273,8 @@
 				2391232F131C952900428C9B /* main.m in Sources */,
 				23912332131C952900428C9B /* Fraction_CalculatorAppDelegate.m in Sources */,
 				23912338131C952900428C9B /* Fraction_CalculatorViewController.m in Sources */,
+				23912362131CA93C00428C9B /* Fraction.m in Sources */,
+				23912365131CB13D00428C9B /* Calculator.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
