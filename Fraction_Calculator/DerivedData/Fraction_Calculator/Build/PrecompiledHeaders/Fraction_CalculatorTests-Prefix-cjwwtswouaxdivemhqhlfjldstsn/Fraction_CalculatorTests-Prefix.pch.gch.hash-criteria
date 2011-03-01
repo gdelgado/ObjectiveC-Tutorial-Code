@@ -1,0 +1,27 @@
+Contents of /ObjectiveC-Tutorial-Code/Fraction_Calculator/Fraction_CalculatorTests/Fraction_CalculatorTests-Prefix.pch
+4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2335.6)
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-pipe
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+-fexceptions
+-fasm-blocks
+-mmacosx-version-min=10.6
+-gdwarf-2
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-D__IPHONE_OS_VERSION_MIN_REQUIRED=40200
+-iquote
+-iquote
+-I/ObjectiveC-Tutorial-Code/Fraction_Calculator/DerivedData/Fraction_Calculator/Build/Products/Debug-iphonesimulator/include
+-F/ObjectiveC-Tutorial-Code/Fraction_Calculator/DerivedData/Fraction_Calculator/Build/Products/Debug-iphonesimulator
+-F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks
+-F/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/Developer/Library/Frameworks
