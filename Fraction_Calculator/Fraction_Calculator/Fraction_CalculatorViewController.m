@@ -8,6 +8,7 @@
 
 #import "Fraction_CalculatorViewController.h"
 
+
 @implementation Fraction_CalculatorViewController
 
 @synthesize display,displayString;
@@ -111,6 +112,7 @@
 - (IBAction) clickMultiply:(id)sender
 {
     [self processOp: '*'];
+
 }
 - (IBAction) clickDivide:(id)sender
 {
