@@ -1,0 +1,275 @@
+THello World
+v7
+r0
+t320850274.756356
+cCheck dependencies
+cProcessInfoPlistFile "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
+cCompileXIB "/iPhone4_Dev/Hello World/MainWindow.xib"
+cCompileXIB "/iPhone4_Dev/Hello World/Hello_WorldViewController.xib"
+cCpResource "build/Debug-iphonesimulator/Hello World.app/icon.png" icon.png
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/iPhone4_Dev/Hello World/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o" "/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
+cGenerateDSYMFile "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM" "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"
+cTouch "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app"
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.h
+c000000004D6EF76300000000000001FA
+t1299117923
+s506
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m
+c000000004D6EF7630000000000000AA2
+t1299117923
+s2722
+i"Hello_WorldAppDelegate.h"
+i"Hello_WorldViewController.h"
+
+N/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.h
+c000000004D6EF76300000000000000FD
+t1299117923
+s253
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m
+c000000004D6EF76300000000000005CC
+t1299117923
+s1484
+i"Hello_WorldViewController.h"
+
+N/iPhone4_Dev/Hello World/Hello_WorldViewController.xib
+c000000004D6EFBF9000000000000420A
+t1299119097
+s16906
+
+N/iPhone4_Dev/Hello World/Hello_World_Prefix.pch
+c000000004D6EF76300000000000000BF
+t1299117923
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Hello World/MainWindow.xib
+c000000004D6EF7630000000000004E59
+t1299117923
+s20057
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app
+t1299157474
+s272
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM
+t1299119119
+s102
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+t1299119119
+s17192
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello_WorldViewController.nib
+t1299119111
+s2042
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
+t1299157474
+s602
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/MainWindow.nib
+t1299119111
+s1689
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/PkgInfo
+t1299157474
+s8
+
+N/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/icon.png
+t1299157249
+s4656
+
+N/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList
+c000000004D6EFC030000000000000183
+t1299119107
+s387
+
+N/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
+t1299119117
+s48016
+
+N/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o
+t1299119117
+s34536
+
+N/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
+t1299119117
+s6292
+
+N/iPhone4_Dev/Hello World/icon.png
+c0000000049D34EF00000000000001230
+t1238585072
+s4656
+
+N/iPhone4_Dev/Hello World/main.m
+c000000004D6EF7630000000000000170
+t1299117923
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch.gch
+t1299119116
+s15207440
+
+NHello_World-Info.plist
+c000000004D6F91E20000000000000388
+t1299157474
+s904
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320850274#320850274#0(0"0(0#1#0"8604295424#0"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o" "/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320811917.357281
+e320811917.974734
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o
+x/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m320811917#320811917#0(0"0(0#0#57"/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m8606915776#1922"    cd "/iPhone4_Dev/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/iPhone4_Dev/Hello World/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch -c "/iPhone4_Dev/Hello World/Classes/Hello_WorldAppDelegate.m" -o "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldAppDelegate.o"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o" "/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320811917.903750
+e320811917.982063
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o
+x/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m320811917#320811917#0(0"0(0#0#60"/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m8603624736#1928"    cd "/iPhone4_Dev/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/iPhone4_Dev/Hello World/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch -c "/iPhone4_Dev/Hello World/Classes/Hello_WorldViewController.m" -o "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello_WorldViewController.o"0#
+
+CCompileC "build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o" "/iPhone4_Dev/Hello World/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s320811917.354452
+e320811917.903644
+r1
+xCompileC
+xbuild/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o
+x/iPhone4_Dev/Hello World/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Compile /iPhone4_Dev/Hello World/main.m320811917#320811917#0(0"0(0#0#31"/iPhone4_Dev/Hello World/main.m8603995616#1878"    cd "/iPhone4_Dev/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/iPhone4_Dev/Hello World/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch -c "/iPhone4_Dev/Hello World/main.m" -o "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/iPhone4_Dev/Hello World/Hello_WorldViewController.xib"
+s320811907.646975
+e320811911.314048
+r1
+xCompileXIB
+x/iPhone4_Dev/Hello World/Hello_WorldViewController.xib
+lSLF07#2@40"CompileXIB Hello_WorldViewController.xib320811907#320811911#0(0"0(0#0#54"/iPhone4_Dev/Hello World/Hello_WorldViewController.xib8606868128#584"    cd "/iPhone4_Dev/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello_WorldViewController.nib" "/iPhone4_Dev/Hello World/Hello_WorldViewController.xib" --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/iPhone4_Dev/Hello World/MainWindow.xib"
+s320811907.645933
+e320811911.313706
+r1
+xCompileXIB
+x/iPhone4_Dev/Hello World/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320811907#320811911#0(0"0(0#0#39"/iPhone4_Dev/Hello World/MainWindow.xib8602994144#554"    cd "/iPhone4_Dev/Hello World"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/MainWindow.nib" "/iPhone4_Dev/Hello World/MainWindow.xib" --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Hello World.app/icon.png" icon.png
+s320850049.006240
+e320850049.095484
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Hello World.app/icon.png
+xicon.png
+lSLF07#2@13"Copy icon.png320850049#320850049#0(0"0(0#0#33"/iPhone4_Dev/Hello World/icon.png8610051968#432"    cd "/iPhone4_Dev/Hello World"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/iPhone4_Dev/Hello World/icon.png" "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app"0#
+
+CGenerateDSYMFile "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM" "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"
+s320811919.369917
+e320811919.554986
+r1
+xGenerateDSYMFile
+x/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM
+x/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Hello World.app.dSYM" "build/Debug-iphonesimulator/Hello World.app/Hello World"320811919#320811919#0(0"0(0#0#80"/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World8603416256#371"    cd "/iPhone4_Dev/Hello World"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/dsymutil "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" -o "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app.dSYM"0#
+
+CLd "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World" normal i386
+s320811917.982163
+e320811919.369758
+r1
+xLd
+x/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World
+xnormal
+xi386
+lSLF07#2@85"Link /iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World320811917#320811919#0(0"0(0#0#0"8604382176#876"    cd "/iPhone4_Dev/Hello World"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/iPhone4_Dev/Hello World/build/Debug-iphonesimulator" "-F/iPhone4_Dev/Hello World/build/Debug-iphonesimulator" -filelist "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Objects-normal/i386/Hello World.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Hello World"0#
+
+CProcessInfoPlistFile "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist" Hello_World-Info.plist
+s320850274.733674
+e320850274.749341
+r1
+xProcessInfoPlistFile
+x/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist
+xHello_World-Info.plist
+lSLF07#2@30"Process Hello_World-Info.plist320850274#320850274#0(0"0(0#0#47"/iPhone4_Dev/Hello World/Hello_World-Info.plist8611873632#463"    cd "/iPhone4_Dev/Hello World"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hello_World-Info.plist -genpkginfo "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app/Info.plist"0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch.gch Hello_World_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320811911.314287
+e320811917.354111
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch.gch
+xHello_World_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Hello_World_Prefix.pch320811911#320811917#0(0"0(0#0#47"/iPhone4_Dev/Hello World/Hello_World_Prefix.pch8603758144#1778"    cd "/iPhone4_Dev/Hello World"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-generated-files.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-own-target-headers.hmap" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-all-target-headers.hmap" -iquote "/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/Hello World-project-headers.hmap" "-F/iPhone4_Dev/Hello World/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources/i386" "-I/iPhone4_Dev/Hello World/build/Hello World.build/Debug-iphonesimulator/Hello World.build/DerivedSources" -c "/iPhone4_Dev/Hello World/Hello_World_Prefix.pch" -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hello_World_Prefix-dxdqcdxkwtpksfdlyknrrvzeayvr/Hello_World_Prefix.pch.gch0#
+
+CTouch "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app"
+s320850274.750180
+e320850274.756316
+r1
+xTouch
+x/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app
+lSLF07#2@74"Touch /iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app320850274#320850274#0(0"0(0#0#0"8611947488#266"    cd "/iPhone4_Dev/Hello World"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/iPhone4_Dev/Hello World/build/Debug-iphonesimulator/Hello World.app"0#
+

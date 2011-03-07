@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Hello World */ = {
+		activeExec = 0;
+		executables = (
+			23AD7B7D131F2EE30054D430 /* Hello World */,
+		);
+	};
+	23AD7B7D131F2EE30054D430 /* Hello World */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Hello World";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23AD7B87131F2F220054D430 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23AD7B88131F2F220054D430 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23AD7B941320AAD00054D430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* Hello_WorldViewController.h */;
+		name = "Hello_WorldViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	23AD7B951320AAD00054D430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* Hello_WorldViewController.m */;
+		name = "Hello_WorldViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 568;
+		vrLoc = 0;
+	};
+	23AD7B961320AAD00054D430 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Hello_World-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/iPhone4_Dev/Hello World/Hello_World-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	23AD7B971320AAD00054D430 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Hello_World-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/iPhone4_Dev/Hello World/Hello_World-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	28D7ACF60DDB3853001CB0EB /* Hello_WorldViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {572, 299}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 253}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* Hello_WorldViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 845}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 568}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23AD7B7D131F2EE30054D430 /* Hello World */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Hello World */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Hello World */,
+		);
+		codeSenseManager = 23AD7B88131F2F220054D430 /* Code sense */;
+		executables = (
+			23AD7B7D131F2EE30054D430 /* Hello World */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					394,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320810723;
+			PBXWorkspaceStateSaveDate = 320810723;
+		};
+		perUserProjectItems = {
+			23AD7B941320AAD00054D430 /* PBXTextBookmark */ = 23AD7B941320AAD00054D430 /* PBXTextBookmark */;
+			23AD7B951320AAD00054D430 /* PBXTextBookmark */ = 23AD7B951320AAD00054D430 /* PBXTextBookmark */;
+			23AD7B961320AAD00054D430 /* PlistBookmark */ = 23AD7B961320AAD00054D430 /* PlistBookmark */;
+			23AD7B971320AAD00054D430 /* PlistBookmark */ = 23AD7B971320AAD00054D430 /* PlistBookmark */;
+		};
+		sourceControlManager = 23AD7B87131F2F220054D430 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

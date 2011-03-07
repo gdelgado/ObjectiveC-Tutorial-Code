@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Swap */ = {
+		activeExec = 0;
+		executables = (
+			23AD7D431324A29A0054D430 /* Swap */,
+		);
+	};
+	23AD7D431324A29A0054D430 /* Swap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Swap;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	23AD7D471324A2B80054D430 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	23AD7D481324A2B80054D430 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	23AD7D511324A6BE0054D430 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Method definition for '-buttonPressed:' not found";
+		fRef = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 125;
+		rType = 1;
+	};
+	23AD7D521324A6BE0054D430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		name = "SwapViewController.m: 68";
+		rLen = 0;
+		rLoc = 3499;
+		rType = 0;
+		vrLen = 221;
+		vrLoc = 1348;
+	};
+	23AD7D5D1324B0B30054D430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SwapViewController.h */;
+		name = "SwapViewController.h: 30";
+		rLen = 38;
+		rLoc = 656;
+		rType = 0;
+		vrLen = 412;
+		vrLoc = 291;
+	};
+	23AD7D5E1324B0B30054D430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		name = "SwapViewController.m: 46";
+		rLen = 0;
+		rLoc = 1622;
+		rType = 0;
+		vrLen = 657;
+		vrLoc = 970;
+	};
+	23AD7D5F1324B0B30054D430 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SwapViewController.m */;
+		name = "SwapViewController.m: 127";
+		rLen = 0;
+		rLoc = 3504;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 2334;
+	};
+	28D7ACF60DDB3853001CB0EB /* SwapViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 442}}";
+			sepNavSelRange = "{656, 38}";
+			sepNavVisRange = "{291, 412}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SwapViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 1703}}";
+			sepNavSelRange = "{3504, 0}";
+			sepNavVisRange = "{2334, 459}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 23AD7D431324A29A0054D430 /* Swap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Swap */;
+		codeSenseManager = 23AD7D481324A2B80054D430 /* Code sense */;
+		executables = (
+			23AD7D431324A29A0054D430 /* Swap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321168026;
+			PBXWorkspaceStateSaveDate = 321168026;
+		};
+		perUserProjectItems = {
+			23AD7D511324A6BE0054D430 /* XCBuildMessageTextBookmark */ = 23AD7D511324A6BE0054D430 /* XCBuildMessageTextBookmark */;
+			23AD7D521324A6BE0054D430 /* PBXTextBookmark */ = 23AD7D521324A6BE0054D430 /* PBXTextBookmark */;
+			23AD7D5D1324B0B30054D430 /* PBXTextBookmark */ = 23AD7D5D1324B0B30054D430 /* PBXTextBookmark */;
+			23AD7D5E1324B0B30054D430 /* PBXTextBookmark */ = 23AD7D5E1324B0B30054D430 /* PBXTextBookmark */;
+			23AD7D5F1324B0B30054D430 /* PBXTextBookmark */ = 23AD7D5F1324B0B30054D430 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 23AD7D471324A2B80054D430 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

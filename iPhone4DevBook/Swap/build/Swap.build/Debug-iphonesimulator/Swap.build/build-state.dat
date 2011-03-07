@@ -1,0 +1,387 @@
+TSwap
+v7
+r0
+t321171669.757768
+cCheck dependencies
+cProcessInfoPlistFile /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist Swap-Info.plist
+cCompileXIB /iPhone4_Dev/Swap/MainWindow.xib
+cCompileXIB /iPhone4_Dev/Swap/SwapViewController.xib
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch.gch Swap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o /iPhone4_Dev/Swap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o /iPhone4_Dev/Swap/Classes/SwapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap normal i386
+cGenerateDSYMFile /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app.dSYM /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+cTouch /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/iPhone4_Dev/Swap/Classes/SwapAppDelegate.h
+c000000004D746B1A00000000000001D0
+t1299475226
+s464
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Swap/Classes/SwapAppDelegate.m
+c000000004D746B1A0000000000000A7F
+t1299475226
+s2687
+i"SwapAppDelegate.h"
+i"SwapViewController.h"
+
+N/iPhone4_Dev/Swap/Classes/SwapViewController.h
+c000000004D746F2F00000000000002BF
+t1299476271
+s703
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Swap/Classes/SwapViewController.m
+c000000004D7479310000000000000DB0
+t1299478833
+s3504
+i"SwapViewController.h"
+
+N/iPhone4_Dev/Swap/MainWindow.xib
+c000000004D746B1A0000000000004E05
+t1299475226
+s19973
+
+N/iPhone4_Dev/Swap/SwapViewController.xib
+c000000004D7473C700000000000072FC
+t1299477447
+s29436
+
+N/iPhone4_Dev/Swap/Swap_Prefix.pch
+c000000004D746B1A00000000000000B1
+t1299475226
+s177
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app
+t1299478834
+s238
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app.dSYM
+t1299478834
+s102
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist
+t1299476239
+s579
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/MainWindow.nib
+t1299476240
+s1675
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/PkgInfo
+t1299476239
+s8
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+t1299478834
+s24204
+
+N/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/SwapViewController.nib
+t1299478834
+s4093
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/Swap.LinkFileList
+c000000004D746F0F0000000000000136
+t1299476239
+s310
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o
+t1299476271
+s47792
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o
+t1299478834
+s48976
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o
+t1299476243
+s6276
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/StaticAnalyzer/normal/i386/SwapAppDelegate.plist
+t2
+s0
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/StaticAnalyzer/normal/i386/SwapViewController.plist
+t2
+s0
+
+N/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/iPhone4_Dev/Swap/main.m
+c000000004D746B1A0000000000000169
+t1299475226
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch.gch
+t1299476242
+s15207440
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch.pth
+t2
+s0
+
+NSwap-Info.plist
+c000000004D746B1A000000000000038D
+t1299475226
+s909
+
+CAnalyze /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m
+s321169071.524653
+e321169071.653397
+r1
+xAnalyze
+x/iPhone4_Dev/Swap/Classes/SwapAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@51"Analyze /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m321169071#321169071#0(442"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321169071#18446744073709551615#0#1(25@171"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found321169071#18446744073709551615#0#0(6@14"<command line>321169071#1#0#1#0#0"0(6@14"<command line>321169071#0#0#0#0#0"0(0#0#43"/iPhone4_Dev/Swap/Classes/SwapAppDelegate.m8632918208#1624"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch --analyze /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m -o /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/StaticAnalyzer/normal/i386/SwapAppDelegate.plist0#
+
+CAnalyze /iPhone4_Dev/Swap/Classes/SwapViewController.m
+s321169071.645571
+e321169071.783239
+r1
+xAnalyze
+x/iPhone4_Dev/Swap/Classes/SwapViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@54"Analyze /iPhone4_Dev/Swap/Classes/SwapViewController.m321169071#321169071#0(442"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321169071#18446744073709551615#0#1(25@171"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found321169071#18446744073709551615#0#0(6@14"<command line>321169071#1#0#1#0#0"0(6@14"<command line>321169071#0#0#0#0#0"0(0#0#46"/iPhone4_Dev/Swap/Classes/SwapViewController.m8631306784#1630"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch --analyze /iPhone4_Dev/Swap/Classes/SwapViewController.m -o /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/StaticAnalyzer/normal/i386/SwapViewController.plist0#
+
+CAnalyze /iPhone4_Dev/Swap/main.m
+s321169071.381469
+e321169071.524559
+r1
+xAnalyze
+x/iPhone4_Dev/Swap/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@32"Analyze /iPhone4_Dev/Swap/main.m321169071#321169071#0(442"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321169071#18446744073709551615#0#1(25@171"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch' file not found321169071#18446744073709551615#0#0(6@14"<command line>321169071#1#0#1#0#0"0(6@14"<command line>321169071#0#0#0#0#0"0(0#0#24"/iPhone4_Dev/Swap/main.m8636314592#1594"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch --analyze /iPhone4_Dev/Swap/main.m -o /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321171669#321171669#0(0"0(0#1#0"8635336544#0"0#
+
+CCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321169071.280414
+e321169071.383586
+r1
+xCompileC
+xbuild/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o
+x/iPhone4_Dev/Swap/Classes/SwapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m321169071#321169071#0(0"0(0#0#43"/iPhone4_Dev/Swap/Classes/SwapAppDelegate.m8631967520#1669"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch -c /iPhone4_Dev/Swap/Classes/SwapAppDelegate.m -o /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapAppDelegate.o0#
+
+CCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o /iPhone4_Dev/Swap/Classes/SwapViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321171634.477414
+e321171634.589838
+r1
+xCompileC
+xbuild/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o
+x/iPhone4_Dev/Swap/Classes/SwapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /iPhone4_Dev/Swap/Classes/SwapViewController.m321171634#321171634#0(0"0(0#0#46"/iPhone4_Dev/Swap/Classes/SwapViewController.m8632515488#1675"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch -c /iPhone4_Dev/Swap/Classes/SwapViewController.m -o /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/SwapViewController.o0#
+
+CCompileC build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o /iPhone4_Dev/Swap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321169042.873254
+e321169043.017696
+r1
+xCompileC
+xbuild/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o
+x/iPhone4_Dev/Swap/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Compile /iPhone4_Dev/Swap/main.m321169042#321169043#0(0"0(0#0#24"/iPhone4_Dev/Swap/main.m8634678400#1639"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch -c /iPhone4_Dev/Swap/main.m -o /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPhone4_Dev/Swap/MainWindow.xib
+s321169039.652579
+e321169040.386899
+r1
+xCompileXIB
+x/iPhone4_Dev/Swap/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321169039#321169040#0(0"0(0#0#32"/iPhone4_Dev/Swap/MainWindow.xib8636215520#520"    cd /iPhone4_Dev/Swap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/MainWindow.nib /iPhone4_Dev/Swap/MainWindow.xib --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /iPhone4_Dev/Swap/SwapViewController.xib
+s321171633.965554
+e321171634.477029
+r1
+xCompileXIB
+x/iPhone4_Dev/Swap/SwapViewController.xib
+lSLF07#2@33"CompileXIB SwapViewController.xib321171633#321171634#0(0"0(0#0#40"/iPhone4_Dev/Swap/SwapViewController.xib8631062304#536"    cd /iPhone4_Dev/Swap    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/SwapViewController.nib /iPhone4_Dev/Swap/SwapViewController.xib --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app.dSYM /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+s321171634.740531
+e321171634.787385
+r1
+xGenerateDSYMFile
+x/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app.dSYM
+x/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+lSLF07#2@100"GenerateDSYMFile build/Debug-iphonesimulator/Swap.app.dSYM build/Debug-iphonesimulator/Swap.app/Swap321171634#321171634#0(0"0(0#0#59"/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap8636527648#323"    cd /iPhone4_Dev/Swap    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/dsymutil /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap -o /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app.dSYM0#
+
+CLd /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap normal i386
+s321171634.589931
+e321171634.740407
+r1
+xLd
+x/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap
+xnormal
+xi386
+lSLF07#2@64"Link /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap321171634#321171634#0(0"0(0#0#0"8630243488#796"    cd /iPhone4_Dev/Swap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/iPhone4_Dev/Swap/build/Debug-iphonesimulator -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -filelist /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Objects-normal/i386/Swap.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Swap0#
+
+CProcessInfoPlistFile /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist Swap-Info.plist
+s321169039.627546
+e321169039.652484
+r1
+xProcessInfoPlistFile
+x/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist
+xSwap-Info.plist
+lSLF07#2@23"Process Swap-Info.plist321169039#321169039#0(0"0(0#0#33"/iPhone4_Dev/Swap/Swap-Info.plist8631803744#415"    cd /iPhone4_Dev/Swap    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Swap-Info.plist -genpkginfo /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app/Info.plist0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch.gch Swap_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321169040.387015
+e321169042.873112
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch.gch
+xSwap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@26"Precompile Swap_Prefix.pch321169040#321169042#0(0"0(0#0#33"/iPhone4_Dev/Swap/Swap_Prefix.pch8631950336#1555"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -c /iPhone4_Dev/Swap/Swap_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-appvicvscfumzkamvbseorladbwd/Swap_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch.pth Swap_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321169071.073220
+e321169071.280225
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch.pth
+xSwap_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@26"Precompile Swap_Prefix.pch321169071#321169071#0(8083"In file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /iPhone4_Dev/Swap/Swap_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors321169071#18446744073709551615#0#11(25@48"expected function body after function declarator321169071#18446744073709551615#0#0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'321169071#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type321169071#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321169071#18446744073709551615#0#0(6@150"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321169071#18446744073709551615#0#0(6@149"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#33"/iPhone4_Dev/Swap/Swap_Prefix.pch8616448192#1492"    cd /iPhone4_Dev/Swap    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-generated-files.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-own-target-headers.hmap -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-all-target-headers.hmap -iquote /iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/Swap-project-headers.hmap -F/iPhone4_Dev/Swap/build/Debug-iphonesimulator -I/iPhone4_Dev/Swap/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources/i386 -I/iPhone4_Dev/Swap/build/Swap.build/Debug-iphonesimulator/Swap.build/DerivedSources -c /iPhone4_Dev/Swap/Swap_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Swap_Prefix-fpwoysocklkoyrguoxdbibixfqkd/Swap_Prefix.pch.pth0#
+
+CTouch /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app
+s321171634.787506
+e321171634.791752
+r1
+xTouch
+x/iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app
+lSLF07#2@60"Touch /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app321171634#321171634#0(0"0(0#0#0"8636176448#241"    cd /iPhone4_Dev/Swap    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /iPhone4_Dev/Swap/build/Debug-iphonesimulator/Swap.app0#
+

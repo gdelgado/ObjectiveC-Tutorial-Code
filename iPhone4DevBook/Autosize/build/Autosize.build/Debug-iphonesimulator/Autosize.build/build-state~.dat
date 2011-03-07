@@ -1,0 +1,391 @@
+TAutosize
+v7
+r0
+t321134822.838738
+cCheck dependencies
+cProcessInfoPlistFile /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist Autosize-Info.plist
+cCompileXIB /iPhone4_Dev/Autosize/MainWindow.xib
+cCompileXIB /iPhone4_Dev/Autosize/AutosizeViewController.xib
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch.pth Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o /iPhone4_Dev/Autosize/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cAnalyze /iPhone4_Dev/Autosize/main.m
+cLd /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize normal i386
+cAnalyze /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m
+cAnalyze /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m
+cGenerateDSYMFile /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+cTouch /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/iPhone4_Dev/Autosize/AutosizeViewController.xib
+c000000004D73E6180000000000001A49
+t1299441176
+s6729
+
+N/iPhone4_Dev/Autosize/Autosize_Prefix.pch
+c000000004D73E61800000000000000B9
+t1299441176
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.h
+c000000004D73E61800000000000001E8
+t1299441176
+s488
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m
+c000000004D73E6180000000000000A93
+t1299441176
+s2707
+i"AutosizeAppDelegate.h"
+i"AutosizeViewController.h"
+
+N/iPhone4_Dev/Autosize/Classes/AutosizeViewController.h
+c000000004D73E61800000000000000F4
+t1299441176
+s244
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Autosize/Classes/AutosizeViewController.m
+c000000004D73E61800000000000005C0
+t1299441176
+s1472
+i"AutosizeViewController.h"
+
+N/iPhone4_Dev/Autosize/MainWindow.xib
+c000000004D73E6180000000000004E35
+t1299441176
+s20021
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/Autosize.LinkFileList
+c000000004D73E9640000000000000162
+t1299442020
+s354
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o
+t1299442022
+s47840
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o
+t1299442022
+s34468
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o
+t1299442022
+s6284
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/StaticAnalyzer/normal/i386/AutosizeAppDelegate.plist
+t2
+s0
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/StaticAnalyzer/normal/i386/AutosizeViewController.plist
+t2
+s0
+
+N/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app
+t1299442022
+s238
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM
+t1299442022
+s102
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+t1299442022
+s17016
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/AutosizeViewController.nib
+t1299442021
+s1269
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist
+t1299442020
+s595
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/MainWindow.nib
+t1299442021
+s1683
+
+N/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/PkgInfo
+t1299442020
+s8
+
+N/iPhone4_Dev/Autosize/main.m
+c000000004D73E618000000000000016D
+t1299441176
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch.gch
+t1299442022
+s15207440
+
+NAutosize-Info.plist
+c000000004D73E618000000000000038D
+t1299441176
+s909
+
+CAnalyze /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m
+s321134822.605768
+e321134822.746440
+r1
+xAnalyze
+x/iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@59"Analyze /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m321134822#321134822#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321134822#18446744073709551615#0#1(25@179"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found321134822#18446744073709551615#0#0(6@14"<command line>321134822#1#0#1#0#0"0(6@14"<command line>321134822#0#0#0#0#0"0(0#0#51"/iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m8635010976#1756"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch --analyze /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m -o /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/StaticAnalyzer/normal/i386/AutosizeAppDelegate.plist0#
+
+CAnalyze /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m
+s321134822.608045
+e321134822.753213
+r1
+xAnalyze
+x/iPhone4_Dev/Autosize/Classes/AutosizeViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@62"Analyze /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m321134822#321134822#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321134822#18446744073709551615#0#1(25@179"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found321134822#18446744073709551615#0#0(6@14"<command line>321134822#1#0#1#0#0"0(6@14"<command line>321134822#0#0#0#0#0"0(0#0#54"/iPhone4_Dev/Autosize/Classes/AutosizeViewController.m8634820576#1762"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch --analyze /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m -o /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/StaticAnalyzer/normal/i386/AutosizeViewController.plist0#
+
+CAnalyze /iPhone4_Dev/Autosize/main.m
+s321134822.468092
+e321134822.605682
+r1
+xAnalyze
+x/iPhone4_Dev/Autosize/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@36"Analyze /iPhone4_Dev/Autosize/main.m321134822#321134822#0(458"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321134822#18446744073709551615#0#1(25@179"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch' file not found321134822#18446744073709551615#0#0(6@14"<command line>321134822#1#0#1#0#0"0(6@14"<command line>321134822#0#0#0#0#0"0(0#0#28"/iPhone4_Dev/Autosize/main.m8636602336#1718"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch --analyze /iPhone4_Dev/Autosize/main.m -o /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321134820#321134820#0(0"0(0#1#0"8631362528#0"0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321134822.355226
+e321134822.467989
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o
+x/iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m321134822#321134822#0(0"0(0#0#51"/iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m8635794976#1801"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch -c /iPhone4_Dev/Autosize/Classes/AutosizeAppDelegate.m -o /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeAppDelegate.o0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321134822.446059
+e321134822.534667
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o
+x/iPhone4_Dev/Autosize/Classes/AutosizeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m321134822#321134822#0(0"0(0#0#54"/iPhone4_Dev/Autosize/Classes/AutosizeViewController.m8628607008#1807"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch -c /iPhone4_Dev/Autosize/Classes/AutosizeViewController.m -o /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/AutosizeViewController.o0#
+
+CCompileC build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o /iPhone4_Dev/Autosize/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321134822.353588
+e321134822.445962
+r1
+xCompileC
+xbuild/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o
+x/iPhone4_Dev/Autosize/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Compile /iPhone4_Dev/Autosize/main.m321134822#321134822#0(0"0(0#0#28"/iPhone4_Dev/Autosize/main.m8630038400#1763"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch -c /iPhone4_Dev/Autosize/main.m -o /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /iPhone4_Dev/Autosize/AutosizeViewController.xib
+s321134820.915982
+e321134821.310538
+r1
+xCompileXIB
+x/iPhone4_Dev/Autosize/AutosizeViewController.xib
+lSLF07#2@37"CompileXIB AutosizeViewController.xib321134820#321134821#0(0"0(0#0#48"/iPhone4_Dev/Autosize/AutosizeViewController.xib8635322400#560"    cd /iPhone4_Dev/Autosize    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/AutosizeViewController.nib /iPhone4_Dev/Autosize/AutosizeViewController.xib --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /iPhone4_Dev/Autosize/MainWindow.xib
+s321134820.522662
+e321134821.282142
+r1
+xCompileXIB
+x/iPhone4_Dev/Autosize/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321134820#321134821#0(0"0(0#0#36"/iPhone4_Dev/Autosize/MainWindow.xib8631032256#536"    cd /iPhone4_Dev/Autosize    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/MainWindow.nib /iPhone4_Dev/Autosize/MainWindow.xib --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+s321134822.746535
+e321134822.835206
+r1
+xGenerateDSYMFile
+x/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM
+x/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Autosize.app.dSYM build/Debug-iphonesimulator/Autosize.app/Autosize321134822#321134822#0(0"0(0#0#71"/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize8628662912#347"    cd /iPhone4_Dev/Autosize    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/dsymutil /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize -o /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app.dSYM0#
+
+CLd /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize normal i386
+s321134822.534765
+e321134822.607901
+r1
+xLd
+x/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize
+xnormal
+xi386
+lSLF07#2@76"Link /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize321134822#321134822#0(0"0(0#0#0"8635518592#836"    cd /iPhone4_Dev/Autosize    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -filelist /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Objects-normal/i386/Autosize.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Autosize0#
+
+CProcessInfoPlistFile /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist Autosize-Info.plist
+s321134820.513474
+e321134820.522453
+r1
+xProcessInfoPlistFile
+x/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist
+xAutosize-Info.plist
+lSLF07#2@27"Process Autosize-Info.plist321134820#321134820#0(0"0(0#0#41"/iPhone4_Dev/Autosize/Autosize-Info.plist8630909792#439"    cd /iPhone4_Dev/Autosize    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Autosize-Info.plist -genpkginfo /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app/Info.plist0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch.pth Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321134821.311630
+e321134821.650168
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch.pth
+xAutosize_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@30"Precompile Autosize_Prefix.pch321134821#321134821#0(8131"In file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /iPhone4_Dev/Autosize/Autosize_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors321134821#18446744073709551615#0#11(25@48"expected function body after function declarator321134821#18446744073709551615#0#0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'321134821#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type321134821#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321134821#18446744073709551615#0#0(6@150"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321134821#18446744073709551615#0#0(6@149"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#41"/iPhone4_Dev/Autosize/Autosize_Prefix.pch8632720064#1608"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -c /iPhone4_Dev/Autosize/Autosize_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-dpdrrqcjnrqtlygsyxfrnlqfgwer/Autosize_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch.gch Autosize_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321134821.310712
+e321134822.353389
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch.gch
+xAutosize_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile Autosize_Prefix.pch321134821#321134822#0(0"0(0#0#41"/iPhone4_Dev/Autosize/Autosize_Prefix.pch8631025792#1671"    cd /iPhone4_Dev/Autosize    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-generated-files.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-own-target-headers.hmap -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-all-target-headers.hmap -iquote /iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/Autosize-project-headers.hmap -F/iPhone4_Dev/Autosize/build/Debug-iphonesimulator -I/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources/i386 -I/iPhone4_Dev/Autosize/build/Autosize.build/Debug-iphonesimulator/Autosize.build/DerivedSources -c /iPhone4_Dev/Autosize/Autosize_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Autosize_Prefix-fshcqkmmkmgukddcbkqoakfrgfbc/Autosize_Prefix.pch.gch0#
+
+CTouch /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app
+s321134822.835439
+e321134822.838696
+r1
+xTouch
+x/iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app
+lSLF07#2@68"Touch /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app321134822#321134822#0(0"0(0#0#0"8601398048#253"    cd /iPhone4_Dev/Autosize    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /iPhone4_Dev/Autosize/build/Debug-iphonesimulator/Autosize.app0#
+

@@ -1,0 +1,444 @@
+TControl Fun
+v7
+r0
+t321131832.216514
+cCheck dependencies
+cProcessInfoPlistFile "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist" Control_Fun-Info.plist
+cCompileXIB "/iPhone4_Dev/Control Fun/MainWindow.xib"
+cCompileXIB "/iPhone4_Dev/Control Fun/Control_FunViewController.xib"
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/apress_logo.png" apress_logo.png
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/whiteButton.png" whiteButton.png
+cCpResource "build/Debug-iphonesimulator/Control Fun.app/blueButton.png" blueButton.png
+cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o" "/iPhone4_Dev/Control Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o" "/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o" "/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun" normal i386
+cGenerateDSYMFile "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM" "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun"
+cTouch "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app"
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.h
+c000000004D72787E00000000000001FA
+t1299347582
+s506
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m
+c000000004D72787E0000000000000AA2
+t1299347582
+s2722
+i"Control_FunAppDelegate.h"
+i"Control_FunViewController.h"
+
+N/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.h
+c000000004D72AD0800000000000003D1
+t1299361032
+s977
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m
+c000000004D73DDB7000000000000117F
+t1299439031
+s4479
+i"Control_FunViewController.h"
+
+N/iPhone4_Dev/Control Fun/Control_FunViewController.xib
+c000000004D73DD67000000000000A5A1
+t1299438951
+s42401
+
+N/iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch
+c000000004D72787F00000000000000BF
+t1299347583
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Control Fun/MainWindow.xib
+c000000004D72787F0000000000004E59
+t1299347583
+s20057
+
+N/iPhone4_Dev/Control Fun/apress_logo.png
+c000000004A75A1C80000000000001CA3
+t1249223112
+s7331
+
+N/iPhone4_Dev/Control Fun/blueButton.png
+c000000004A75A1C800000000000005BC
+t1249223112
+s1468
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control Fun.LinkFileList
+c000000004D727B3A0000000000000183
+t1299348282
+s387
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o
+t1299361033
+s48272
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o
+t1299439032
+s62768
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o
+t1299348284
+s6292
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/StaticAnalyzer/normal/i386/Control_FunAppDelegate.plist
+t2
+s0
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/StaticAnalyzer/normal/i386/Control_FunViewController.plist
+t2
+s0
+
+N/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app
+t1299439032
+s340
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM
+t1299439032
+s102
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun
+t1299439032
+s25672
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control_FunViewController.nib
+t1299438968
+s7170
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist
+t1299348282
+s607
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/MainWindow.nib
+t1299348282
+s1689
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/PkgInfo
+t1299348282
+s8
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/apress_logo.png
+t1299348283
+s7331
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/blueButton.png
+t1299373060
+s1468
+
+N/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/whiteButton.png
+t1299373060
+s1430
+
+N/iPhone4_Dev/Control Fun/main.m
+c000000004D72787F0000000000000170
+t1299347583
+s368
+i<UIKit/UIKit.h>
+
+N/iPhone4_Dev/Control Fun/whiteButton.png
+c000000004A75A1C80000000000000596
+t1249223112
+s1430
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch.gch
+t1299348283
+s15207440
+
+N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch.pth
+t2
+s0
+
+NControl_Fun-Info.plist
+c000000004D72787F000000000000038D
+t1299347583
+s909
+
+CAnalyze "/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m"
+s321131412.078299
+e321131412.251760
+r1
+xAnalyze
+x/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@65"Analyze /iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m321131412#321131412#0(470"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321131412#18446744073709551615#0#1(25@185"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found321131412#18446744073709551615#0#0(6@14"<command line>321131412#1#0#1#0#0"0(6@14"<command line>321131412#0#0#0#0#0"0(0#0#57"/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m8634566272#1877"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch --analyze "/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m" -o "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/StaticAnalyzer/normal/i386/Control_FunAppDelegate.plist"0#
+
+CAnalyze "/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m"
+s321131412.208643
+e321131412.338202
+r1
+xAnalyze
+x/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@68"Analyze /iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m321131412#321131412#0(470"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321131412#18446744073709551615#0#1(25@185"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found321131412#18446744073709551615#0#0(6@14"<command line>321131412#1#0#1#0#0"0(6@14"<command line>321131412#0#0#0#0#0"0(0#0#60"/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m8632179776#1883"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch --analyze "/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m" -o "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/StaticAnalyzer/normal/i386/Control_FunViewController.plist"0#
+
+CAnalyze "/iPhone4_Dev/Control Fun/main.m"
+s321131412.076819
+e321131412.208536
+r1
+xAnalyze
+x/iPhone4_Dev/Control Fun/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found
+o #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@39"Analyze /iPhone4_Dev/Control Fun/main.m321131412#321131412#0(470"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found #include "/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321131412#18446744073709551615#0#1(25@185"'/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch' file not found321131412#18446744073709551615#0#0(6@14"<command line>321131412#1#0#1#0#0"0(6@14"<command line>321131412#0#0#0#0#0"0(0#0#31"/iPhone4_Dev/Control Fun/main.m8634727136#1833"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch --analyze "/iPhone4_Dev/Control Fun/main.m" -o "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/StaticAnalyzer/normal/i386/main.plist"0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321131832#321131832#0(0"0(0#1#0"8631958624#0"0#
+
+CCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o" "/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321053833.799335
+e321053833.937960
+r1
+xCompileC
+xbuild/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o
+x/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m321053833#321053833#0(0"0(0#0#57"/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m8632515200#1922"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch -c "/iPhone4_Dev/Control Fun/Classes/Control_FunAppDelegate.m" -o "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunAppDelegate.o"0#
+
+CCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o" "/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321131832.030397
+e321131832.144279
+r1
+xCompileC
+xbuild/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o
+x/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m321131832#321131832#0(0"0(0#0#60"/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m8630897280#1928"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch -c "/iPhone4_Dev/Control Fun/Classes/Control_FunViewController.m" -o "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control_FunViewController.o"0#
+
+CCompileC "build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o" "/iPhone4_Dev/Control Fun/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321041084.149814
+e321041084.212656
+r1
+xCompileC
+xbuild/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o
+x/iPhone4_Dev/Control Fun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Compile /iPhone4_Dev/Control Fun/main.m321041084#321041084#0(0"0(0#0#31"/iPhone4_Dev/Control Fun/main.m8635992576#1878"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch -c "/iPhone4_Dev/Control Fun/main.m" -o "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/iPhone4_Dev/Control Fun/Control_FunViewController.xib"
+s321131767.744589
+e321131768.340815
+r1
+xCompileXIB
+x/iPhone4_Dev/Control Fun/Control_FunViewController.xib
+lSLF07#2@40"CompileXIB Control_FunViewController.xib321131767#321131768#0(0"0(0#0#54"/iPhone4_Dev/Control Fun/Control_FunViewController.xib8630400800#584"    cd "/iPhone4_Dev/Control Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control_FunViewController.nib" "/iPhone4_Dev/Control Fun/Control_FunViewController.xib" --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/iPhone4_Dev/Control Fun/MainWindow.xib"
+s321041082.559280
+e321041083.008585
+r1
+xCompileXIB
+x/iPhone4_Dev/Control Fun/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321041082#321041083#0(0"0(0#0#39"/iPhone4_Dev/Control Fun/MainWindow.xib8636196608#554"    cd "/iPhone4_Dev/Control Fun"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/MainWindow.nib" "/iPhone4_Dev/Control Fun/MainWindow.xib" --sdk /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/apress_logo.png" apress_logo.png
+s321041082.961578
+e321041083.004187
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/apress_logo.png
+xapress_logo.png
+lSLF07#2@20"Copy apress_logo.png321041082#321041083#0(0"0(0#0#40"/iPhone4_Dev/Control Fun/apress_logo.png8635356640#439"    cd "/iPhone4_Dev/Control Fun"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/iPhone4_Dev/Control Fun/apress_logo.png" "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/blueButton.png" blueButton.png
+s321065860.629561
+e321065860.659428
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/blueButton.png
+xblueButton.png
+lSLF07#2@19"Copy blueButton.png321065860#321065860#0(0"0(0#0#39"/iPhone4_Dev/Control Fun/blueButton.png8632542496#438"    cd "/iPhone4_Dev/Control Fun"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/iPhone4_Dev/Control Fun/blueButton.png" "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Control Fun.app/whiteButton.png" whiteButton.png
+s321065860.626831
+e321065860.659255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Control Fun.app/whiteButton.png
+xwhiteButton.png
+lSLF07#2@20"Copy whiteButton.png321065860#321065860#0(0"0(0#0#40"/iPhone4_Dev/Control Fun/whiteButton.png8632576288#439"    cd "/iPhone4_Dev/Control Fun"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/iPhone4_Dev/Control Fun/whiteButton.png" "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
+CGenerateDSYMFile "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM" "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun"
+s321131832.191757
+e321131832.212258
+r1
+xGenerateDSYMFile
+x/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM
+x/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun
+lSLF07#2@125"GenerateDSYMFile "build/Debug-iphonesimulator/Control Fun.app.dSYM" "build/Debug-iphonesimulator/Control Fun.app/Control Fun"321131832#321131832#0(0"0(0#0#80"/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun8632744320#371"    cd "/iPhone4_Dev/Control Fun"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/dsymutil "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun" -o "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app.dSYM"0#
+
+CLd "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun" normal i386
+s321131832.144374
+e321131832.191658
+r1
+xLd
+x/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun
+xnormal
+xi386
+lSLF07#2@85"Link /iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun321131832#321131832#0(0"0(0#0#0"8634381760#876"    cd "/iPhone4_Dev/Control Fun"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" -filelist "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Objects-normal/i386/Control Fun.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Control Fun"0#
+
+CProcessInfoPlistFile "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist" Control_Fun-Info.plist
+s321041082.554822
+e321041082.559188
+r1
+xProcessInfoPlistFile
+x/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist
+xControl_Fun-Info.plist
+lSLF07#2@30"Process Control_Fun-Info.plist321041082#321041082#0(0"0(0#0#47"/iPhone4_Dev/Control Fun/Control_Fun-Info.plist8628635168#463"    cd "/iPhone4_Dev/Control Fun"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Control_Fun-Info.plist -genpkginfo "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app/Info.plist"0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch.gch Control_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321041083.008699
+e321041084.149601
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch.gch
+xControl_Fun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Control_Fun_Prefix.pch321041083#321041084#0(0"0(0#0#47"/iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch8627919360#1778"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -c "/iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch" -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-aitxzjxypujwkcbagnzjpksxmoxf/Control_Fun_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch.pth Control_Fun_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321131411.414758
+e321131412.075946
+r1
+xProcessPCH
+x/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch.pth
+xControl_Fun_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:
+oIn file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@33"Precompile Control_Fun_Prefix.pch321131411#321131412#0(8167"In file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors321131411#18446744073709551615#0#11(25@48"expected function body after function declarator321131411#18446744073709551615#0#0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'321131411#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type321131411#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321131412#18446744073709551615#0#0(6@150"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321131412#18446744073709551615#0#0(6@149"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#47"/iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch8631827264#1715"    cd "/iPhone4_Dev/Control Fun"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-generated-files.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-own-target-headers.hmap" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-all-target-headers.hmap" -iquote "/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/Control Fun-project-headers.hmap" "-F/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator" "-I/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/include" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources/i386" "-I/iPhone4_Dev/Control Fun/build/Control Fun.build/Debug-iphonesimulator/Control Fun.build/DerivedSources" -c "/iPhone4_Dev/Control Fun/Control_Fun_Prefix.pch" -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Control_Fun_Prefix-faywrfdwibdgezbabipefpjctnxn/Control_Fun_Prefix.pch.pth0#
+
+CTouch "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app"
+s321131832.212354
+e321131832.216263
+r1
+xTouch
+x/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app
+lSLF07#2@74"Touch /iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app321131832#321131832#0(0"0(0#0#0"8632661504#266"    cd "/iPhone4_Dev/Control Fun"    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/iPhone4_Dev/Control Fun/build/Debug-iphonesimulator/Control Fun.app"0#
+
