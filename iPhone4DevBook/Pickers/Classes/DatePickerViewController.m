@@ -15,8 +15,16 @@
 
 -(IBAction) buttonPressed
 {
+	
 	NSDate *selected = [datePicker date];
-	NSString *message = [[NSString alloc] initWithFormat:@"The date and time you selected is:%@", selected];
+	
+	NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
+	[dateFormatter setDateStyle:NSDateFormatterMediumStyle];
+	[dateFormatter setTimeStyle:NSDateFormatterShortStyle];
+	NSString *dateString = [dateFormatter stringFromDate:selected];
+	
+	
+	NSString *message = [[NSString alloc] initWithFormat:@"The date and time you selected is:%@", dateString];
 	UIAlertView *alert = [[UIAlertView alloc]
 						  initWithTitle:@"Date and Time Selected"
 						  message:message
@@ -25,7 +33,10 @@
 						  otherButtonTitles:nil];
 	[alert show];
 	[alert release];
+	[dateFormatter release];
 	[message release];
+	
+	
 }
 
 /*

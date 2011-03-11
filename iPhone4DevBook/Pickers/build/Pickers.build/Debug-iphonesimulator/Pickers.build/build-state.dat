@@ -1,31 +1,61 @@
 TPickers
 v7
 r0
-t321517171.831968
+t321571957.756880
 cCheck dependencies
-cProcessInfoPlistFile /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist Pickers-Info.plist
-cCompileXIB /iPhone4_Dev/Pickers/MainWindow.xib
-cCompileXIB /iPhone4_Dev/Pickers/Classes/DatePickerViewController.xib
-cCompileXIB /iPhone4_Dev/Pickers/Classes/SingleComponentPickerViewController.xib
-cCompileXIB /iPhone4_Dev/Pickers/Classes/DoubleComponentPickerViewController.xib
-cCompileXIB /iPhone4_Dev/Pickers/Classes/DependentComponentPickerViewController.xib
-cCompileXIB /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.xib
+cProcessInfoPlistFile "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist" Pickers-Info.plist
+cCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/MainWindow.xib"
+cCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.xib"
+cCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.xib"
+cCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.xib"
+cCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.xib"
+cCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.xib"
 cCpResource build/Debug-iphonesimulator/Pickers.app/clockicon.png clockicon.png
 cCpResource build/Debug-iphonesimulator/Pickers.app/dependenticon.png dependenticon.png
 cCpResource build/Debug-iphonesimulator/Pickers.app/doubleicon.png doubleicon.png
 cCpResource build/Debug-iphonesimulator/Pickers.app/singleicon.png singleicon.png
 cCpResource build/Debug-iphonesimulator/Pickers.app/toolicon.png toolicon.png
-cProcessPCH /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch.gch Pickers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o /iPhone4_Dev/Pickers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o /iPhone4_Dev/Pickers/Classes/PickersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o /iPhone4_Dev/Pickers/Classes/DatePickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o /iPhone4_Dev/Pickers/Classes/SingleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o /iPhone4_Dev/Pickers/Classes/DoubleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o /iPhone4_Dev/Pickers/Classes/DependentComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers normal i386
-cGenerateDSYMFile /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
-cTouch /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app
+cProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch.gch Pickers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers" normal i386
+cGenerateDSYMFile "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM" "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers"
+cTouch "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app"
+
+N/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
 
 N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
 c000000004C6C30170000000000000110
@@ -56,6 +86,271 @@ N/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulato
 c000000004C6242840000000001E228C0
 t1281507972
 s31598784
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.h
+c000000004D7A507A00000000000000FC
+t1299861626
+s252
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m
+c000000004D7A507A00000000000005BE
+t1299861626
+s1470
+i"CustomPickerViewController.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.xib
+c000000004D7A507A0000000000001889
+t1299861626
+s6281
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.h
+c000000004D7A507A0000000000000171
+t1299861626
+s369
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m
+c000000004D7A7727000000000000092D
+t1299871527
+s2349
+i"DatePickerViewController.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.xib
+c000000004D7A507A000000000000588B
+t1299861626
+s22667
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.h
+c000000004D7A507A0000000000000114
+t1299861626
+s276
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m
+c000000004D7A507A00000000000005E2
+t1299861626
+s1506
+i"DependentComponentPickerViewController.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.xib
+c000000004D7A507A00000000000018AD
+t1299861626
+s6317
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.h
+c000000004D7A507A000000000000010E
+t1299861626
+s270
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m
+c000000004D7A507A00000000000005D9
+t1299861626
+s1497
+i"DoubleComponentPickerViewController.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.xib
+c000000004D7A507A00000000000018A4
+t1299861626
+s6308
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.h
+c000000004D7A507A00000000000001BB
+t1299861626
+s443
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m
+c000000004D7A507A0000000000000A37
+t1299861626
+s2615
+i"PickersAppDelegate.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.h
+c000000004D7A507A000000000000010E
+t1299861626
+s270
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m
+c000000004D7A507A00000000000005D9
+t1299861626
+s1497
+i"SingleComponentPickerViewController.h"
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.xib
+c000000004D7A507A00000000000018A4
+t1299861626
+s6308
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/MainWindow.xib
+c000000004D7A507A00000000000083B0
+t1299861626
+s33712
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch
+c000000004D7A507A00000000000000B7
+t1299861626
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app
+t1299871527
+s544
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM
+t1299871527
+s102
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/CustomPickerViewController.nib
+t1299861626
+s1231
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/DatePickerViewController.nib
+t1299861626
+s3296
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/DependentComponentPickerViewController.nib
+t1299861626
+s1231
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/DoubleComponentPickerViewController.nib
+t1299861626
+s1231
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist
+t1299861626
+s591
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/MainWindow.nib
+t1299861626
+s4092
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+t1299871527
+s26844
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/PkgInfo
+t1299861626
+s8
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/SingleComponentPickerViewController.nib
+t1299861626
+s1231
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/clockicon.png
+t1299861626
+s3982
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/dependenticon.png
+t1299861626
+s2918
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/doubleicon.png
+t1299861626
+s3018
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/singleicon.png
+t1299861626
+s2905
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/toolicon.png
+t1299861626
+s3884
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o
+t1299866192
+s34880
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o
+t1299871527
+s46620
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o
+t1299866192
+s35132
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o
+t1299866192
+s35072
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/Pickers.LinkFileList
+c000000004D7A624800000000000004DC
+t1299866184
+s1244
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o
+t1299866192
+s50532
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o
+t1299866192
+s35072
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o
+t1299866192
+s6404
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/CustomPickerViewController.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/DatePickerViewController.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/DependentComponentPickerViewController.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/DoubleComponentPickerViewController.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/PickersAppDelegate.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/SingleComponentPickerViewController.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/clockicon.png
+c000000004D7A507A0000000000000F8E
+t1299861626
+s3982
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/dependenticon.png
+c000000004D7A507A0000000000000B66
+t1299861626
+s2918
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/doubleicon.png
+c000000004D7A507A0000000000000BCA
+t1299861626
+s3018
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m
+c000000004D7A507A000000000000016D
+t1299861626
+s365
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/singleicon.png
+c000000004D7A507A0000000000000B59
+t1299861626
+s2905
+
+N/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/toolicon.png
+c000000004D7A507A0000000000000F2C
+t1299861626
+s3884
 
 N/iPhone4_Dev/Pickers/Classes/CustomPickerViewController.h
 c000000004D79B5A200000000000000FC
@@ -330,10 +625,109 @@ N/var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/Shared
 t2
 s0
 
+N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch.pth
+t2
+s0
+
+N/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch.gch
+t1299866191
+s15211536
+
 NPickers-Info.plist
-c000000004D79B445000000000000038D
-t1299821637
+c000000004D7A507A000000000000038D
+t1299861626
 s909
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m"
+s321560362.450883
+e321560362.560114
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@117"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m321560362#321560363#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560362#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560362#18446744073709551615#0#0(6@14"<command line>321560362#1#0#1#0#0"0(6@14"<command line>321560362#0#0#0#0#0"0(0#0#109"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m8622264992#2349"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/CustomPickerViewController.plist"0#
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m"
+s321560361.196981
+e321560363.156203
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@115"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m321560361#321560363#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560361#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560361#18446744073709551615#0#0(6@14"<command line>321560361#1#0#1#0#0"0(6@14"<command line>321560361#0#0#0#0#0"0(0#0#107"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m8622133056#2345"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/DatePickerViewController.plist"0#
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m"
+s321560362.434284
+e321560362.543727
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@129"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m321560362#321560363#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560362#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560362#18446744073709551615#0#0(6@14"<command line>321560362#1#0#1#0#0"0(6@14"<command line>321560362#0#0#0#0#0"0(0#0#121"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m8622857888#2373"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/DependentComponentPickerViewController.plist"0#
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m"
+s321560362.326177
+e321560362.434065
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@126"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m321560362#321560362#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560362#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560362#18446744073709551615#0#0(6@14"<command line>321560362#1#0#1#0#0"0(6@14"<command line>321560362#0#0#0#0#0"0(0#0#118"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m8623474272#2367"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/DoubleComponentPickerViewController.plist"0#
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m"
+s321560361.196238
+e321560362.210330
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@109"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m321560361#321560362#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560361#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560361#18446744073709551615#0#0(6@14"<command line>321560361#1#0#1#0#0"0(6@14"<command line>321560361#0#0#0#0#0"0(0#0#101"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m8622658080#2333"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/PickersAppDelegate.plist"0#
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m"
+s321560362.210436
+e321560362.319513
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@126"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m321560362#321560362#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560362#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560362#18446744073709551615#0#0(6@14"<command line>321560362#1#0#1#0#0"0(6@14"<command line>321560362#0#0#0#0#0"0(0#0#118"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m8623288640#2367"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/SingleComponentPickerViewController.plist"0#
+
+CAnalyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m"
+s321560361.195338
+e321560363.675636
+r1
+xAnalyze
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m
+oIn file included from <built-in>:121:
+o<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found
+o #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"
+o          ^
+o1 error generated.
+lSLF07#2@87"Analyze /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m321560361#321560363#0(454"In file included from <built-in>:121:<command line>:1:10: fatal error: '/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found #include "/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch"          ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors321560361#18446744073709551615#0#1(25@177"'/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch' file not found321560361#18446744073709551615#0#0(6@14"<command line>321560361#1#0#1#0#0"0(6@14"<command line>321560361#0#0#0#0#0"0(0#0#79"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m8623155040#2297"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch --analyze "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/StaticAnalyzer/normal/i386/main.plist"0#
 
 CAnalyze /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.m
 s321516388.987097
@@ -428,7 +822,20 @@ lSLF07#2@35"Analyze /iPhone4_Dev/Pickers/main.m321516388#321516388#0(454"In file
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies321517170#321517170#0(0"0(0#1#0"8636835232#0"0#
+lSLF07#2@18"Check dependencies321571957#321571957#0(0"0(0#1#0"8622857088#0"0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558992.310587
+e321558992.473731
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@117"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m321558992#321558992#0(0"0(0#0#109"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m8613000480#2394"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o"0#
 
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321514995.678958
@@ -443,6 +850,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@65"Compile /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.m321514995#321514995#0(0"0(0#0#57"/iPhone4_Dev/Pickers/Classes/CustomPickerViewController.m8635537536#1784"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/CustomPickerViewController.o0#
 
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321564327.139258
+e321564327.334241
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@115"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m321564327#321564327#0(0"0(0#0#107"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m8623219104#2390"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o"0#
+
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o /iPhone4_Dev/Pickers/Classes/DatePickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321517171.076382
 e321517171.146825
@@ -455,6 +875,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@63"Compile /iPhone4_Dev/Pickers/Classes/DatePickerViewController.m321517171#321517171#0(0"0(0#0#55"/iPhone4_Dev/Pickers/Classes/DatePickerViewController.m8635907808#1780"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/Classes/DatePickerViewController.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DatePickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558992.309781
+e321558992.474460
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@129"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m321558992#321558992#0(0"0(0#0#121"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m8617766240#2418"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o"0#
 
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o /iPhone4_Dev/Pickers/Classes/DependentComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321514995.642566
@@ -469,6 +902,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@77"Compile /iPhone4_Dev/Pickers/Classes/DependentComponentPickerViewController.m321514995#321514995#0(0"0(0#0#69"/iPhone4_Dev/Pickers/Classes/DependentComponentPickerViewController.m8636011520#1808"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/Classes/DependentComponentPickerViewController.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DependentComponentPickerViewController.o0#
 
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558992.308395
+e321558992.454297
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m321558992#321558992#0(0"0(0#0#118"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m8619978752#2412"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o"0#
+
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o /iPhone4_Dev/Pickers/Classes/DoubleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321514995.599422
 e321514995.678852
@@ -481,6 +927,19 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /iPhone4_Dev/Pickers/Classes/DoubleComponentPickerViewController.m321514995#321514995#0(0"0(0#0#66"/iPhone4_Dev/Pickers/Classes/DoubleComponentPickerViewController.m8636377504#1802"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/Classes/DoubleComponentPickerViewController.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/DoubleComponentPickerViewController.o0#
+
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558991.898525
+e321558992.309558
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m321558991#321558992#0(0"0(0#0#101"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m8610788928#2378"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/PickersAppDelegate.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o"0#
 
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o /iPhone4_Dev/Pickers/Classes/PickersAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321514995.399452
@@ -495,6 +954,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@57"Compile /iPhone4_Dev/Pickers/Classes/PickersAppDelegate.m321514995#321514995#0(0"0(0#0#49"/iPhone4_Dev/Pickers/Classes/PickersAppDelegate.m8634598496#1768"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/Classes/PickersAppDelegate.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/PickersAppDelegate.o0#
 
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558991.900136
+e321558992.309713
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@126"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m321558991#321558992#0(0"0(0#0#118"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m8605769344#2412"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o"0#
+
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o /iPhone4_Dev/Pickers/Classes/SingleComponentPickerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321514995.559605
 e321514995.642451
@@ -508,6 +980,19 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@74"Compile /iPhone4_Dev/Pickers/Classes/SingleComponentPickerViewController.m321514995#321514995#0(0"0(0#0#66"/iPhone4_Dev/Pickers/Classes/SingleComponentPickerViewController.m8632151616#1802"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/Classes/SingleComponentPickerViewController.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/SingleComponentPickerViewController.o0#
 
+CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558991.882374
+e321558992.308269
+r1
+xCompileC
+xbuild/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m321558991#321558992#0(0"0(0#0#79"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m8615145472#2342"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -include /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/main.m" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o"0#
+
 CCompileC build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o /iPhone4_Dev/Pickers/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321514995.397519
 e321514995.513327
@@ -520,6 +1005,24 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@35"Compile /iPhone4_Dev/Pickers/main.m321514995#321514995#0(0"0(0#0#27"/iPhone4_Dev/Pickers/main.m8635099328#1732"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -include /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-fdgjqvihvbperhcvalpqndojqcum/Pickers_Prefix.pch -c /iPhone4_Dev/Pickers/main.m -o /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/CustomPickerViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DatePickerViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DependentComponentPickerViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/DoubleComponentPickerViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Classes/SingleComponentPickerViewController.xib"
+r0
+
+CCompileXIB "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/MainWindow.xib"
+r0
 
 CCompileXIB /iPhone4_Dev/Pickers/Classes/CustomPickerViewController.xib
 s321514992.755217
@@ -614,6 +1117,15 @@ xbuild/Debug-iphonesimulator/Pickers.app/toolicon.png
 xtoolicon.png
 lSLF07#2@17"Copy toolicon.png321516183#321516183#0(0"0(0#0#33"/iPhone4_Dev/Pickers/toolicon.png8635206400#414"    cd /iPhone4_Dev/Pickers    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /iPhone4_Dev/Pickers/toolicon.png /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app0#
 
+CGenerateDSYMFile "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM" "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers"
+s321564327.368412
+e321564327.455659
+r1
+xGenerateDSYMFile
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Pickers.app.dSYM build/Debug-iphonesimulator/Pickers.app/Pickers321564327#321564327#0(0"0(0#0#120"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers8622289440#515"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/dsymutil "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers" -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM"0#
+
 CGenerateDSYMFile /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
 s321517171.304545
 e321517171.827405
@@ -622,6 +1134,16 @@ xGenerateDSYMFile
 x/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM
 x/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
 lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Pickers.app.dSYM build/Debug-iphonesimulator/Pickers.app/Pickers321517171#321517171#0(0"0(0#0#68"/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers8635325536#341"    cd /iPhone4_Dev/Pickers    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/dsymutil /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers -o /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app.dSYM0#
+
+CLd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers" normal i386
+s321564327.334327
+e321564327.368325
+r1
+xLd
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
+xnormal
+xi386
+lSLF07#2@125"Link /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers321564327#321564327#0(0"0(0#0#0"8622537792#1112"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" -filelist "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/Pickers.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers"0#
 
 CLd /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers normal i386
 s321517171.146919
@@ -632,6 +1154,9 @@ x/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers
 xnormal
 xi386
 lSLF07#2@73"Link /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers321517171#321517171#0(0"0(0#0#0"8634642048#826"    cd /iPhone4_Dev/Pickers    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -filelist /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Objects-normal/i386/Pickers.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Pickers0#
+
+CProcessInfoPlistFile "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist" Pickers-Info.plist
+r0
 
 CProcessInfoPlistFile /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app/Info.plist Pickers-Info.plist
 s321514991.598636
@@ -730,6 +1255,103 @@ o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STA
 o                      ^
 o11 errors generated.
 lSLF07#2@29"Precompile Pickers_Prefix.pch321516388#321516388#0(8119"In file included from /iPhone4_Dev/Pickers/Pickers_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /iPhone4_Dev/Pickers/Pickers_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /iPhone4_Dev/Pickers/Pickers_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /iPhone4_Dev/Pickers/Pickers_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /iPhone4_Dev/Pickers/Pickers_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /iPhone4_Dev/Pickers/Pickers_Prefix.pch:7:In file included from /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors321516388#18446744073709551615#0#11(25@48"expected function body after function declarator321516388#18446744073709551615#0#0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@146"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'321516388#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type321516388#18446744073709551615#0#0(6@153"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321516388#18446744073709551615#0#0(6@150"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321516388#18446744073709551615#0#0(6@149"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@159"/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#39"/iPhone4_Dev/Pickers/Pickers_Prefix.pch8629125952#1579"    cd /iPhone4_Dev/Pickers    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_3_2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_3_2/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_3_2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap -iquote /iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap -F/iPhone4_Dev/Pickers/build/Debug-iphonesimulator -I/iPhone4_Dev/Pickers/build/Debug-iphonesimulator/include -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386 -I/iPhone4_Dev/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources -c /iPhone4_Dev/Pickers/Pickers_Prefix.pch -o /var/folders/0u/0ueMyP8+E7KuoYoX+n-RQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-gcfhujkkbsbrstemfqcvoojelazg/Pickers_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch.pth Pickers_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321560360.839804
+e321560361.140802
+r1
+xProcessPCH
+x/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch.pth
+xPickers_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+oIn file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator
+o   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);
+o                       ^
+oIn file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from:
+o # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING
+o                                ^
+o<scratch space>:82:1: note: instantiated from:
+o __AVAILABILITY_INTERNAL__MAC_10_7
+o ^
+oIn file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type
+o + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                           ^
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type
+o + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                                                                                      ^
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type
+o + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview
+o                                                                                                                  ^
+oIn file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState'
+o @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                               ^
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type
+o - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o    ^
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type
+o - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);
+o                            ^
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type
+o - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o                                             ^
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type
+o - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);
+o    ^
+oIn file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+oIn file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:
+oIn file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:
+o/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes'
+o @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);
+o                      ^
+o11 errors generated.
+lSLF07#2@29"Precompile Pickers_Prefix.pch321560360#321560361#0(8547"In file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:26:/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h:60:23: error: expected function body after function declarator   CFDataRef metadata) CG_AVAILABLE_STARTING(__MAC_10_7, __IPHONE_4_0);                       ^In file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:9:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIResponder.h:10:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIEvent.h:9:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h:8:/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGBase.h:21:32: note: instantiated from: # define CG_AVAILABLE_STARTING __OSX_AVAILABLE_STARTING                                ^<scratch space>:82:1: note: instantiated from: __AVAILABILITY_INTERNAL__MAC_10_7 ^In file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:11:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActivityIndicatorView.h:8:/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:250:91: error: expected a type + (void)animateWithDuration:(NSTimeInterval)duration delay:(NSTimeInterval)delay options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                           ^/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:256:86: error: expected a type + (void)transitionWithView:(UIView *)view duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options animations:(void (^)(void))animations completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                                                                                      ^/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h:258:114: error: expected a type + (void)transitionFromView:(UIView *)fromView toView:(UIView *)toView duration:(NSTimeInterval)duration options:(UIViewAnimationOptions)options completion:(void (^)(BOOL finished))completion __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0); // toView added to fromView.superview, fromView removed from its superview                                                                                                                  ^In file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:13:/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:187:31: error: unknown type name 'UIApplicationState' @property(nonatomic,readonly) UIApplicationState applicationState __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                               ^/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:190:4: error: expected a type - (UIBackgroundTaskIdentifier)beginBackgroundTaskWithExpirationHandler:(void(^)(void))handler  __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);    ^/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:191:28: error: expected a type - (void)endBackgroundTask:(UIBackgroundTaskIdentifier)identifier __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_4_0);                            ^/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:202:45: error: expected a type - (void)registerForRemoteNotificationTypes:(UIRemoteNotificationType)types __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);                                             ^/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h:206:4: error: expected a type - (UIRemoteNotificationType)enabledRemoteNotificationTypes __OSX_AVAILABLE_STARTING(__MAC_NA,__IPHONE_3_0);    ^In file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:73:/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h:82:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^In file included from /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch:7:In file included from /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:79:/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h:54:22: error: unknown type name 'UIDataDetectorTypes' @property(nonatomic) UIDataDetectorTypes dataDetectorTypes __OSX_AVAILABLE_STARTING(__MAC_NA, __IPHONE_3_0);                      ^11 errors generated.1(25@46"Analyzer skipped this file due to parse errors321560361#18446744073709551615#0#11(25@48"expected function body after function declarator321560361#18446744073709551615#0#0(6@163"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#60#0#60#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@150"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#250#0#250#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@150"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#256#0#256#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@150"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIView.h303200621#258#0#258#0#0"0(25@38"unknown type name 'UIApplicationState'321560361#18446744073709551615#0#0(6@157"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#187#0#187#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@157"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#190#0#190#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@157"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#191#0#191#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@157"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#202#0#202#0#0"0(25@15"expected a type321560361#18446744073709551615#0#0(6@157"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h303200621#206#0#206#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321560361#18446744073709551615#0#0(6@154"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextView.h303200622#82#0#82#0#0"0(25@39"unknown type name 'UIDataDetectorTypes'321560361#18446744073709551615#0#0(6@153"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIWebView.h303200623#54#0#54#0#0"0(6@163"/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGPDFContext.h302679128#0#0#0#0#0"0(0#0#91"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch8624281184#2135"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch" -o /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-afatjmpeiqzykiaeybwlkzaznygn/Pickers_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch.gch Pickers_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321558984.553572
+e321558991.882135
+r1
+xProcessPCH
+x/var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch.gch
+xPickers_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile Pickers_Prefix.pch321558984#321558991#0(0"0(0#0#91"/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch8619864512#2198"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-generated-files.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-own-target-headers.hmap" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/Pickers-project-headers.hmap" "-F/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources/i386" "-I/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Pickers.build/Debug-iphonesimulator/Pickers.build/DerivedSources" -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/Pickers_Prefix.pch" -o /var/folders/1-/1-x7mQosEv8Gt-73196QTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Pickers_Prefix-eybqcbsszrmymbaogxyaaayjicto/Pickers_Prefix.pch.gch0#
+
+CTouch "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app"
+s321564327.455753
+e321564327.459011
+r1
+xTouch
+x/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app
+lSLF07#2@118"Touch /Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app321564327#321564327#0(0"0(0#0#0"8622657952#366"    cd "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers"    setenv PATH "/DeveloperXcode3.2/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperXcode3.2/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Macintosh HD II/ObjectiveC-Tutorial-Code/iPhone4DevBook/Pickers/build/Debug-iphonesimulator/Pickers.app"0#
 
 CTouch /iPhone4_Dev/Pickers/build/Debug-iphonesimulator/Pickers.app
 s321517171.827489
