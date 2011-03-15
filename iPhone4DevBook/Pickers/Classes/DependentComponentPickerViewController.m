@@ -148,7 +148,7 @@ didSelectRow:(NSInteger) row inComponent:(NSInteger) component{
 		NSString *selectedState = [self.states objectAtIndex:row];
 		NSArray *array = [stateZips objectForKey:selectedState];
 		self.zips = array;
-		[picker selectRow:row inComponent:kZipComponent animated:YES];
+		[picker selectRow:0 inComponent:kZipComponent animated:YES];
 		[picker reloadComponent:kZipComponent];
 	}
 }

@@ -11,6 +11,10 @@
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
 		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
 		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		23155F5F132F12640058E51E /* statedictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = 23155F5E132F12640058E51E /* statedictionary.plist */; };
+		23155F62132F128F0058E51E /* crunch.wav in Resources */ = {isa = PBXBuildFile; fileRef = 23155F60132F128F0058E51E /* crunch.wav */; };
+		23155F63132F128F0058E51E /* win.wav in Resources */ = {isa = PBXBuildFile; fileRef = 23155F61132F128F0058E51E /* win.wav */; };
+		233BA159132F0BCF009184A5 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 233BA158132F0BCF009184A5 /* AudioToolbox.framework */; };
 		23AD7DCA1329EC600054D430 /* DatePickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23AD7DC81329EC600054D430 /* DatePickerViewController.m */; };
 		23AD7DCB1329EC600054D430 /* DatePickerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23AD7DC91329EC600054D430 /* DatePickerViewController.xib */; };
 		23AD7DCF1329ECA10054D430 /* SingleComponentPickerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23AD7DCD1329ECA10054D430 /* SingleComponentPickerViewController.m */; };
@@ -26,7 +30,6 @@
 		23AD7DF51329EEA40054D430 /* doubleicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23AD7DF01329EEA40054D430 /* doubleicon.png */; };
 		23AD7DF61329EEA40054D430 /* singleicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23AD7DF11329EEA40054D430 /* singleicon.png */; };
 		23AD7DF71329EEA40054D430 /* toolicon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23AD7DF21329EEA40054D430 /* toolicon.png */; };
-		23E61D02132D7BD60090AD20 /* statedictionary.plist in Resources */ = {isa = PBXBuildFile; fileRef = 23E61D01132D7BD60090AD20 /* statedictionary.plist */; };
 		23E61DAE132DCA9F0090AD20 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E61DA8132DCA9F0090AD20 /* apple.png */; };
 		23E61DAF132DCA9F0090AD20 /* bar.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E61DA9132DCA9F0090AD20 /* bar.png */; };
 		23E61DB0132DCA9F0090AD20 /* cherry.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E61DAA132DCA9F0090AD20 /* cherry.png */; };
@@ -43,6 +46,10 @@
 		1D3623250D0F684500981E51 /* PickersAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PickersAppDelegate.m; sourceTree = "<group>"; };
 		1D6058910D05DD3D006BFB54 /* Pickers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Pickers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		23155F5E132F12640058E51E /* statedictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = statedictionary.plist; sourceTree = "<group>"; };
+		23155F60132F128F0058E51E /* crunch.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crunch.wav; sourceTree = "<group>"; };
+		23155F61132F128F0058E51E /* win.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = win.wav; sourceTree = "<group>"; };
+		233BA158132F0BCF009184A5 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
 		23AD7DC71329EC600054D430 /* DatePickerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DatePickerViewController.h; sourceTree = "<group>"; };
 		23AD7DC81329EC600054D430 /* DatePickerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DatePickerViewController.m; sourceTree = "<group>"; };
 		23AD7DC91329EC600054D430 /* DatePickerViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = DatePickerViewController.xib; path = Classes/DatePickerViewController.xib; sourceTree = "<group>"; };
@@ -63,7 +70,6 @@
 		23AD7DF01329EEA40054D430 /* doubleicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = doubleicon.png; sourceTree = "<group>"; };
 		23AD7DF11329EEA40054D430 /* singleicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = singleicon.png; sourceTree = "<group>"; };
 		23AD7DF21329EEA40054D430 /* toolicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = toolicon.png; sourceTree = "<group>"; };
-		23E61D01132D7BD60090AD20 /* statedictionary.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = statedictionary.plist; path = "/Users/MyMacPro/Documents/Begin_iPhone4_Projects_2011_01_21/07 - Pickers/statedictionary.plist"; sourceTree = "<absolute>"; };
 		23E61DA8132DCA9F0090AD20 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
 		23E61DA9132DCA9F0090AD20 /* bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bar.png; sourceTree = "<group>"; };
 		23E61DAA132DCA9F0090AD20 /* cherry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cherry.png; sourceTree = "<group>"; };
@@ -85,6 +91,7 @@
 				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
 				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
 				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+				233BA159132F0BCF009184A5 /* AudioToolbox.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -126,6 +133,7 @@
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
+				233BA158132F0BCF009184A5 /* AudioToolbox.framework */,
 			);
 			name = CustomTemplate;
 			sourceTree = "<group>";
@@ -142,13 +150,15 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				23155F60132F128F0058E51E /* crunch.wav */,
+				23155F61132F128F0058E51E /* win.wav */,
+				23155F5E132F12640058E51E /* statedictionary.plist */,
 				23E61DA8132DCA9F0090AD20 /* apple.png */,
 				23E61DA9132DCA9F0090AD20 /* bar.png */,
 				23E61DAA132DCA9F0090AD20 /* cherry.png */,
 				23E61DAB132DCA9F0090AD20 /* crown.png */,
 				23E61DAC132DCA9F0090AD20 /* lemon.png */,
 				23E61DAD132DCA9F0090AD20 /* seven.png */,
-				23E61D01132D7BD60090AD20 /* statedictionary.plist */,
 				23AD7DEE1329EEA40054D430 /* clockicon.png */,
 				23AD7DEF1329EEA40054D430 /* dependenticon.png */,
 				23AD7DF01329EEA40054D430 /* doubleicon.png */,
@@ -235,13 +245,15 @@
 				23AD7DF51329EEA40054D430 /* doubleicon.png in Resources */,
 				23AD7DF61329EEA40054D430 /* singleicon.png in Resources */,
 				23AD7DF71329EEA40054D430 /* toolicon.png in Resources */,
-				23E61D02132D7BD60090AD20 /* statedictionary.plist in Resources */,
 				23E61DAE132DCA9F0090AD20 /* apple.png in Resources */,
 				23E61DAF132DCA9F0090AD20 /* bar.png in Resources */,
 				23E61DB0132DCA9F0090AD20 /* cherry.png in Resources */,
 				23E61DB1132DCA9F0090AD20 /* crown.png in Resources */,
 				23E61DB2132DCA9F0090AD20 /* lemon.png in Resources */,
 				23E61DB3132DCA9F0090AD20 /* seven.png in Resources */,
+				23155F5F132F12640058E51E /* statedictionary.plist in Resources */,
+				23155F62132F128F0058E51E /* crunch.wav in Resources */,
+				23155F63132F128F0058E51E /* win.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
