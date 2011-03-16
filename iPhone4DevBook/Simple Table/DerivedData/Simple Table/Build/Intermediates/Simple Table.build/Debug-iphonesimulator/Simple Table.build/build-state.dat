@@ -1,0 +1,383 @@
+TSimple Table
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Info.plist" "Simple Table/Simple Table-Info.plist"
+cProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch.gch" "Simple Table/Simple Table-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/main.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableViewController.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableAppDelegate.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table" normal i386
+cGenerateDSYMFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table"
+cCopyStringsFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/InfoPlist.strings" "Simple Table/en.lproj/InfoPlist.strings"
+cCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/MainWindow.xib"
+cCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/Simple_TableViewController.xib"
+cCpResource "Simple Table/star2.png" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star2.png"
+cCpResource "Simple Table/star.png" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star.png"
+cTouch "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple Table.LinkFileList
+c000000004D8033C50000000000000257
+t1300247493
+s599
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableAppDelegate.o
+t1300247495
+s48140
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableViewController.o
+t1300249966
+s48528
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/main.o
+t1300247495
+s3128
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/StaticAnalyzer/normal/i386/Simple_TableAppDelegate.plist
+t1300247494
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/StaticAnalyzer/normal/i386/Simple_TableViewController.plist
+t1300249545
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/StaticAnalyzer/normal/i386/main.plist
+t1300247495
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch.pth
+t1300247494
+s3351844
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch.gch
+t1300247495
+s12283312
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app
+t1300249966
+s272
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM
+t1300249966
+s102
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Info.plist
+t1300247493
+s795
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/PkgInfo
+t1300247493
+s8
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table
+t1300249966
+s23432
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/InfoPlist.strings
+t1300247496
+s42
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/MainWindow.nib
+t1300247497
+s1675
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/Simple_TableViewController.nib
+t1300247498
+s1887
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star.png
+t1300249290
+s3086
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star2.png
+t1300249486
+s3311
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple Table-Prefix.pch
+c000000004D803204000000000000014A
+t1300247044
+s330
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.h
+c000000004D80320400000000000001BC
+t1300247044
+s444
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m
+c000000004D803204000000000000097F
+t1300247044
+s2431
+i"Simple_TableAppDelegate.h"
+i"Simple_TableViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.h
+c000000004D8033C3000000000000017A
+t1300247491
+s378
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m
+c000000004D803DAE0000000000000A15
+t1300250030
+s2581
+i"Simple_TableViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/InfoPlist.strings
+c000000004D803204000000000000002D
+t1300247044
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/MainWindow.xib
+c000000004D8032040000000000004E55
+t1300247044
+s20053
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/Simple_TableViewController.xib
+c000000004D80335C0000000000002234
+t1300247388
+s8756
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m
+c000000004D803204000000000000016C
+t1300247044
+s364
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/star.png
+c0000000049E8EFE80000000000000C0E
+t1240002536
+s3086
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/star2.png
+c0000000049FEFFBE0000000000000CEF
+t1241448382
+s3311
+
+NSimple Table/Simple Table-Info.plist
+c000000004D80320400000000000004A1
+t1300247044
+s1185
+
+CAnalyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m"
+s321940294.648924
+e321940294.955630
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.md13ea6466b30b341^13b9f4466b30b341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple_TableAppDelegate.m0000000000000000^2912"Analyze "Simple Table/Simple_TableAppDelegate.m"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/StaticAnalyzer/normal/i386/Simple_TableAppDelegate.plist"
+
+CAnalyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m"
+s321942345.160027
+e321942345.248065
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.mc51b29497330b341^338c3f497330b341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple_TableViewController.m0000000000000000^2921"Analyze "Simple Table/Simple_TableViewController.m"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/StaticAnalyzer/normal/i386/Simple_TableViewController.plist"
+
+CAnalyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m"
+s321940294.956792
+e321940295.012861
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.mba2df5466b30b341^4d4c03476b30b341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/main.m0000000000000000^2855"Analyze "Simple Table/main.m"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/StaticAnalyzer/normal/i386/main.plist"
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m"
+r0
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m"
+r0
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesca51442e7530b341^d3664c2e7530b341^---0#1#0#--18"Check dependencies
+
+CCompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableAppDelegate.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s321940295.425760
+e321940295.712282
+r1
+xCompileC
+xDerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.mbf2c6d476b30b341^4357b6476b30b341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple_TableAppDelegate.m0000000000000000^2853"CompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableAppDelegate.o" "Simple Table/Simple_TableAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableAppDelegate.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableAppDelegate.o"
+
+CCompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableViewController.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s321942830.293023
+e321942830.403070
+r1
+xCompileC
+xDerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.mef1f4b2e7530b341^232f672e7530b341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple_TableViewController.m0000000000000000^2865"CompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableViewController.o" "Simple Table/Simple_TableViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple_TableViewController.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple_TableViewController.o"
+
+CCompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/main.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s321940295.425141
+e321940295.693585
+r1
+xCompileC
+xDerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.ma81a6d476b30b341^5d8cb1476b30b341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/main.m0000000000000000^2777"CompileC "DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/main.o" "Simple Table/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/main.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/main.o"
+
+CCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/MainWindow.xib"
+s321940296.940012
+e321940297.598931
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/MainWindow.xib35b5f0486b30b341^865499496b30b341^---0#0#0#-19%DVTDocumentLocation2@110"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/en.lproj/MainWindow.xib0000000000000000^750"CompileXIB "Simple Table/en.lproj/MainWindow.xib"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/MainWindow.nib" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/Simple_TableViewController.xib"
+s321940296.966276
+e321940298.113744
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/Simple_TableViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/Simple_TableViewController.xib0f81f7486b30b341^321e1d4a6b30b341^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/en.lproj/Simple_TableViewController.xib0000000000000000^798"CompileXIB "Simple Table/en.lproj/Simple_TableViewController.xib"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/Simple_TableViewController.nib" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/en.lproj/Simple_TableViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/InfoPlist.strings" "Simple Table/en.lproj/InfoPlist.strings"
+s321940296.939425
+e321940296.966154
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/InfoPlist.strings
+xSimple Table/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Copy Simple Table/en.lproj/InfoPlist.strings999af0486b30b341^5661f7486b30b341^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/en.lproj/InfoPlist.strings0000000000000000^639"CopyStringsFile "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj/InfoPlist.strings" "Simple Table/en.lproj/InfoPlist.strings"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/en.lproj" -- "Simple Table/en.lproj/InfoPlist.strings"
+
+CCpResource "Simple Table/star.png" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star.png"
+s321942090.506916
+e321942090.510651
+r1
+xCpResource
+xSimple Table/star.png
+xDerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Copy DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star.png90dd814a7230b341^e1ec824a7230b341^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/DerivedData/Simple%20Table/Build/Products/Debug-iphonesimulator/Simple%20Table.app/star.png000020442305f041^631"CpResource "Simple Table/star.png" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star.png"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/star.png" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app"
+
+CCpResource "Simple Table/star2.png" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star2.png"
+s321942286.500454
+e321942286.503445
+r1
+xCpResource
+xSimple Table/star2.png
+xDerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star2.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star2.pngb038800e7330b341^c977850e7330b341^---0#0#0#-19%DVTDocumentLocation2@164"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/DerivedData/Simple%20Table/Build/Products/Debug-iphonesimulator/Simple%20Table.app/star2.png000020442305f041^634"CpResource "Simple Table/star2.png" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/star2.png"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/star2.png" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app"
+
+CGenerateDSYMFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table"
+s321942830.440774
+e321942830.463209
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM6de6702e7530b341^289b762e7530b341^---0#0#0#-19%DVTDocumentLocation2@160"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/DerivedData/Simple%20Table/Build/Products/Debug-iphonesimulator/Simple%20Table.app.dSYM/0000000000000000^714"GenerateDSYMFile "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM" "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app.dSYM"
+
+CLd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table" normal i386
+s321942830.404014
+e321942830.440577
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table7c9e672e7530b341^fbc9702e7530b341^---0#0#0#--1265"Ld "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table" normal i386    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -filelist "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Objects-normal/i386/Simple Table.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Simple Table"
+
+CProcessInfoPlistFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Info.plist" "Simple Table/Simple Table-Info.plist"
+s321940293.501627
+e321940293.507529
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Info.plist
+xSimple Table/Simple Table-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Process Simple Table/Simple Table-Info.plist359680456b30b341^aaee81456b30b341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple%20Table-Info.plist0000000000000000^780"ProcessInfoPlistFile "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Info.plist" "Simple Table/Simple Table-Info.plist"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Simple Table/Simple Table-Info.plist" -genpkginfo "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app/Info.plist"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch.pth" "Simple Table/Simple Table-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s321940293.510239
+e321940294.648355
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch.pth
+xSimple Table/Simple Table-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Simple Table/Simple Table-Prefix.pch60cc82456b30b341^2102a6466b30b341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple%20Table-Prefix.pch0000000000000000^2885"ProcessPCH "DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch.pth" "Simple Table/Simple Table-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple Table-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-dyawyosrdlwscyfqkgumfokvpfrh/Simple Table-Prefix.pch.pth"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch.gch" "Simple Table/Simple Table-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+s321940293.509398
+e321940295.423641
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch.gch
+xSimple Table/Simple Table-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection47"Precompile Simple Table/Simple Table-Prefix.pchd89d82456b30b341^79736c476b30b341^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple%20Table/Simple%20Table/Simple%20Table-Prefix.pch0000000000000000^2622"ProcessPCH "DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch.gch" "Simple Table/Simple Table-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/Simple Table-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Intermediates/Simple Table.build/Debug-iphonesimulator/Simple Table.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/Simple Table/Simple Table-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/PrecompiledHeaders/Simple Table-Prefix-ggflzrmlwhxiakekkavhcjctocji/Simple Table-Prefix.pch.gch"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Index/PrecompiledHeaders/Simple Table-Prefix-chiqkprylvfbyidofjyiejjljerq_ast/Simple Table-Prefix.pch.pth" "Simple Table/Simple Table-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app"
+s321942830.467182
+e321942830.483172
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.appb9ab772e7530b341^e2cc7b2e7530b341^---0#0#0#--438"Touch "DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Simple Table/DerivedData/Simple Table/Build/Products/Debug-iphonesimulator/Simple Table.app"
+
