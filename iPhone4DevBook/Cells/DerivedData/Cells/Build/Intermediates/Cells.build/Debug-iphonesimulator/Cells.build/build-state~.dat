@@ -1,0 +1,333 @@
+TCells
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Info.plist Cells/Cells-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch.gch Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch.pth Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m
+cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m
+cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m
+cCompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch
+c000000004D81856D000000000000013C
+t1300333933
+s316
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.h
+c000000004D81856E0000000000000199
+t1300333934
+s409
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m
+c000000004D81856E000000000000095C
+t1300333934
+s2396
+i"CellsAppDelegate.h"
+i"CellsViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.h
+c000000004D81901A0000000000000199
+t1300336666
+s409
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m
+c000000004D81901A000000000000108B
+t1300336666
+s4235
+i"CellsViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/en.lproj/CellsViewController.xib
+c000000004D8185DB00000000000021E8
+t1300334043
+s8680
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/en.lproj/InfoPlist.strings
+c000000004D81856D000000000000002D
+t1300333933
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/en.lproj/MainWindow.xib
+c000000004D81856E0000000000004E01
+t1300333934
+s19969
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m
+c000000004D81856D0000000000000165
+t1300333933
+s357
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/Cells.LinkFileList
+c000000004D81901A00000000000001F5
+t1300336666
+s501
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsAppDelegate.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/StaticAnalyzer/normal/i386/CellsAppDelegate.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/StaticAnalyzer/normal/i386/CellsViewController.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch.pth
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch.gch
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app.dSYM
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Cells
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Info.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/PkgInfo
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/en.lproj/CellsViewController.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/en.lproj/MainWindow.nib
+t2
+s0
+
+NCells/Cells-Info.plist
+c000000004D81856D00000000000004A1
+t1300333933
+s1185
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m
+s322029467.644981
+e322029467.842788
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m6d3ba59bc731b341^01c2d79bc731b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m0000000000000000^2557"Analyze Cells/CellsAppDelegate.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/StaticAnalyzer/normal/i386/CellsAppDelegate.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m
+s322029467.935206
+e322029468.025779
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m:47:80:{47:75-47:79}: error: called object type 'NSDictionary *' is not a function or function pointer [2]
+o     NSArray *array = [[NSArray alloc] initWithObjects:row1,row2,row3,row4,row5 nil];
+o                                                                           ~~~~ ^
+oIn file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch:12:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:38:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h:96:
+o/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/MacTypes.h:90:17: note: instantiated from:
+o     #define nil NULL
+o                 ^
+oIn file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch:12:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:
+oIn file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:22:
+o/Developer/usr/bin/../lib/clang/2.0/include/stddef.h:46:14: note: instantiated from:
+o #define NULL ((void*)0)
+o              ^
+o1 error generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m2f89ef9bc731b341^3d9a069cc731b341^-2458"/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m:47:80:{47:75-47:79}: error: called object type 'NSDictionary *' is not a function or function pointer [2]     NSArray *array = [[NSArray alloc] initWithObjects:row1,row2,row3,row4,row5 nil];                                                                           ~~~~ ^In file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch:12:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:38:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFBase.h:96:/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/MacTypes.h:90:17: note: instantiated from:     #define nil NULL                 ^In file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch:12:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAccelerometer.h:9:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:6:In file included from /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h:22:/Developer/usr/bin/../lib/clang/2.0/include/stddef.h:46:14: note: instantiated from: #define NULL ((void*)0)              ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m0000000000000000^2566"Analyze Cells/CellsViewController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/StaticAnalyzer/normal/i386/CellsViewController.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m
+s322029467.843096
+e322029467.935052
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.mb2f2d79bc731b341^1361ef9bc731b341^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m0000000000000000^2521"Analyze Cells/main.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/StaticAnalyzer/normal/i386/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies3d0d2c9ac731b341^7f4d8e9ac731b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s322029468.356664
+e322029468.504644
+r1
+xCompileC
+xDerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m1a6b5b9cc731b341^e23b819cc731b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m0000000000000000^2468"CompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsAppDelegate.o Cells/CellsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsAppDelegate.o
+
+CCompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s322029468.432906
+e322029468.515643
+r0
+xCompileC
+xDerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m: In function '-[CellsViewController viewDidLoad]':
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m:47: error: called object 'row5' is not a function
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m:47: warning: missing sentinel in function call
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.ma2ef6e9cc731b341^89f0839cc731b341^-373"/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m: In function '-[CellsViewController viewDidLoad]':/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m:47: error: called object 'row5' is not a function/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m:47: warning: missing sentinel in function call2(21%IDEActivityLogMessage2@38"Called object 'row5' is not a function-322029468#126#125#-2#-23%DVTTextDocumentLocation3@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m0000000000000000^46#18446744073709551615#46#18446744073709551615#18446744073709551615#0#35"Called object '*' is not a function--2@33"Missing sentinel in function call-322029468#251#122#-1#-3@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m0000000000000000^46#18446744073709551615#46#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m0000000000000000^2480"CompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsViewController.o Cells/CellsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/CellsViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/CellsViewController.o
+
+CCompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s322029468.357153
+e322029468.432746
+r1
+xCompileC
+xDerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.mad875b9cc731b341^46ce6e9cc731b341^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m0000000000000000^2420"CompileC DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/main.o Cells/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/en.lproj/CellsViewController.xib
+r0
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/en.lproj/MainWindow.xib
+r0
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/en.lproj/InfoPlist.strings Cells/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Cells
+r0
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Cells normal i386
+r0
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Info.plist Cells/Cells-Info.plist
+s322029466.559761
+e322029466.563859
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Info.plist
+xCells/Cells-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process Cells/Cells-Info.plistf9668f9ac731b341^5f98909ac731b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Info.plist0000000000000000^677"ProcessInfoPlistFile DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Info.plist Cells/Cells-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Cells/Cells-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch.pth Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s322029466.566600
+e322029467.644744
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch.pth
+xCells/Cells-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Cells/Cells-Prefix.pchd53e919ac731b341^020ea59bc731b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch0000000000000000^2544"ProcessPCH DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch.pth Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gnjykpcxtowcoddqohcrhtcplhwt/Cells-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch.gch Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s322029466.565316
+e322029468.356241
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch.gch
+xCells/Cells-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Cells/Cells-Prefix.pchc7d9909ac731b341^473a5b9cc731b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch0000000000000000^2281"ProcessPCH DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch.gch Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/Cells-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Intermediates/Cells.build/Debug-iphonesimulator/Cells.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/Cells/Cells-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/PrecompiledHeaders/Cells-Prefix-gvqsocqueklrwtgsoeigsyfeefan/Cells-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Index/PrecompiledHeaders/Cells-Prefix-advsqgraspfcrpeurhmuvbhqecvk_ast/Cells-Prefix.pch.pth Cells/Cells-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Cells/DerivedData/Cells/Build/Products/Debug-iphonesimulator/Cells.app
+r0
+
