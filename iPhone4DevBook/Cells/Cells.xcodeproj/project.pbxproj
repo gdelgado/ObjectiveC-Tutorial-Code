@@ -16,6 +16,7 @@
 		23E780421331BCEE0092800A /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23E780401331BCEE0092800A /* MainWindow.xib */; };
 		23E780451331BCEE0092800A /* CellsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23E780441331BCEE0092800A /* CellsViewController.m */; };
 		23E780481331BCEE0092800A /* CellsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23E780461331BCEE0092800A /* CellsViewController.xib */; };
+		23E7805713330B2E0092800A /* CustomCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23E7805613330B2E0092800A /* CustomCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +24,17 @@
 		23E7802E1331BCED0092800A /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		23E780301331BCED0092800A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23E780321331BCED0092800A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		23E780361331BCED0092800A /* Cells-Info.plist */ = {isa = PBXFileReference; path = "Cells-Info.plist"; sourceTree = "<group>"; };
+		23E780361331BCED0092800A /* Cells-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Cells-Info.plist"; sourceTree = "<group>"; };
 		23E780381331BCED0092800A /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		23E7803A1331BCED0092800A /* Cells-Prefix.pch */ = {isa = PBXFileReference; path = "Cells-Prefix.pch"; sourceTree = "<group>"; };
+		23E7803A1331BCED0092800A /* Cells-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Cells-Prefix.pch"; sourceTree = "<group>"; };
 		23E7803B1331BCED0092800A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		23E7803D1331BCEE0092800A /* CellsAppDelegate.h */ = {isa = PBXFileReference; path = CellsAppDelegate.h; sourceTree = "<group>"; };
+		23E7803D1331BCEE0092800A /* CellsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CellsAppDelegate.h; sourceTree = "<group>"; };
 		23E7803E1331BCEE0092800A /* CellsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CellsAppDelegate.m; sourceTree = "<group>"; };
 		23E780411331BCEE0092800A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		23E780431331BCEE0092800A /* CellsViewController.h */ = {isa = PBXFileReference; path = CellsViewController.h; sourceTree = "<group>"; };
+		23E780431331BCEE0092800A /* CellsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CellsViewController.h; sourceTree = "<group>"; };
 		23E780441331BCEE0092800A /* CellsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CellsViewController.m; sourceTree = "<group>"; };
 		23E780471331BCEE0092800A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/CellsViewController.xib; sourceTree = "<group>"; };
+		23E7805613330B2E0092800A /* CustomCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				23E780371331BCED0092800A /* InfoPlist.strings */,
 				23E7803A1331BCED0092800A /* Cells-Prefix.pch */,
 				23E7803B1331BCED0092800A /* main.m */,
+				23E7805613330B2E0092800A /* CustomCell.xib */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				23E780391331BCED0092800A /* InfoPlist.strings in Resources */,
 				23E780421331BCEE0092800A /* MainWindow.xib in Resources */,
 				23E780481331BCEE0092800A /* CellsViewController.xib in Resources */,
+				23E7805713330B2E0092800A /* CustomCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +280,7 @@
 				23E7804D1331BCEE0092800A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

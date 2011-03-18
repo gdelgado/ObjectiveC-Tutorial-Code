@@ -7,9 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
+#define kNameValueTag 1
+#define kColorValueTag 2
 
-@interface CellsViewController : UIViewController {
+
+@interface CellsViewController : UIViewController <UITableViewDataSource, UITableViewDelegate> {
     
+    NSArray *computers;
+    UITableViewCell *tvCell;
 }
+
+@property (nonatomic, retain) NSArray *computers;
+@property (nonatomic, retain) IBOutlet UITableViewCell *tvCell;
 
 @end
