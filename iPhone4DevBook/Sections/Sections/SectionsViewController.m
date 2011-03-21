@@ -209,6 +209,7 @@
     [self resetSearch];
     [table reloadData];
     [searchBar resignFirstResponder];
+    [table setContentOffset:CGPointMake(0.0, 44.0) animated:NO]; // Causes the search bar to be scrolled off the top.    
 //    [searchBar setShowsCancelButton:NO animated:YES]; // Remove Cancel Button for Search Bar
     
     
