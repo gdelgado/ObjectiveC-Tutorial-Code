@@ -4,10 +4,10 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Info.plist Sections/Sections-Info.plist
 cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/PrecompiledHeaders/Sections-Prefix-crahavxkhvudiidwrsdvvqafopdc/Sections-Prefix.pch.gch Sections/Sections-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/NSDictionary-MutableDeepCopy.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/NSDictionary-MutableDeepCopy.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/NSDictionary-MutableDeepCopy.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/NSDictionary-MutableDeepCopy.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections normal i386
 cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
 cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/en.lproj/InfoPlist.strings Sections/en.lproj/InfoPlist.strings
@@ -65,8 +65,8 @@ t1300678728
 s47968
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o
-t1300682121
-s68676
+t1300682344
+s68476
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/main.o
 t1300572272
@@ -97,11 +97,11 @@ t1300572271
 s3351796
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app
-t1300682121
+t1300682344
 s238
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM
-t1300682121
+t1300682344
 s102
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Info.plist
@@ -113,7 +113,7 @@ t1300572268
 s8
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
-t1300682121
+t1300682344
 s35996
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/en.lproj/InfoPlist.strings
@@ -172,9 +172,9 @@ s991
 i<UIKit/UIKit.h>
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m
-c000000004D86D66800000000000018E4
-t1300682344
-s6372
+c000000004D880E17000000000000195E
+t1300762135
+s6494
 i"SectionsViewController.h"
 i"NSDictionary-MutableDeepCopy.h"
 
@@ -255,7 +255,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies95ef5de80d37b341^1c7968e80d37b341^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1fa25d3b4638b341^8064723b4638b341^---0#1#0#--18"Check dependencies
 
 CCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/NSDictionary-MutableDeepCopy.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/NSDictionary-MutableDeepCopy.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s322266934.171481
@@ -284,8 +284,8 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsAppDelegate.m096f73c8ff36b341^f1d5b2c8ff36b341^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsAppDelegate.m0000000000000000^2621"CompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsAppDelegate.o Sections/SectionsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/PrecompiledHeaders/Sections-Prefix-crahavxkhvudiidwrsdvvqafopdc/Sections-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsAppDelegate.o
 
 CCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s322375144.417857
-e322375144.552098
+s322455099.454245
+e322455099.590865
 r1
 xCompileC
 xDerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o
@@ -294,7 +294,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m9b1b6be80d37b341^15578de80d37b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m0000000000000000^2633"CompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o Sections/SectionsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/PrecompiledHeaders/Sections-Prefix-crahavxkhvudiidwrsdvvqafopdc/Sections-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.ma46d743b4638b341^d943973b4638b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m0000000000000000^2633"CompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o Sections/SectionsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Sections-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/PrecompiledHeaders/Sections-Prefix-crahavxkhvudiidwrsdvvqafopdc/Sections-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/SectionsViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/SectionsViewController.o
 
 CCompileC DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s322265071.970488
@@ -344,23 +344,23 @@ xSections/en.lproj/InfoPlist.strings
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy Sections/en.lproj/InfoPlist.strings96edfbf05f35b341^51befcf05f35b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/Sections/en.lproj/InfoPlist.strings0000000000000000^597"CopyStringsFile DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/en.lproj/InfoPlist.strings Sections/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/en.lproj -- Sections/en.lproj/InfoPlist.strings
 
 CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
-s322375144.589539
-e322375144.612497
+s322455099.627898
+e322455099.653480
 r1
 xGenerateDSYMFile
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYMda0197e80d37b341^51d99ce80d37b341^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM/0000000000000000^652"GenerateDSYMFile DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYMabd0a03b4638b341^df51a73b4638b341^---0#0#0#-19%DVTDocumentLocation2@142"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM/0000000000000000^652"GenerateDSYMFile DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app.dSYM
 
 CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections normal i386
-s322375144.552293
-e322375144.589310
+s322455099.591057
+e322455099.627659
 r1
 xLd
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
 xnormal
 xi386
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections25768de80d37b341^33de96e80d37b341^---0#0#0#--1185"Ld DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/Sections.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections486c973b4638b341^14d0a03b4638b341^---0#0#0#--1185"Ld DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Intermediates/Sections.build/Debug-iphonesimulator/Sections.build/Objects-normal/i386/Sections.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Sections
 
 CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app/Info.plist Sections/Sections-Info.plist
 s322265068.504467
@@ -401,10 +401,10 @@ CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sectio
 r0
 
 CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app
-s322375144.616114
-e322375144.624916
+s322455099.657582
+e322455099.666683
 r1
 xTouch
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.appb5c59de80d37b341^f0fb9fe80d37b341^---0#0#0#--408"Touch DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app7b67a83b4638b341^2eadaa3b4638b341^---0#0#0#--408"Touch DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Sections/DerivedData/Sections/Build/Products/Debug-iphonesimulator/Sections.app
 
