@@ -16,6 +16,14 @@
 		23A75632133855F6006048F9 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23A75630133855F6006048F9 /* MainWindow.xib */; };
 		23A7563A1338568F006048F9 /* FirstLevelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23A756391338568F006048F9 /* FirstLevelViewController.m */; };
 		23A7563D133859D0006048F9 /* SecondLevelViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23A7563C133859D0006048F9 /* SecondLevelViewController.m */; };
+		23E07C871339AF98006CCB6D /* button_down.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C7F1339AF98006CCB6D /* button_down.png */; };
+		23E07C881339AF98006CCB6D /* button_up.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C801339AF98006CCB6D /* button_up.png */; };
+		23E07C891339AF98006CCB6D /* checkmarkControllerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C811339AF98006CCB6D /* checkmarkControllerIcon.png */; };
+		23E07C8A1339AF98006CCB6D /* deleteMeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C821339AF98006CCB6D /* deleteMeIcon.png */; };
+		23E07C8B1339AF98006CCB6D /* detailEditIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C831339AF98006CCB6D /* detailEditIcon.png */; };
+		23E07C8C1339AF98006CCB6D /* disclosureButtonControllerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C841339AF98006CCB6D /* disclosureButtonControllerIcon.png */; };
+		23E07C8D1339AF98006CCB6D /* moveMeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C851339AF98006CCB6D /* moveMeIcon.png */; };
+		23E07C8E1339AF98006CCB6D /* rowControlsIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C861339AF98006CCB6D /* rowControlsIcon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +42,14 @@
 		23A756391338568F006048F9 /* FirstLevelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstLevelViewController.m; sourceTree = "<group>"; };
 		23A7563B133859D0006048F9 /* SecondLevelViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondLevelViewController.h; sourceTree = "<group>"; };
 		23A7563C133859D0006048F9 /* SecondLevelViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondLevelViewController.m; sourceTree = "<group>"; };
+		23E07C7F1339AF98006CCB6D /* button_down.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_down.png; sourceTree = "<group>"; };
+		23E07C801339AF98006CCB6D /* button_up.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_up.png; sourceTree = "<group>"; };
+		23E07C811339AF98006CCB6D /* checkmarkControllerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checkmarkControllerIcon.png; sourceTree = "<group>"; };
+		23E07C821339AF98006CCB6D /* deleteMeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = deleteMeIcon.png; sourceTree = "<group>"; };
+		23E07C831339AF98006CCB6D /* detailEditIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detailEditIcon.png; sourceTree = "<group>"; };
+		23E07C841339AF98006CCB6D /* disclosureButtonControllerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosureButtonControllerIcon.png; sourceTree = "<group>"; };
+		23E07C851339AF98006CCB6D /* moveMeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moveMeIcon.png; sourceTree = "<group>"; };
+		23E07C861339AF98006CCB6D /* rowControlsIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rowControlsIcon.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,12 +111,28 @@
 		23A75625133855F6006048F9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				23E07C7E1339AF98006CCB6D /* Images */,
 				23A75626133855F6006048F9 /* Nav-Info.plist */,
 				23A75627133855F6006048F9 /* InfoPlist.strings */,
 				23A7562A133855F6006048F9 /* Nav-Prefix.pch */,
 				23A7562B133855F6006048F9 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		23E07C7E1339AF98006CCB6D /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				23E07C7F1339AF98006CCB6D /* button_down.png */,
+				23E07C801339AF98006CCB6D /* button_up.png */,
+				23E07C811339AF98006CCB6D /* checkmarkControllerIcon.png */,
+				23E07C821339AF98006CCB6D /* deleteMeIcon.png */,
+				23E07C831339AF98006CCB6D /* detailEditIcon.png */,
+				23E07C841339AF98006CCB6D /* disclosureButtonControllerIcon.png */,
+				23E07C851339AF98006CCB6D /* moveMeIcon.png */,
+				23E07C861339AF98006CCB6D /* rowControlsIcon.png */,
+			);
+			path = Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -152,6 +184,14 @@
 			files = (
 				23A75629133855F6006048F9 /* InfoPlist.strings in Resources */,
 				23A75632133855F6006048F9 /* MainWindow.xib in Resources */,
+				23E07C871339AF98006CCB6D /* button_down.png in Resources */,
+				23E07C881339AF98006CCB6D /* button_up.png in Resources */,
+				23E07C891339AF98006CCB6D /* checkmarkControllerIcon.png in Resources */,
+				23E07C8A1339AF98006CCB6D /* deleteMeIcon.png in Resources */,
+				23E07C8B1339AF98006CCB6D /* detailEditIcon.png in Resources */,
+				23E07C8C1339AF98006CCB6D /* disclosureButtonControllerIcon.png in Resources */,
+				23E07C8D1339AF98006CCB6D /* moveMeIcon.png in Resources */,
+				23E07C8E1339AF98006CCB6D /* rowControlsIcon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +310,7 @@
 				23A75637133855F6006048F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

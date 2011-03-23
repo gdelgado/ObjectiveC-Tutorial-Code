@@ -4,15 +4,10 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Info.plist Nav/Nav-Info.plist
 cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch.gch Nav/Nav-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-ayxrctknqlvghbefimpfiuavlhqv/Nav-Prefix.pch.pth Nav/Nav-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
-cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/NavAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/SecondLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m
-cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/NavAppDelegate.m
-cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m
-cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/SecondLevelViewController.m
+cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav normal i386
 cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
 cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/en.lproj/InfoPlist.strings Nav/en.lproj/InfoPlist.strings
@@ -55,8 +50,8 @@ t1297054251
 s6937
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
-t1300766681
-s1284
+t1300768427
+s41232
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList
 c000000004D882301000000000000028B
@@ -68,7 +63,7 @@ t1300766681
 s49316
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o
-t1300767490
+t1300768427
 s33704
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o
@@ -100,11 +95,11 @@ t1300766680
 s3351740
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
-t1300767491
+t1300768427
 s204
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM
-t1300767490
+t1300768427
 s102
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Info.plist
@@ -112,8 +107,8 @@ t1300766679
 s757
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
-t1300767490
-s17600
+t1300768427
+s19768
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/PkgInfo
 t1300766679
@@ -138,6 +133,7 @@ c000000004D8826AA00000000000008EC
 t1300768426
 s2284
 i"FirstLevelViewController.h"
+i"SecondLevelViewController.h"
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Nav-Prefix.pch
 c000000004D881E760000000000000138
@@ -238,7 +234,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies1b81e82a5e38b341^fbaeec2a5e38b341^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7347eb45af39b341^185e1146af39b341^---0#1#0#--18"Check dependencies
 
 CCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s322461226.940341
