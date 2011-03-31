@@ -24,6 +24,9 @@
 		23E07C8C1339AF98006CCB6D /* disclosureButtonControllerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C841339AF98006CCB6D /* disclosureButtonControllerIcon.png */; };
 		23E07C8D1339AF98006CCB6D /* moveMeIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C851339AF98006CCB6D /* moveMeIcon.png */; };
 		23E07C8E1339AF98006CCB6D /* rowControlsIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C861339AF98006CCB6D /* rowControlsIcon.png */; };
+		23E07C92133FA377006CCB6D /* DisclosureButtonController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23E07C91133FA377006CCB6D /* DisclosureButtonController.m */; };
+		23E07C95133FA3AA006CCB6D /* DisclosureDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23E07C94133FA3AA006CCB6D /* DisclosureDetailController.m */; };
+		23E07C97133FA66E006CCB6D /* DisclosureDetail.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C96133FA66E006CCB6D /* DisclosureDetail.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -50,6 +53,11 @@
 		23E07C841339AF98006CCB6D /* disclosureButtonControllerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosureButtonControllerIcon.png; sourceTree = "<group>"; };
 		23E07C851339AF98006CCB6D /* moveMeIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = moveMeIcon.png; sourceTree = "<group>"; };
 		23E07C861339AF98006CCB6D /* rowControlsIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = rowControlsIcon.png; sourceTree = "<group>"; };
+		23E07C90133FA377006CCB6D /* DisclosureButtonController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisclosureButtonController.h; sourceTree = "<group>"; };
+		23E07C91133FA377006CCB6D /* DisclosureButtonController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisclosureButtonController.m; sourceTree = "<group>"; };
+		23E07C93133FA3AA006CCB6D /* DisclosureDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisclosureDetailController.h; sourceTree = "<group>"; };
+		23E07C94133FA3AA006CCB6D /* DisclosureDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisclosureDetailController.m; sourceTree = "<group>"; };
+		23E07C96133FA66E006CCB6D /* DisclosureDetail.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DisclosureDetail.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +104,10 @@
 		23A75624133855F6006048F9 /* Nav */ = {
 			isa = PBXGroup;
 			children = (
+				23E07C93133FA3AA006CCB6D /* DisclosureDetailController.h */,
+				23E07C94133FA3AA006CCB6D /* DisclosureDetailController.m */,
+				23E07C90133FA377006CCB6D /* DisclosureButtonController.h */,
+				23E07C91133FA377006CCB6D /* DisclosureButtonController.m */,
 				23A7563B133859D0006048F9 /* SecondLevelViewController.h */,
 				23A7563C133859D0006048F9 /* SecondLevelViewController.m */,
 				23A756391338568F006048F9 /* FirstLevelViewController.m */,
@@ -116,6 +128,7 @@
 				23A75627133855F6006048F9 /* InfoPlist.strings */,
 				23A7562A133855F6006048F9 /* Nav-Prefix.pch */,
 				23A7562B133855F6006048F9 /* main.m */,
+				23E07C96133FA66E006CCB6D /* DisclosureDetail.xib */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -192,6 +205,7 @@
 				23E07C8C1339AF98006CCB6D /* disclosureButtonControllerIcon.png in Resources */,
 				23E07C8D1339AF98006CCB6D /* moveMeIcon.png in Resources */,
 				23E07C8E1339AF98006CCB6D /* rowControlsIcon.png in Resources */,
+				23E07C97133FA66E006CCB6D /* DisclosureDetail.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -206,6 +220,8 @@
 				23A7562F133855F6006048F9 /* NavAppDelegate.m in Sources */,
 				23A7563A1338568F006048F9 /* FirstLevelViewController.m in Sources */,
 				23A7563D133859D0006048F9 /* SecondLevelViewController.m in Sources */,
+				23E07C92133FA377006CCB6D /* DisclosureButtonController.m in Sources */,
+				23E07C95133FA3AA006CCB6D /* DisclosureDetailController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

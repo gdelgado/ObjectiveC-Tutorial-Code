@@ -8,6 +8,7 @@
 
 #import "FirstLevelViewController.h"
 #import "SecondLevelViewController.h"
+#import "DisclosureButtonController.h"
 
 
 @implementation FirstLevelViewController
@@ -16,6 +17,14 @@
 -(void)viewDidLoad {
     self.title = @"First Level";
     NSMutableArray *array = [[NSMutableArray alloc] init];
+    
+    // Disclosure Button
+    DisclosureButtonController *disclosureButtonController = [[DisclosureButtonController alloc]
+                                                               initWithStyle:UITableViewStylePlain];
+    disclosureButtonController.title = @"Disclosure Button";
+    disclosureButtonController.rowImage = [UIImage imageNamed:@"disclosureButtonControllerIcon.png"];
+    [array addObject:disclosureButtonController];
+    [disclosureButtonController release];
     self.controllers = array;
     [array release];
     [super viewDidLoad];

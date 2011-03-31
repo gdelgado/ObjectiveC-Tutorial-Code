@@ -4,14 +4,25 @@ r1
 cCheck dependencies
 cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Info.plist Nav/Nav-Info.plist
 cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch.gch Nav/Nav-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/NavAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
-cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/SecondLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/NavAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/SecondLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/SecondLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m normal i386 objective-c com.apple.compilers.llvmgcc42
 cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav normal i386
 cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
 cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/en.lproj/InfoPlist.strings Nav/en.lproj/InfoPlist.strings
 cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/en.lproj/MainWindow.xib
+cCpResource Nav/Images/button_down.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.png
+cCpResource Nav/Images/button_up.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png
+cCpResource Nav/Images/checkmarkControllerIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png
+cCpResource Nav/Images/deleteMeIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.png
+cCpResource Nav/Images/detailEditIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png
+cCpResource Nav/Images/disclosureButtonControllerIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png
+cCpResource Nav/Images/moveMeIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.png
+cCpResource Nav/Images/rowControlsIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xib
 cTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
 
 N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
@@ -49,14 +60,22 @@ c000000004D4F7A2B0000000000001B19
 t1297054251
 s6937
 
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o
+t1301248814
+s50104
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o
+t1301245612
+s37672
+
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
-t1300768427
-s41232
+t1301542031
+s42324
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList
-c000000004D882301000000000000028B
-t1300767489
-s651
+c000000004D8F6EAB00000000000003E3
+t1301245611
+s995
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o
 t1300766681
@@ -70,8 +89,16 @@ N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediate
 t1300766681
 s3092
 
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/DisclosureButtonController.plist
+t1301248814
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/DisclosureDetailController.plist
+t1301245612
+s276
+
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/FirstLevelViewController.plist
-t1300766680
+t1301541746
 s276
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/NavAppDelegate.plist
@@ -79,7 +106,7 @@ t1300766680
 s276
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/SecondLevelViewController.plist
-t1300767490
+t1300768427
 s276
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/main.plist
@@ -95,24 +122,52 @@ t1300766680
 s3351740
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
-t1300768427
-s204
+t1301542031
+s510
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM
-t1300768427
+t1301542031
 s102
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/DisclosureDetail.nib
+t1301248815
+s2024
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Info.plist
 t1300766679
 s757
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
-t1300768427
-s19768
+t1301542031
+s32840
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/PkgInfo
 t1300766679
 s8
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.png
+t1301245613
+s3181
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png
+t1301245613
+s3290
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png
+t1301245613
+s550
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.png
+t1301245613
+s3792
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png
+t1301245613
+s3245
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png
+t1301245613
+s5003
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/en.lproj/InfoPlist.strings
 t1300766681
@@ -122,6 +177,46 @@ N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Deb
 t1300767490
 s2455
 
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.png
+t1301245613
+s3302
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png
+t1301245613
+s470
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.h
+c000000004D8F754300000000000001BE
+t1301247299
+s446
+i<UIKit/UIKit.h>
+i"SecondLevelViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m
+c000000004D8F7B2D0000000000000D3E
+t1301248813
+s3390
+i"DisclosureButtonController.h"
+i"NavAppDelegate.h"
+i"DisclosureDetailController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xib
+c000000004D8F7097000000000000225F
+t1301246103
+s8799
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.h
+c000000004D8F6EAB000000000000018B
+t1301245611
+s395
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m
+c000000004D8F6EA9000000000000023D
+t1301245609
+s573
+i"DisclosureDetailController.h"
+
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.h
 c000000004D8826AA000000000000014A
 t1300768426
@@ -129,11 +224,52 @@ s330
 i<UIKit/UIKit.h>
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m
-c000000004D8826AA00000000000008EC
-t1300768426
-s2284
+c000000004D93F49A0000000000000AF6
+t1301542042
+s2806
 i"FirstLevelViewController.h"
 i"SecondLevelViewController.h"
+i"DisclosureButtonController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/button_down.png
+c0000000049EF3BB20000000000000C6D
+t1240415154
+s3181
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/button_up.png
+c0000000049EF3BB20000000000000CDA
+t1240415154
+s3290
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/checkmarkControllerIcon.png
+c0000000049EF3BB20000000000000226
+t1240415154
+s550
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/deleteMeIcon.png
+c0000000049EF3BB20000000000000ED0
+t1240415154
+s3792
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/detailEditIcon.png
+c0000000049EF3BB20000000000000CAD
+t1240415154
+s3245
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/disclosureButtonControllerIcon.png
+c0000000049EF3BB2000000000000138B
+t1240415154
+s5003
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/moveMeIcon.png
+c0000000049EF3BB20000000000000CE6
+t1240415154
+s3302
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/rowControlsIcon.png
+c0000000049EF3BB200000000000001D6
+t1240415154
+s470
 
 N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Nav-Prefix.pch
 c000000004D881E760000000000000138
@@ -188,13 +324,29 @@ c000000004D881E7600000000000004A1
 t1300766326
 s1185
 
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m
+s322941614.113547
+e322941614.219440
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m1b2f1daeb23fb341^f73b38aeb23fb341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m0000000000000000^2499"Analyze Nav/DisclosureButtonController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-ayxrctknqlvghbefimpfiuavlhqv/Nav-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/DisclosureButtonController.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m
+s322938412.375671
+e322938412.462971
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m1b47602ca63fb341^268c762ca63fb341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m0000000000000000^2499"Analyze Nav/DisclosureDetailController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-ayxrctknqlvghbefimpfiuavlhqv/Nav-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/DisclosureDetailController.plist
+
 CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m
-s322461227.177652
-e322461227.247904
+s323234546.440748
+e323234546.641464
 r1
 xAnalyze
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.mbdac2d2b5e38b341^b3993f2b5e38b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m0000000000000000^2493"Analyze Nav/FirstLevelViewController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-ayxrctknqlvghbefimpfiuavlhqv/Nav-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/FirstLevelViewController.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m30f070f22a44b341^0f42a4f22a44b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m0000000000000000^2493"Analyze Nav/FirstLevelViewController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-ayxrctknqlvghbefimpfiuavlhqv/Nav-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/FirstLevelViewController.plist
 
 CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/NavAppDelegate.m
 s322459480.475543
@@ -220,6 +372,12 @@ xAnalyze
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.ma65f6a585738b341^f8aa79585738b341^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m0000000000000000^2433"Analyze Nav/main.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-ayxrctknqlvghbefimpfiuavlhqv/Nav-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/StaticAnalyzer/normal/i386/main.plist
 
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m
+r0
+
 CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m
 r0
 
@@ -234,11 +392,37 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7347eb45af39b341^185e1146af39b341^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6842771a2c44b341^b9de7a1a2c44b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s322941614.110937
+e322941614.314303
+r1
+xCompileC
+xDerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m787f1caeb23fb341^d97850aeb23fb341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m0000000000000000^2414"CompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o Nav/DisclosureButtonController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureButtonController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureButtonController.o
+
+CCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s322938411.753841
+e322938412.384549
+r1
+xCompileC
+xDerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m2316c12ba63fb341^2671622ca63fb341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m0000000000000000^2414"CompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o Nav/DisclosureDetailController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetailController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/DisclosureDetailController.o
 
 CCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
-s322461226.940341
-e322461227.195017
+s323234842.524585
+e323234842.621452
 r1
 xCompileC
 xDerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
@@ -247,7 +431,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m34d8f02a5e38b341^f31b322b5e38b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m0000000000000000^2406"CompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m8c65861a2c44b341^55189f1a2c44b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m0000000000000000^2406"CompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o Nav/FirstLevelViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/FirstLevelViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/FirstLevelViewController.o
 
 CCompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/NavAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/NavAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
 s322459480.989804
@@ -288,6 +472,14 @@ xobjective-c
 xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m357efd585738b341^8a9313595738b341^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m0000000000000000^2326"CompileC DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o Nav/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Nav-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/PrecompiledHeaders/Nav-Prefix-aojiwoxjhqmfsbbzopsgffiborxi/Nav-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/main.o
 
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xib
+s322941614.382018
+e322941615.838784
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xibefe661aeb23fb341^cfbad6afb23fb341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xib0000000000000000^670"CompileXIB Nav/DisclosureDetail.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/DisclosureDetail.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/DisclosureDetail.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
 CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/en.lproj/MainWindow.xib
 s322460290.199718
 e322460291.004445
@@ -305,24 +497,96 @@ x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Deb
 xNav/en.lproj/InfoPlist.strings
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Nav/en.lproj/InfoPlist.strings137e3d595738b341^90873e595738b341^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/en.lproj/InfoPlist.strings0000000000000000^557"CopyStringsFile DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/en.lproj/InfoPlist.strings Nav/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/en.lproj -- Nav/en.lproj/InfoPlist.strings
 
+CCpResource Nav/Images/button_down.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.png
+s322938413.358135
+e322938413.362854
+r1
+xCpResource
+xNav/Images/button_down.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.pngd1cc5b2da63fb341^ffe75c2da63fb341^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.png000020442305f041^575"CpResource Nav/Images/button_down.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_down.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/button_down.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/button_up.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png
+s322938413.358414
+e322938413.362093
+r1
+xCpResource
+xNav/Images/button_up.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png20d25b2da63fb341^d8b65c2da63fb341^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png000020442305f041^569"CpResource Nav/Images/button_up.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/button_up.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/button_up.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/checkmarkControllerIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png
+s322938413.362355
+e322938413.367687
+r1
+xCpResource
+xNav/Images/checkmarkControllerIcon.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.pngaed35c2da63fb341^9f1f5e2da63fb341^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png000020442305f041^611"CpResource Nav/Images/checkmarkControllerIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/checkmarkControllerIcon.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/checkmarkControllerIcon.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/deleteMeIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.png
+s322938413.363050
+e322938413.373439
+r1
+xCpResource
+xNav/Images/deleteMeIcon.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.pngeffe5c2da63fb341^61a45f2da63fb341^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.png000020442305f041^578"CpResource Nav/Images/deleteMeIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/deleteMeIcon.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/deleteMeIcon.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/detailEditIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png
+s322938413.367798
+e322938413.375792
+r1
+xCpResource
+xNav/Images/detailEditIcon.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png02845f2da63fb341^b761602da63fb341^---0#0#0#-19%DVTDocumentLocation2@140"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png000020442305f041^584"CpResource Nav/Images/detailEditIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/detailEditIcon.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/detailEditIcon.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/disclosureButtonControllerIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png
+s322938413.373908
+e322938413.376831
+r1
+xCpResource
+xNav/Images/disclosureButtonControllerIcon.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png6edf5f2da63fb341^ee77602da63fb341^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png000020442305f041^632"CpResource Nav/Images/disclosureButtonControllerIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/disclosureButtonControllerIcon.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/disclosureButtonControllerIcon.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/moveMeIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.png
+s322938413.376278
+e322938413.379983
+r1
+xCpResource
+xNav/Images/moveMeIcon.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.pnga166602da63fb341^554c612da63fb341^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.png000020442305f041^572"CpResource Nav/Images/moveMeIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/moveMeIcon.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/moveMeIcon.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
+CCpResource Nav/Images/rowControlsIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png
+s322938413.376937
+e322938413.380021
+r1
+xCpResource
+xNav/Images/rowControlsIcon.png
+xDerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Copy DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png3f8c602da63fb341^a950612da63fb341^---0#0#0#-19%DVTDocumentLocation2@141"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png000020442305f041^587"CpResource Nav/Images/rowControlsIcon.png DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/rowControlsIcon.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/Nav/Images/rowControlsIcon.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+
 CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
-s322461227.325988
-e322461227.352140
+s323234842.661546
+e323234842.690677
 r1
 xGenerateDSYMFile
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM7784532b5e38b341^b7255a2b5e38b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM/0000000000000000^587"GenerateDSYMFile DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM976fa91a2c44b341^9ecfb01a2c44b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM/0000000000000000^587"GenerateDSYMFile DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app.dSYM
 
 CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav normal i386
-s322461227.248046
-e322461227.325477
+s323234842.622418
+e323234842.661223
 r1
 xLd
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
 xnormal
 xi386
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav4b923f2b5e38b341^895d532b5e38b341^---0#0#0#--1100"Ld DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav58709f1a2c44b341^2c46a91a2c44b341^---0#0#0#--1100"Ld DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Intermediates/Nav.build/Debug-iphonesimulator/Nav.build/Objects-normal/i386/Nav.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Nav
 
 CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app/Info.plist Nav/Nav-Info.plist
 s322459479.729858
@@ -363,10 +627,10 @@ CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Index/P
 r0
 
 CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
-s322461227.355927
-e322461227.375808
+s323234842.694811
+e323234842.702524
 r1
 xTouch
 x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app562b5b2b5e38b341^853e602b5e38b341^---0#0#0#--378"Touch DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection111"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.appeaebb11a2c44b341^77d9b31a2c44b341^---0#0#0#--378"Touch DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Nav/DerivedData/Nav/Build/Products/Debug-iphonesimulator/Nav.app
 
