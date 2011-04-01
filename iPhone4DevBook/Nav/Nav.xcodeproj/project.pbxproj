@@ -27,6 +27,7 @@
 		23E07C92133FA377006CCB6D /* DisclosureButtonController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23E07C91133FA377006CCB6D /* DisclosureButtonController.m */; };
 		23E07C95133FA3AA006CCB6D /* DisclosureDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23E07C94133FA3AA006CCB6D /* DisclosureDetailController.m */; };
 		23E07C97133FA66E006CCB6D /* DisclosureDetail.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23E07C96133FA66E006CCB6D /* DisclosureDetail.xib */; };
+		23F175F0134583AE008C2E14 /* CheckListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F175EF134583AE008C2E14 /* CheckListController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +59,8 @@
 		23E07C93133FA3AA006CCB6D /* DisclosureDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DisclosureDetailController.h; sourceTree = "<group>"; };
 		23E07C94133FA3AA006CCB6D /* DisclosureDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DisclosureDetailController.m; sourceTree = "<group>"; };
 		23E07C96133FA66E006CCB6D /* DisclosureDetail.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DisclosureDetail.xib; sourceTree = "<group>"; };
+		23F175EE134583AE008C2E14 /* CheckListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CheckListController.h; sourceTree = "<group>"; };
+		23F175EF134583AE008C2E14 /* CheckListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CheckListController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +107,8 @@
 		23A75624133855F6006048F9 /* Nav */ = {
 			isa = PBXGroup;
 			children = (
+				23F175EE134583AE008C2E14 /* CheckListController.h */,
+				23F175EF134583AE008C2E14 /* CheckListController.m */,
 				23E07C93133FA3AA006CCB6D /* DisclosureDetailController.h */,
 				23E07C94133FA3AA006CCB6D /* DisclosureDetailController.m */,
 				23E07C90133FA377006CCB6D /* DisclosureButtonController.h */,
@@ -222,6 +227,7 @@
 				23A7563D133859D0006048F9 /* SecondLevelViewController.m in Sources */,
 				23E07C92133FA377006CCB6D /* DisclosureButtonController.m in Sources */,
 				23E07C95133FA3AA006CCB6D /* DisclosureDetailController.m in Sources */,
+				23F175F0134583AE008C2E14 /* CheckListController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
