@@ -10,6 +10,8 @@
 #import "SecondLevelViewController.h"
 #import "DisclosureButtonController.h"
 #import "CheckListController.h"
+#import "RowControlsController.h"
+#import "MoveMeController.h"
 
 
 @implementation FirstLevelViewController
@@ -33,6 +35,25 @@
     checkListController.rowImage = [UIImage imageNamed:@"checkmarkControllerIcon.png"];
     [array addObject:checkListController];
     [checkListController release];
+    
+    // Table Row Controls
+    RowControlsController *rowControlsController = [[RowControlsController alloc]
+                                                    initWithStyle:UITableViewStylePlain];
+    rowControlsController.title = @"Row Controls";
+    rowControlsController.rowImage = [UIImage imageNamed:@"rowControlsIcon.png"];
+    [array addObject:rowControlsController];
+    [rowControlsController release];
+    
+    // Move Me 
+    MoveMeController *moveMeController = [[MoveMeController alloc]
+                                          initWithStyle:UITableViewStylePlain];
+    moveMeController.title = @"Move Me";
+    moveMeController.rowImage = [UIImage imageNamed:@"moveMeIcon.png"];
+    [array addObject:moveMeController];
+    [moveMeController release];
+    
+                            
+    
     self.controllers = array;
     [array release];
     [super viewDidLoad];

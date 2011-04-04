@@ -6,11 +6,17 @@
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
+#import "SecondLevelViewController.h"
 
 
-@interface CheckListController : NSObject {
+@interface CheckListController : SecondLevelViewController{
+    NSArray *list;
+    NSIndexPath *lastIndexPath;
     
 }
+
+@property (nonatomic, retain) NSArray *list;
+@property (nonatomic, retain) NSIndexPath *lastIndexPath;
 
 @end

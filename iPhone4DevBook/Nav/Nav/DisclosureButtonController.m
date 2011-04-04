@@ -56,7 +56,9 @@
     NSString *rowString = [list objectAtIndex:row];
     cell.textLabel.text = rowString;
     cell.accessoryType = UITableViewCellAccessoryDetailDisclosureButton;
+   
     [rowString release];
+
     return cell;
 }
 
