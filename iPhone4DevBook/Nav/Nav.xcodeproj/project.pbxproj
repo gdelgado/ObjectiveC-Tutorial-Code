@@ -30,6 +30,8 @@
 		23F175F0134583AE008C2E14 /* CheckListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F175EF134583AE008C2E14 /* CheckListController.m */; };
 		23F1760213496F30008C2E14 /* RowControlsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F1760113496F2F008C2E14 /* RowControlsController.m */; };
 		23F1760613497A30008C2E14 /* MoveMeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F1760513497A30008C2E14 /* MoveMeController.m */; };
+		23F1760E134ACF12008C2E14 /* computers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 23F1760D134ACF12008C2E14 /* computers.plist */; };
+		23F17611134ACF4D008C2E14 /* DeleteMeController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F17610134ACF4D008C2E14 /* DeleteMeController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +69,9 @@
 		23F1760113496F2F008C2E14 /* RowControlsController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RowControlsController.m; sourceTree = "<group>"; };
 		23F1760413497A30008C2E14 /* MoveMeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoveMeController.h; sourceTree = "<group>"; };
 		23F1760513497A30008C2E14 /* MoveMeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoveMeController.m; sourceTree = "<group>"; };
+		23F1760D134ACF12008C2E14 /* computers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = computers.plist; sourceTree = "<group>"; };
+		23F1760F134ACF4D008C2E14 /* DeleteMeController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeleteMeController.h; sourceTree = "<group>"; };
+		23F17610134ACF4D008C2E14 /* DeleteMeController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeleteMeController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +118,8 @@
 		23A75624133855F6006048F9 /* Nav */ = {
 			isa = PBXGroup;
 			children = (
+				23F1760F134ACF4D008C2E14 /* DeleteMeController.h */,
+				23F17610134ACF4D008C2E14 /* DeleteMeController.m */,
 				23F1760413497A30008C2E14 /* MoveMeController.h */,
 				23F1760513497A30008C2E14 /* MoveMeController.m */,
 				23F1760013496F2F008C2E14 /* RowControlsController.h */,
@@ -138,6 +145,7 @@
 		23A75625133855F6006048F9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				23F1760D134ACF12008C2E14 /* computers.plist */,
 				23E07C7E1339AF98006CCB6D /* Images */,
 				23A75626133855F6006048F9 /* Nav-Info.plist */,
 				23A75627133855F6006048F9 /* InfoPlist.strings */,
@@ -221,6 +229,7 @@
 				23E07C8D1339AF98006CCB6D /* moveMeIcon.png in Resources */,
 				23E07C8E1339AF98006CCB6D /* rowControlsIcon.png in Resources */,
 				23E07C97133FA66E006CCB6D /* DisclosureDetail.xib in Resources */,
+				23F1760E134ACF12008C2E14 /* computers.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +249,7 @@
 				23F175F0134583AE008C2E14 /* CheckListController.m in Sources */,
 				23F1760213496F30008C2E14 /* RowControlsController.m in Sources */,
 				23F1760613497A30008C2E14 /* MoveMeController.m in Sources */,
+				23F17611134ACF4D008C2E14 /* DeleteMeController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
