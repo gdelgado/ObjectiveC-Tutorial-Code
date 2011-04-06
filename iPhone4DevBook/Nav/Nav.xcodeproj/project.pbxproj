@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		237454A4134C11BF00E794B3 /* President.m in Sources */ = {isa = PBXBuildFile; fileRef = 237454A3134C11BF00E794B3 /* President.m */; };
+		237454A6134C18B000E794B3 /* Presidents.plist in Resources */ = {isa = PBXBuildFile; fileRef = 237454A5134C18B000E794B3 /* Presidents.plist */; };
+		237454A9134C18F700E794B3 /* PresidentsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 237454A8134C18F700E794B3 /* PresidentsViewController.m */; };
+		237454AC134C191300E794B3 /* PresidentDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 237454AB134C191300E794B3 /* PresidentDetailController.m */; };
 		23A7561F133855F6006048F9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23A7561E133855F6006048F9 /* UIKit.framework */; };
 		23A75621133855F6006048F9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23A75620133855F6006048F9 /* Foundation.framework */; };
 		23A75623133855F6006048F9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23A75622133855F6006048F9 /* CoreGraphics.framework */; };
@@ -35,6 +39,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		237454A2134C11BF00E794B3 /* President.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = President.h; sourceTree = "<group>"; };
+		237454A3134C11BF00E794B3 /* President.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = President.m; sourceTree = "<group>"; };
+		237454A5134C18B000E794B3 /* Presidents.plist */ = {isa = PBXFileReference; lastKnownFileType = file.bplist; path = Presidents.plist; sourceTree = "<group>"; };
+		237454A7134C18F700E794B3 /* PresidentsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresidentsViewController.h; sourceTree = "<group>"; };
+		237454A8134C18F700E794B3 /* PresidentsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresidentsViewController.m; sourceTree = "<group>"; };
+		237454AA134C191300E794B3 /* PresidentDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PresidentDetailController.h; sourceTree = "<group>"; };
+		237454AB134C191300E794B3 /* PresidentDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PresidentDetailController.m; sourceTree = "<group>"; };
 		23A7561A133855F6006048F9 /* Nav.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Nav.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		23A7561E133855F6006048F9 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		23A75620133855F6006048F9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -118,6 +129,12 @@
 		23A75624133855F6006048F9 /* Nav */ = {
 			isa = PBXGroup;
 			children = (
+				237454A7134C18F700E794B3 /* PresidentsViewController.h */,
+				237454A8134C18F700E794B3 /* PresidentsViewController.m */,
+				237454AA134C191300E794B3 /* PresidentDetailController.h */,
+				237454AB134C191300E794B3 /* PresidentDetailController.m */,
+				237454A2134C11BF00E794B3 /* President.h */,
+				237454A3134C11BF00E794B3 /* President.m */,
 				23F1760F134ACF4D008C2E14 /* DeleteMeController.h */,
 				23F17610134ACF4D008C2E14 /* DeleteMeController.m */,
 				23F1760413497A30008C2E14 /* MoveMeController.h */,
@@ -145,6 +162,7 @@
 		23A75625133855F6006048F9 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				237454A5134C18B000E794B3 /* Presidents.plist */,
 				23F1760D134ACF12008C2E14 /* computers.plist */,
 				23E07C7E1339AF98006CCB6D /* Images */,
 				23A75626133855F6006048F9 /* Nav-Info.plist */,
@@ -230,6 +248,7 @@
 				23E07C8E1339AF98006CCB6D /* rowControlsIcon.png in Resources */,
 				23E07C97133FA66E006CCB6D /* DisclosureDetail.xib in Resources */,
 				23F1760E134ACF12008C2E14 /* computers.plist in Resources */,
+				237454A6134C18B000E794B3 /* Presidents.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -250,6 +269,9 @@
 				23F1760213496F30008C2E14 /* RowControlsController.m in Sources */,
 				23F1760613497A30008C2E14 /* MoveMeController.m in Sources */,
 				23F17611134ACF4D008C2E14 /* DeleteMeController.m in Sources */,
+				237454A4134C11BF00E794B3 /* President.m in Sources */,
+				237454A9134C18F700E794B3 /* PresidentsViewController.m in Sources */,
+				237454AC134C191300E794B3 /* PresidentDetailController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
