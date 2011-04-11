@@ -13,6 +13,7 @@
 #import "RowControlsController.h"
 #import "MoveMeController.h"
 #import "DeleteMeController.h"
+#import "PresidentsViewController.h"
 
 
 @implementation FirstLevelViewController
@@ -61,6 +62,15 @@
     deleteMeController.rowImage = [UIImage imageNamed:@"deleteMeIcon.png"];
     [array addObject:deleteMeController];
     [deleteMeController release];
+    
+    // President View/Edit
+    PresidentsViewController *presidentsViewController = 
+    [[PresidentsViewController alloc]
+     initWithStyle:UITableViewStylePlain];
+    presidentsViewController.title = @"Detail Edit";
+    presidentsViewController.rowImage = [UIImage imageNamed:@"detailEditIcon.png"];
+    [array addObject:presidentsViewController];
+    [presidentsViewController release];
     
                             
     

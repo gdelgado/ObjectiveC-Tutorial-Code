@@ -1,0 +1,327 @@
+TPresidents
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Info.plist Presidents/Presidents-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch.gch Presidents/Presidents-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/PresidentsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/RootViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents normal i386
+cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents
+cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings Presidents/en.lproj/InfoPlist.strings
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xib
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xib
+cTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/Presidents.LinkFileList
+c000000004DA2735800000000000002F7
+t1302491992
+s759
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/PresidentsAppDelegate.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/RootViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch.gch
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Info.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/PkgInfo
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/DetailView.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.h
+c000000004DA272DB00000000000001E3
+t1302491867
+s483
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m
+c000000004DA272DB0000000000000D2C
+t1302491867
+s3372
+i"DetailViewController.h"
+i"RootViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/Presidents-Prefix.pch
+c000000004DA272DB0000000000000146
+t1302491867
+s326
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.h
+c000000004DA272DB0000000000000270
+t1302491867
+s624
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m
+c000000004DA272DB0000000000000A7A
+t1302491867
+s2682
+i"PresidentsAppDelegate.h"
+i"RootViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.h
+c000000004DA272DB0000000000000168
+t1302491867
+s360
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m
+c000000004DA272DB0000000000000E9D
+t1302491867
+s3741
+i"RootViewController.h"
+i"DetailViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xib
+c000000004DA272DB0000000000004FFD
+t1302491867
+s20477
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/InfoPlist.strings
+c000000004DA272DB000000000000002D
+t1302491867
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xib
+c000000004DA272DB00000000000069BC
+t1302491867
+s27068
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m
+c000000004DA272DB000000000000016A
+t1302491867
+s362
+i<UIKit/UIKit.h>
+
+NPresidents/Presidents-Info.plist
+c000000004DA272DB00000000000004E2
+t1302491867
+s1250
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies61e124d8aa52b341^959d3ed8aa52b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324184795.097599
+e324184795.233358
+r1
+xCompileC
+xDerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.mcd1d19dbaa52b341^b9c63bdbaa52b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m0000000000000000^2719"CompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o Presidents/DetailViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/DetailViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/DetailViewController.o
+
+CCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/PresidentsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324184795.032934
+e324184795.158011
+r1
+xCompileC
+xDerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/PresidentsAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.mfe9a08dbaa52b341^e17a28dbaa52b341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m0000000000000000^2723"CompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/PresidentsAppDelegate.o Presidents/PresidentsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/PresidentsAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/PresidentsAppDelegate.o
+
+CCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/RootViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324184795.158572
+e324184795.256970
+r1
+xCompileC
+xDerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/RootViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m52ba28dbaa52b341^93c941dbaa52b341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m0000000000000000^2711"CompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/RootViewController.o Presidents/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/RootViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/RootViewController.o
+
+CCompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324184795.032503
+e324184795.097216
+r1
+xCompileC
+xDerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.mfd8708dbaa52b341^03eb18dbaa52b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m0000000000000000^2655"CompileC DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o Presidents/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xib
+s324184795.325139
+e324184796.058261
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xibc24c53dbaa52b341^42ea0edcaa52b341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xib0000000000000000^728"CompileXIB Presidents/en.lproj/DetailView.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/DetailView.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/DetailView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xib
+s324184795.321690
+e324184796.100885
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xibc66b52dbaa52b341^84d819dcaa52b341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xib0000000000000000^728"CompileXIB Presidents/en.lproj/MainWindow.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/MainWindow.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings Presidents/en.lproj/InfoPlist.strings
+s324184795.321485
+e324184795.325035
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings
+xPresidents/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy Presidents/en.lproj/InfoPlist.strings416752dbaa52b341^f83453dbaa52b341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/en.lproj/InfoPlist.strings0000000000000000^613"CopyStringsFile DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj/InfoPlist.strings Presidents/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/en.lproj -- Presidents/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents
+s324184795.294348
+e324184795.320007
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYMe36b4bdbaa52b341^74eb51dbaa52b341^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM000020442305f041^678"GenerateDSYMFile DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app.dSYM
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents normal i386
+s324184795.257161
+e324184795.294143
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidentsafe941dbaa52b341^444e4bdbaa52b341^---0#0#0#--1219"Ld DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Objects-normal/i386/Presidents.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Presidents
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Info.plist Presidents/Presidents-Info.plist
+s324184792.249715
+e324184792.254803
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Info.plist
+xPresidents/Presidents-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process Presidents/Presidents-Info.plist240b40d8aa52b341^c53a41d8aa52b341^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/Presidents-Info.plist0000000000000000^742"ProcessInfoPlistFile DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Info.plist Presidents/Presidents-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Presidents/Presidents-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch.gch Presidents/Presidents-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s324184792.256418
+e324184795.032182
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch.gch
+xPresidents/Presidents-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile Presidents/Presidents-Prefix.pch6ebe41d8aa52b341^5c3c08dbaa52b341^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/Presidents-Prefix.pch0000000000000000^2506"ProcessPCH DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch.gch Presidents/Presidents-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/Presidents-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Intermediates/Presidents.build/Debug-iphonesimulator/Presidents.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/Presidents/Presidents-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/PrecompiledHeaders/Presidents-Prefix-ciiuiibiqfklotfoudajhbukjfbr/Presidents-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Index/PrecompiledHeaders/Presidents-Prefix-hgvjxcfhtdcewsbzqbgfgalihknr_ast/Presidents-Prefix.pch.pth Presidents/Presidents-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app
+s324184796.102547
+e324184796.111453
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.appb94f1adcaa52b341^8f891cdcaa52b341^---0#0#0#--420"Touch DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Presidents/DerivedData/Presidents/Build/Products/Debug-iphonesimulator/Presidents.app
+

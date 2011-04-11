@@ -39,7 +39,6 @@
 -(id)initWithCoder:(NSCoder *)coder {
     if (self = [super init]) {
         
-        static NSString *PresidentListCellIdentifier = @"PresidentListCellIdentifier";
         
         number = [coder decodeIntForKey:kPresidentNumberKey];
         name = [[coder decodeObjectForKey:kPresidentNameKey] retain];
