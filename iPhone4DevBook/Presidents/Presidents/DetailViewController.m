@@ -10,6 +10,8 @@
 
 #import "RootViewController.h"
 
+#import "LanguageListController.h"
+
 @interface DetailViewController ()
 @property (nonatomic, retain) UIPopoverController *popoverController;
 - (void)configureView;
@@ -27,6 +29,25 @@
 
 @synthesize webView;
 
+@synthesize languageButton, languagePopoverController, languageString;
+
+static NSString *modifyUrlForLanguage(NSString *url, NSString *lang) {
+    if (!lang) {
+        return url;
+    }
+    
+    // We're relying on a particular Wikipedia URL format here. This is a bit fragile!
+    
+    NSRange languageCodeRange = NSMakeRange(7, 2);
+    if ([[url substringWithRange:languageCodeRange] isEqualToString:lang]) {
+        return url;
+    }
+    else {
+        NSString *newUrl = [url stringByReplacingCharactersInRange:languageCodeRange withString:lang];
+        return newUrl;
+    }
+}
+
 #pragma mark - Managing the detail item
 
 /*
@@ -37,6 +58,7 @@
     if (_detailItem != newDetailItem) {
         [_detailItem release];
         _detailItem = [newDetailItem retain];
+        detailItem = [modifyUrlForLanguage(newDetailItem, languageString) retain];
         
         // Update the view.
         [self configureView];
@@ -44,7 +66,10 @@
 
     if (self.popoverController != nil) {
         [self.popoverController dismissPopoverAnimated:YES];
-    }        
+    }  
+    if (languagePopoverController != nil) {
+        [languagePopoverController dismissPopoverAnimated:YES];
+    }
 }
 
 - (void)configureView
@@ -120,6 +145,8 @@
 	// e.g. self.myOutlet = nil;
 	self.popoverController = nil;
     self.webView = nil;
+    self.languageButton = nil;
+    self.languagePopoverController = nil;
 }
 
 #pragma mark - Memory management
@@ -139,7 +166,29 @@
     [_detailItem release];
     [_detailDescriptionLabel release];
     [webView release];
+    [languageButton release];
+    [languagePopoverController release];
     [super dealloc];
+}
+
+-(void)setLanguageString:(NSString *)newString {
+    if (![newString isEqualToString:languageString]) {
+        [languageString release];
+        languageString = [newString copy];
+        self.detailItem = modifyUrlForLanguage(detailItem, languageString);
+    }
+}
+
+-(IBAction)touchLanguageButton {
+    LanguageListController *languageListController = [[LanguageListController alloc]
+                                                      init];
+    languageListController.detailViewController = self;
+    UIPopoverController *poc = [[UIPopoverController alloc]
+                                initWithContentViewController:languageListController];
+    [poc presentPopoverFromBarButtonItem:languageButton permittedArrowDirections:UIPopoverArrowDirectionAny animated:YES];
+    self.languagePopoverController = poc;
+   // [poc release];
+    [languageListController release];
 }
 
 @end

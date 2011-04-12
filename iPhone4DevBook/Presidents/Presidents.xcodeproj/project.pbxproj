@@ -18,6 +18,7 @@
 		230294841352AA5B004D5055 /* DetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 230294821352AA5B004D5055 /* DetailView.xib */; };
 		230294871352AA5B004D5055 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 230294861352AA5B004D5055 /* RootViewController.m */; };
 		2302948E1352B13A004D5055 /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2302948D1352B13A004D5055 /* PresidentList.plist */; };
+		23029499135400D1004D5055 /* LanguageListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23029498135400D1004D5055 /* LanguageListController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,8 @@
 		230294851352AA5B004D5055 /* RootViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RootViewController.h; sourceTree = "<group>"; };
 		230294861352AA5B004D5055 /* RootViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		2302948D1352B13A004D5055 /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PresidentList.plist; sourceTree = "<group>"; };
+		23029497135400D1004D5055 /* LanguageListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LanguageListController.h; sourceTree = "<group>"; };
+		23029498135400D1004D5055 /* LanguageListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LanguageListController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +87,8 @@
 		230294701352AA5B004D5055 /* Presidents */ = {
 			isa = PBXGroup;
 			children = (
+				23029497135400D1004D5055 /* LanguageListController.h */,
+				23029498135400D1004D5055 /* LanguageListController.m */,
 				230294791352AA5B004D5055 /* PresidentsAppDelegate.h */,
 				2302947A1352AA5B004D5055 /* PresidentsAppDelegate.m */,
 				2302947C1352AA5B004D5055 /* MainWindow.xib */,
@@ -174,6 +179,7 @@
 				2302947B1352AA5B004D5055 /* PresidentsAppDelegate.m in Sources */,
 				230294811352AA5B004D5055 /* DetailViewController.m in Sources */,
 				230294871352AA5B004D5055 /* RootViewController.m in Sources */,
+				23029499135400D1004D5055 /* LanguageListController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +294,7 @@
 				2302948C1352AA5B004D5055 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

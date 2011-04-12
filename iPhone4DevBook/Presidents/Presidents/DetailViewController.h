@@ -11,6 +11,9 @@
 @interface DetailViewController : UIViewController <UIPopoverControllerDelegate, UISplitViewControllerDelegate> {
     UIWebView *webView;
     id detailItem;
+    UIBarButtonItem *languageButton;
+    UIPopoverController *languagePopoverController;
+    NSString *languageString;
 
 }
 
@@ -22,5 +25,13 @@
 @property (nonatomic, retain) IBOutlet UILabel *detailDescriptionLabel;
 
 @property (nonatomic, retain) IBOutlet UIWebView *webView;
+
+@property (nonatomic, retain) IBOutlet UIBarButtonItem *languageButton;
+
+@property (nonatomic, retain) UIPopoverController *languagePopoverController;
+
+@property (nonatomic, copy) NSString *languageString;
+
+-(IBAction)touchLanguageButton;
 
 @end
