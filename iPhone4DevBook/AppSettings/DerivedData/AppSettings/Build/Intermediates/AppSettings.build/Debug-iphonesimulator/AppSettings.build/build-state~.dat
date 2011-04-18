@@ -1,0 +1,362 @@
+TAppSettings
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Info.plist AppSettings/AppSettings-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch.gch AppSettings/AppSettings-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings normal i386
+cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings
+cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/InfoPlist.strings AppSettings/en.lproj/InfoPlist.strings
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xib
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib
+cCpResource AppSettings/Settings.bundle DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle
+cTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettings-Prefix.pch
+c000000004DA526220000000000000148
+t1302668834
+s328
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.h
+c000000004DA5262200000000000001AD
+t1302668834
+s429
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m
+c000000004DA5262200000000000009C3
+t1302668834
+s2499
+i"AppSettingsAppDelegate.h"
+i"MainViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib
+c000000004DA526230000000000004C5A
+t1302668835
+s19546
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.h
+c000000004DA52622000000000000020B
+t1302668834
+s523
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m
+c000000004DA526220000000000000472
+t1302668834
+s1138
+i"FlipsideViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib
+c000000004DA526220000000000004648
+t1302668834
+s17992
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.h
+c000000004DA52622000000000000013E
+t1302668834
+s318
+i"FlipsideViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m
+c000000004DA5262200000000000005C2
+t1302668834
+s1474
+i"MainViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/Settings.bundle
+c000000004DA52A370000000000000088
+t1302669879
+s136
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/InfoPlist.strings
+c000000004DA52622000000000000002D
+t1302668834
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xib
+c000000004DA526220000000000005098
+t1302668834
+s20632
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m
+c000000004DA52622000000000000016B
+t1302668834
+s363
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettings.LinkFileList
+c000000004DAA45B8000000000000030A
+t1303004600
+s778
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch.gch
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/FlipsideView.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Info.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/MainView.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/PkgInfo
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/MainWindow.nib
+t2
+s0
+
+NAppSettings/AppSettings-Info.plist
+c000000004DA5262200000000000004A1
+t1302668834
+s1185
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies739c472a7d5ab341^a65fda387d5ab341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324697404.439129
+e324697404.566081
+r1
+xCompileC
+xDerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m2bda703c7d5ab341^c0ea903c7d5ab341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m0000000000000000^2774"CompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o AppSettings/AppSettingsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettingsAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettingsAppDelegate.o
+
+CCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324697404.287057
+e324697404.453092
+r1
+xCompileC
+xDerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.mb0ab493c7d5ab341^6005743c7d5ab341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m0000000000000000^2774"CompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o AppSettings/FlipsideViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/FlipsideViewController.o
+
+CCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324697404.453448
+e324697404.565632
+r1
+xCompileC
+xDerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.mbe31743c7d5ab341^aad4903c7d5ab341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m0000000000000000^2758"CompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o AppSettings/MainViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/MainViewController.o
+
+CCompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324697404.287028
+e324697404.438709
+r1
+xCompileC
+xDerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m7ea7493c7d5ab341^a54e703c7d5ab341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m0000000000000000^2702"CompileC DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o AppSettings/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib
+s324697407.941822
+e324697408.485650
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib232df13f7d5ab341^b45a7c407d5ab341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib0000000000000000^714"CompileXIB AppSettings/FlipsideView.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/FlipsideView.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib
+s324697407.832980
+e324697408.644488
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib7b4fd53f7d5ab341^f8fca4407d5ab341^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib0000000000000000^702"CompileXIB AppSettings/MainView.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/MainView.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xib
+s324697407.812724
+e324697407.941500
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xibcb2ed03f7d5ab341^3e08f13f7d5ab341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xib0000000000000000^735"CompileXIB AppSettings/en.lproj/MainWindow.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/MainWindow.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/InfoPlist.strings AppSettings/en.lproj/InfoPlist.strings
+s324697407.812563
+e324697407.832877
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/InfoPlist.strings
+xAppSettings/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy AppSettings/en.lproj/InfoPlist.strings5f24d03f7d5ab341^c288d53f7d5ab341^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/en.lproj/InfoPlist.strings0000000000000000^621"CopyStringsFile DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj/InfoPlist.strings AppSettings/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/en.lproj -- AppSettings/en.lproj/InfoPlist.strings
+
+CCpResource AppSettings/Settings.bundle DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle
+s324697408.486126
+e324697408.530084
+r1
+xCpResource
+xAppSettings/Settings.bundle
+xDerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Copy DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle77877c407d5ab341^d0b987407d5ab341^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle0000204d2205f041^633"CpResource AppSettings/Settings.bundle DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Settings.bundle    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/Settings.bundle /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings
+s324697407.728889
+e324697407.810848
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM80b9ba3f7d5ab341^2593cf3f7d5ab341^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM0000204d2205f041^691"GenerateDSYMFile DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app.dSYM
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings normal i386
+s324697404.566238
+e324697407.728349
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettingsdc0e913c7d5ab341^3675ba3f7d5ab341^---0#0#0#--1236"Ld DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/Objects-normal/i386/AppSettings.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/AppSettings
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Info.plist AppSettings/AppSettings-Info.plist
+s324697400.881358
+e324697400.886303
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Info.plist
+xAppSettings/AppSettings-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process AppSettings/AppSettings-Info.plist94c1e1387d5ab341^8620e3387d5ab341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettings-Info.plist0000000000000000^755"ProcessInfoPlistFile DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Info.plist AppSettings/AppSettings-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AppSettings/AppSettings-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch.gch AppSettings/AppSettings-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s324697400.887745
+e324697404.286534
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch.gch
+xAppSettings/AppSettings-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile AppSettings/AppSettings-Prefix.pch986de3387d5ab341^9758493c7d5ab341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettings-Prefix.pch0000000000000000^2551"ProcessPCH DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch.gch AppSettings/AppSettings-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/AppSettings-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Intermediates/AppSettings.build/Debug-iphonesimulator/AppSettings.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/AppSettings/AppSettings-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/PrecompiledHeaders/AppSettings-Prefix-ersuppoptrasayfuxybbstkxehyr/AppSettings-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Index/PrecompiledHeaders/AppSettings-Prefix-bbnrixxbgknvwaezvrmoojajqtbp_ast/AppSettings-Prefix.pch.pth AppSettings/AppSettings-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app
+s324697408.646203
+e324697408.704039
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app8387a5407d5ab341^ea42b4407d5ab341^---0#0#0#--426"Touch DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/AppSettings/DerivedData/AppSettings/Build/Products/Debug-iphonesimulator/AppSettings.app
+
