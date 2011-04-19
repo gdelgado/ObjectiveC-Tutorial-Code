@@ -26,6 +26,27 @@
     [sender resignFirstResponder];
 }
 
+-(BOOL)textFieldShouldReturn:(UITextField *)textField {
+    if (textField == field1) {
+    [field2 becomeFirstResponder];
+    }
+    else if (textField == field2) {
+        [field3 becomeFirstResponder];
+    }
+    
+    else if (textField == field3) {
+        [field4 becomeFirstResponder];
+                        
+    }
+    
+    else if (textField == field4) {
+        [field4 resignFirstResponder];
+    }
+
+
+    
+    return YES;
+}
 
 
 - (void)dealloc

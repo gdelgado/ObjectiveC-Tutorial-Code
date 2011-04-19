@@ -26,5 +26,7 @@
 -(NSString *)dataFilePath;
 -(void)applicationWillResignActive:(NSNotification *)notification;
 -(IBAction)textFieldDoneEditing:(id)sender;
+-(BOOL)textFieldShouldReturn:(UITextField *)textField;
+
 
 @end
