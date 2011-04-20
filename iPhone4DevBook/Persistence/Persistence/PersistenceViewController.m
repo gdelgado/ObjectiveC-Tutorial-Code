@@ -7,6 +7,7 @@
 //
 
 #import "PersistenceViewController.h"
+#import "FourLines.h"
 
 @implementation PersistenceViewController
 
@@ -22,9 +23,6 @@
     return [documentsDirectory stringByAppendingPathComponent:kFileName];
 }
 
--(IBAction)textFieldDoneEditing:(id)sender{
-    [sender resignFirstResponder];
-}
 
 -(BOOL)textFieldShouldReturn:(UITextField *)textField {
     if (textField == field1) {
@@ -80,6 +78,22 @@
         field3.text = [array objectAtIndex:2];
         field4.text = [array objectAtIndex:3];
         [array release];
+        
+        NSData *data = [[NSMutableData alloc]
+                        initWithContentsOfFile:[self dataFilePath]];
+        NSKeyedUnarchiver *unarchiver = [[NSKeyedUnarchiver alloc]
+                                         initForReadingWithData:data];
+        
+        FourLines *fourlines = [unarchiver decodeObjectForKey:kDataKey];
+        [unarchiver finishDecoding];
+        
+        field1.text = fourlines.field1;
+        field2.text = fourlines.field2;
+        field3.text = fourlines.field3;
+        field4.text = fourlines.field4;
+        
+        [unarchiver release];
+        [data release];
 
     }
     UIApplication *app = [UIApplication sharedApplication];
@@ -97,6 +111,22 @@
     [array addObject:field4.text];
     [array writeToFile:[self dataFilePath] atomically:YES];
     [array release];
+    
+    FourLines *fourlines = [[FourLines alloc] init];
+    fourlines.field1 = field1.text;
+    fourlines.field2 = field2.text;
+    fourlines.field3 = field3.text;
+    fourlines.field4 = field4.text;
+    
+    NSMutableData *data = [[NSMutableData alloc] init];
+    NSKeyedArchiver *archiver = [[NSKeyedArchiver alloc]
+                                 initForWritingWithMutableData:data];
+    [archiver encodeObject:fourlines forKey:kDataKey];
+    [archiver finishEncoding];
+    [data writeToFile:[self dataFilePath] atomically:YES];
+    [fourlines release];
+    [archiver release];
+    [data release];
 }
 
 

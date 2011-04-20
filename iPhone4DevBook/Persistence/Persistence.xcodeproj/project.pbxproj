@@ -16,6 +16,7 @@
 		235F272B135BE50B00828A9B /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 235F2729135BE50B00828A9B /* MainWindow.xib */; };
 		235F272E135BE50B00828A9B /* PersistenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 235F272D135BE50B00828A9B /* PersistenceViewController.m */; };
 		235F2731135BE50B00828A9B /* PersistenceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 235F272F135BE50B00828A9B /* PersistenceViewController.xib */; };
+		23CBB84F135E876E00B90EE8 /* FourLines.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB84E135E876E00B90EE8 /* FourLines.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		235F272C135BE50B00828A9B /* PersistenceViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PersistenceViewController.h; sourceTree = "<group>"; };
 		235F272D135BE50B00828A9B /* PersistenceViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PersistenceViewController.m; sourceTree = "<group>"; };
 		235F2730135BE50B00828A9B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PersistenceViewController.xib; sourceTree = "<group>"; };
+		23CBB84D135E876E00B90EE8 /* FourLines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourLines.h; sourceTree = "<group>"; };
+		23CBB84E135E876E00B90EE8 /* FourLines.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourLines.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +82,8 @@
 		235F271D135BE50B00828A9B /* Persistence */ = {
 			isa = PBXGroup;
 			children = (
+				23CBB84D135E876E00B90EE8 /* FourLines.h */,
+				23CBB84E135E876E00B90EE8 /* FourLines.m */,
 				235F2726135BE50B00828A9B /* PersistenceAppDelegate.h */,
 				235F2727135BE50B00828A9B /* PersistenceAppDelegate.m */,
 				235F2729135BE50B00828A9B /* MainWindow.xib */,
@@ -164,6 +169,7 @@
 				235F2725135BE50B00828A9B /* main.m in Sources */,
 				235F2728135BE50B00828A9B /* PersistenceAppDelegate.m in Sources */,
 				235F272E135BE50B00828A9B /* PersistenceViewController.m in Sources */,
+				23CBB84F135E876E00B90EE8 /* FourLines.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +282,7 @@
 				235F2736135BE50B00828A9B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 #define kFileName @"data.plist"
+#define kFileName @"archive"
+#define kDataKey @"Data"
+
 
 @interface PersistenceViewController : UIViewController {
     UITextField *field1;
@@ -25,7 +28,6 @@
 
 -(NSString *)dataFilePath;
 -(void)applicationWillResignActive:(NSNotification *)notification;
--(IBAction)textFieldDoneEditing:(id)sender;
 -(BOOL)textFieldShouldReturn:(UITextField *)textField;
 
 
