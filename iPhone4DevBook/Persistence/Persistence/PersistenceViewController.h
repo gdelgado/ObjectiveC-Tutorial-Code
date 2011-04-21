@@ -8,8 +8,8 @@
 
 #import <UIKit/UIKit.h>
 #define kFileName @"data.plist"
-#define kFileName @"archive"
 #define kDataKey @"Data"
+#define kFileName @"data.sqlite3"
 
 
 @interface PersistenceViewController : UIViewController {

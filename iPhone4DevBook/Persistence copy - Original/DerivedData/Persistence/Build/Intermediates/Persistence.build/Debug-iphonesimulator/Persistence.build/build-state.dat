@@ -1,0 +1,345 @@
+TPersistence
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Info.plist Persistence/Persistence-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch.gch Persistence/Persistence-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence normal i386
+cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence
+cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/InfoPlist.strings Persistence/en.lproj/InfoPlist.strings
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xib
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib
+cTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/Persistence.LinkFileList
+c000000004DABBA3C0000000000000249
+t1303099964
+s585
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o
+t1303184153
+s48124
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o
+t1303184153
+s51588
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o
+t1303099965
+s3124
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/StaticAnalyzer/normal/i386/PersistenceAppDelegate.plist
+t1303175367
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/StaticAnalyzer/normal/i386/PersistenceViewController.plist
+t1303175367
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/StaticAnalyzer/normal/i386/main.plist
+t1303100683
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch.gch
+t1303099965
+s12283312
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch.pth
+t1303100683
+s3351824
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app
+t1303184154
+s204
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM
+t1303184154
+s102
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Info.plist
+t1303099964
+s791
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence
+t1303184154
+s25092
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/PkgInfo
+t1303099964
+s8
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/InfoPlist.strings
+t1303099966
+s42
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/MainWindow.nib
+t1303099967
+s1673
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/PersistenceViewController.nib
+t1303176316
+s4218
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Prefix.pch
+c000000004DABAD8B0000000000000148
+t1303096715
+s328
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.h
+c000000004DABAD8B00000000000001B7
+t1303096715
+s439
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m
+c000000004DABAD8B000000000000097A
+t1303096715
+s2426
+i"PersistenceAppDelegate.h"
+i"PersistenceViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.h
+c000000004DAD03190000000000000332
+t1303184153
+s818
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m
+c000000004DACE5530000000000000BF8
+t1303176531
+s3064
+i"PersistenceViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/InfoPlist.strings
+c000000004DABAD8B000000000000002D
+t1303096715
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xib
+c000000004DABAD8B0000000000004E49
+t1303096715
+s20041
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib
+c000000004DACE4730000000000005845
+t1303176307
+s22597
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m
+c000000004DABAD8B000000000000016B
+t1303096715
+s363
+i<UIKit/UIKit.h>
+
+NPersistence/Persistence-Info.plist
+c000000004DABAD8B00000000000004A1
+t1303096715
+s1185
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m
+s324868167.507734
+e324868167.675149
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m40168247185db341^54e0ac47185db341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m0000000000000000^2838"Analyze Persistence/PersistenceAppDelegate.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/StaticAnalyzer/normal/i386/PersistenceAppDelegate.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m
+s324868167.675300
+e324868167.908937
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.mcafbac47185db341^4dbbe847185db341^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m0000000000000000^2847"Analyze Persistence/PersistenceViewController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/StaticAnalyzer/normal/i386/PersistenceViewController.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m
+s324793483.733116
+e324793483.886822
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m79cdbb8bf45bb341^890ce38bf45bb341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m0000000000000000^2784"Analyze Persistence/main.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/StaticAnalyzer/normal/i386/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies30f23a673d5db341^960490673d5db341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324876953.852175
+e324876953.988494
+r1
+xCompileC
+xDerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m2d7bda993a5db341^4416fd993a5db341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m0000000000000000^2774"CompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o Persistence/PersistenceAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceAppDelegate.o
+
+CCompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324876953.852476
+e324876953.999411
+r1
+xCompileC
+xDerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.mda57da993a5db341^fdd9ff993a5db341^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m0000000000000000^2786"CompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o Persistence/PersistenceViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/PersistenceViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/PersistenceViewController.o
+
+CCompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s324792765.576682
+e324792765.902186
+r1
+xCompileC
+xDerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m16c193bdf15bb341^45f5e6bdf15bb341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m0000000000000000^2702"CompileC DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o Persistence/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xib
+s324792766.135197
+e324792767.091347
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xibb8ac22bef15bb341^e96217bff15bb341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xib0000000000000000^735"CompileXIB Persistence/en.lproj/MainWindow.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/MainWindow.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib
+s324869116.148812
+e324869116.456884
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib773026fc1b5db341^039575fc1b5db341^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib0000000000000000^780"CompileXIB Persistence/en.lproj/PersistenceViewController.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/PersistenceViewController.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/PersistenceViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/InfoPlist.strings Persistence/en.lproj/InfoPlist.strings
+s324792766.135015
+e324792766.139206
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/InfoPlist.strings
+xPersistence/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy Persistence/en.lproj/InfoPlist.stringsacca22bef15bb341^651b24bef15bb341^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/en.lproj/InfoPlist.strings0000000000000000^621"CopyStringsFile DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj/InfoPlist.strings Persistence/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/en.lproj -- Persistence/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence
+s324876954.036325
+e324876954.058570
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM295e099a3a5db341^ea090f9a3a5db341^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM/0000000000000000^691"GenerateDSYMFile DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app.dSYM
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence normal i386
+s324876953.999666
+e324876954.036117
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence3ffdff993a5db341^0340099a3a5db341^---0#0#0#--1236"Ld DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Objects-normal/i386/Persistence.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Persistence
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Info.plist Persistence/Persistence-Info.plist
+s324792764.090905
+e324792764.097771
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Info.plist
+xPersistence/Persistence-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process Persistence/Persistence-Info.plistc45b17bcf15bb341^d36b1bbcf15bb341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Info.plist0000000000000000^755"ProcessInfoPlistFile DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Info.plist Persistence/Persistence-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Persistence/Persistence-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch.gch Persistence/Persistence-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s324792764.099263
+e324792765.574990
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch.gch
+xPersistence/Persistence-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Persistence/Persistence-Prefix.pchb60e1ebcf15bb341^e63c93bdf15bb341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Prefix.pch0000000000000000^2551"ProcessPCH DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch.gch Persistence/Persistence-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bakygtmddemyupbevunxcnczitoa/Persistence-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch.pth Persistence/Persistence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s324793482.157293
+e324793483.732123
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch.pth
+xPersistence/Persistence-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Persistence/Persistence-Prefix.pch1a6a288af45bb341^766dbb8bf45bb341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Prefix.pch0000000000000000^2813"ProcessPCH DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch.pth Persistence/Persistence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/Persistence-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Intermediates/Persistence.build/Debug-iphonesimulator/Persistence.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/PrecompiledHeaders/Persistence-Prefix-bkehdzmvocsidfafoksonvhqedgy/Persistence-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Index/PrecompiledHeaders/Persistence-Prefix-boqpnbmrcfemcofswvplozgazcpq_ast/Persistence-Prefix.pch.pth Persistence/Persistence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app
+s324876954.062041
+e324876954.071417
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.appfaed0f9a3a5db341^c349129a3a5db341^---0#0#0#--426"Touch DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/Persistence.app
+

@@ -17,6 +17,7 @@
 		235F272E135BE50B00828A9B /* PersistenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 235F272D135BE50B00828A9B /* PersistenceViewController.m */; };
 		235F2731135BE50B00828A9B /* PersistenceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 235F272F135BE50B00828A9B /* PersistenceViewController.xib */; };
 		23CBB84F135E876E00B90EE8 /* FourLines.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB84E135E876E00B90EE8 /* FourLines.m */; };
+		23CBB862135FE37B00B90EE8 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 23CBB861135FE37B00B90EE8 /* libsqlite3.dylib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		235F2730135BE50B00828A9B /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/PersistenceViewController.xib; sourceTree = "<group>"; };
 		23CBB84D135E876E00B90EE8 /* FourLines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourLines.h; sourceTree = "<group>"; };
 		23CBB84E135E876E00B90EE8 /* FourLines.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourLines.m; sourceTree = "<group>"; };
+		23CBB861135FE37B00B90EE8 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23CBB862135FE37B00B90EE8 /* libsqlite3.dylib in Frameworks */,
 				235F2718135BE50B00828A9B /* UIKit.framework in Frameworks */,
 				235F271A135BE50B00828A9B /* Foundation.framework in Frameworks */,
 				235F271C135BE50B00828A9B /* CoreGraphics.framework in Frameworks */,
@@ -55,6 +58,7 @@
 		235F2708135BE50B00828A9B = {
 			isa = PBXGroup;
 			children = (
+				23CBB861135FE37B00B90EE8 /* libsqlite3.dylib */,
 				235F271D135BE50B00828A9B /* Persistence */,
 				235F2716135BE50B00828A9B /* Frameworks */,
 				235F2714135BE50B00828A9B /* Products */,

@@ -1,0 +1,30 @@
+Contents of /ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/Persistence/Persistence-Prefix.pch
+2.0 (tags/Apple/clang-139) (based on LLVM 2.9svn)
+-x
+objective-c
+-arch
+i386
+-fmessage-length=0
+-fdiagnostics-print-source-range-info
+-fdiagnostics-show-category=id
+-fdiagnostics-parseable-fixits
+-std=gnu99
+-fpascal-strings
+-O0
+-DDEBUG
+-isysroot
+/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+-fexceptions
+-fasm-blocks
+-mmacosx-version-min=10.6
+-gdwarf-2
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-DIBOutlet=__attribute__((iboutlet))
+-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection))
+-DIBAction=void)__attribute__((ibaction)
+-D__IPHONE_OS_VERSION_MIN_REQUIRED=40300
+-iquote
+-iquote
+-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator/include
+-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Persistence/DerivedData/Persistence/Build/Products/Debug-iphonesimulator
