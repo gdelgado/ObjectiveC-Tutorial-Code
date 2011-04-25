@@ -1,0 +1,376 @@
+TCore Data Persistence
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Info.plist" "Core Data Persistence/Core Data Persistence-Info.plist"
+cDataModelVersionCompile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_Persistence.xcdatamodeld"
+cProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch.gch" "Core Data Persistence/Core Data Persistence-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/main.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core_Data_PersistenceAppDelegate.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/PersistenceViewController.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence" normal i386
+cGenerateDSYMFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYM" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence"
+cCopyStringsFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/InfoPlist.strings" "Core Data Persistence/en.lproj/InfoPlist.strings"
+cCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/MainWindow.xib"
+cCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.xib"
+cTouch "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004D93E02200000000001D6EC0
+t1301536802
+s1928896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004D93E017000000000000046B
+t1301536791
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core Data Persistence-Prefix.pch
+c000000004DB251DD000000000000017E
+t1303531997
+s382
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_Persistence.xcdatamodeld
+c000000004DB4F0D10000000000000088
+t1303703761
+s136
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.h
+c000000004DB4F94E000000000000034D
+t1303705934
+s845
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m
+c000000004DB4F94E0000000000001EE0
+t1303705934
+s7904
+i"Core_Data_PersistenceAppDelegate.h"
+i"PersistenceViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.h
+c000000004DB4F94E0000000000000257
+t1303705934
+s599
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m
+c000000004DB4FACA00000000000010D8
+t1303706314
+s4312
+i"PersistenceViewController.h"
+i"Core_Data_PersistenceAppDelegate.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.xib
+c000000004DB4F6E80000000000004FF5
+t1303705320
+s20469
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/InfoPlist.strings
+c000000004DB251DD000000000000002D
+t1303531997
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/MainWindow.xib
+c000000004DB4FA61000000000000308D
+t1303706209
+s12429
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m
+c000000004DB251DD0000000000000175
+t1303531997
+s373
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core Data Persistence.LinkFileList
+c000000004DB4F0D200000000000002CB
+t1303703762
+s715
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core_Data_PersistenceAppDelegate.o
+t1303705935
+s60232
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/PersistenceViewController.o
+t1303706311
+s57844
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/main.o
+t1303703766
+s3164
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/StaticAnalyzer/normal/i386/Core_Data_PersistenceAppDelegate.plist
+t1303705935
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/StaticAnalyzer/normal/i386/PersistenceViewController.plist
+t1303706311
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/StaticAnalyzer/normal/i386/main.plist
+t1303703766
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch.pth
+t1303703765
+s3509204
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch.gch
+t1303703766
+s12923088
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app
+t1303706311
+s272
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYM
+t1303706311
+s102
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence
+t1303706311
+s31800
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd
+t1303703762
+s136
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Info.plist
+t1303703762
+s837
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/PersistenceViewController.nib
+t1303705577
+s3989
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/PkgInfo
+t1303703762
+s8
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/InfoPlist.strings
+t1303703767
+s42
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/MainWindow.nib
+t1303706215
+s1665
+
+NCore Data Persistence/Core Data Persistence-Info.plist
+c000000004DB251DD00000000000004A1
+t1303531997
+s1185
+
+CAnalyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m"
+s325398735.480624
+e325398735.576398
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m20287bcf3065b341^225194cf3065b341^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/Core_Data_PersistenceAppDelegate.m0000000000000000^3334"Analyze "Core Data Persistence/Core_Data_PersistenceAppDelegate.m"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/StaticAnalyzer/normal/i386/Core_Data_PersistenceAppDelegate.plist"
+
+CAnalyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m"
+s325399110.942098
+e325399111.080036
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m1058f1463265b341^c28914473265b341^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/PersistenceViewController.m0000000000000000^3313"Analyze "Core Data Persistence/PersistenceViewController.m"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/StaticAnalyzer/normal/i386/PersistenceViewController.plist"
+
+CAnalyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m"
+s325396565.985628
+e325396566.151146
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.mc974fc552865b341^e6b126562865b341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/main.m0000000000000000^3250"Analyze "Core Data Persistence/main.m"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch" --analyze "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/StaticAnalyzer/normal/i386/main.plist"
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m"
+r0
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m"
+r0
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies4c3749523265b341^4df861523265b341^---0#1#0#--18"Check dependencies
+
+CCompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core_Data_PersistenceAppDelegate.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325398735.273790
+e325398735.517695
+r1
+xCompileC
+xDerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core_Data_PersistenceAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.md84446cf3065b341^db8784cf3065b341^---0#0#0#-19%DVTDocumentLocation2@143"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/Core_Data_PersistenceAppDelegate.m0000000000000000^3312"CompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core_Data_PersistenceAppDelegate.o" "Core Data Persistence/Core_Data_PersistenceAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_PersistenceAppDelegate.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core_Data_PersistenceAppDelegate.o"
+
+CCompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/PersistenceViewController.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325399122.388739
+e325399122.510717
+r1
+xCompileC
+xDerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/PersistenceViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m2ba563523265b341^59be82523265b341^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/PersistenceViewController.m0000000000000000^3284"CompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/PersistenceViewController.o" "Core Data Persistence/PersistenceViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/PersistenceViewController.o"
+
+CCompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/main.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325396566.605942
+e325396566.728058
+r1
+xCompileC
+xDerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.me9479b562865b341^b360ba562865b341^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/main.m0000000000000000^3200"CompileC "DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/main.o" "Core Data Persistence/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/main.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/main.o"
+
+CCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.xib"
+s325398377.298170
+e325398377.960066
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.xib4d6a4c692f65b341^d2c6f5692f65b341^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/PersistenceViewController.xib0000000000000000^831"CompileXIB "Core Data Persistence/PersistenceViewController.xib"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/PersistenceViewController.nib" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/PersistenceViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/MainWindow.xib"
+s325399015.263833
+e325399015.634475
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/MainWindow.xib1ba143e73165b341^5871a2e73165b341^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/en.lproj/MainWindow.xib0000000000000000^813"CompileXIB "Core Data Persistence/en.lproj/MainWindow.xib"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/MainWindow.nib" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/InfoPlist.strings" "Core Data Persistence/en.lproj/InfoPlist.strings"
+s325396567.458252
+e325396567.462802
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/InfoPlist.strings
+xCore Data Persistence/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Copy Core Data Persistence/en.lproj/InfoPlist.stringsc17175572865b341^bdfc7a572865b341^---0#0#0#-19%DVTDocumentLocation2@135"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/en.lproj/InfoPlist.strings0000000000000000^711"CopyStringsFile "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj/InfoPlist.strings" "Core Data Persistence/en.lproj/InfoPlist.strings"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/en.lproj" -- "Core Data Persistence/en.lproj/InfoPlist.strings"
+
+CDataModelVersionCompile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_Persistence.xcdatamodeld"
+s325396562.295502
+e325396562.437046
+r1
+xDataModelVersionCompile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_Persistence.xcdatamodeld
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection208"DataModelVersionCompile "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd" "Core Data Persistence/Core_Data_Persistence.xcdatamodeld"23be4b522865b341^e8f96f522865b341^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/Core_Data_Persistence.xcdatamodeld/0000000000000000^780"DataModelVersionCompile "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd" "Core Data Persistence/Core_Data_Persistence.xcdatamodeld"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core_Data_Persistence.xcdatamodeld" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core_Data_Persistence.momd"
+
+CGenerateDSYMFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYM" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence"
+s325399122.549459
+e325399122.573327
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection175"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYMa0c38c523265b341^9fc992523265b341^---0#0#0#-19%DVTDocumentLocation2@193"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/DerivedData/Core%20Data%20Persistence/Build/Products/Debug-iphonesimulator/Core%20Data%20Persistence.app.dSYM/0000000000000000^831"GenerateDSYMFile "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYM" "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app.dSYM"
+
+CLd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence" normal i386
+s325399122.511609
+e325399122.549186
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence390f83523265b341^0b988c523265b341^---0#0#0#--1438"Ld "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence" normal i386    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -filelist "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Objects-normal/i386/Core Data Persistence.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -framework CoreData -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Core Data Persistence"
+
+CProcessInfoPlistFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Info.plist" "Core Data Persistence/Core Data Persistence-Info.plist"
+s325396562.287742
+e325396562.293551
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Info.plist
+xCore Data Persistence/Core Data Persistence-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Process Core Data Persistence/Core Data Persistence-Info.plist05144a522865b341^bb2b4b522865b341^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/Core%20Data%20Persistence-Info.plist0000000000000000^897"ProcessInfoPlistFile "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Info.plist" "Core Data Persistence/Core Data Persistence-Info.plist"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "Core Data Persistence/Core Data Persistence-Info.plist" -genpkginfo "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app/Info.plist"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch.pth" "Core Data Persistence/Core Data Persistence-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s325396562.437278
+e325396565.985085
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch.pth
+xCore Data Persistence/Core Data Persistence-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile Core Data Persistence/Core Data Persistence-Prefix.pch5d1970522865b341^9d2dfc552865b341^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/Core%20Data%20Persistence-Prefix.pch0000000000000000^3289"ProcessPCH "DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch.pth" "Core Data Persistence/Core Data Persistence-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core Data Persistence-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-ewxkvmjwoylrtdeahsjuyzyzwele/Core Data Persistence-Prefix.pch.pth"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch.gch" "Core Data Persistence/Core Data Persistence-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325396562.296302
+e325396566.605363
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch.gch
+xCore Data Persistence/Core Data Persistence-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Precompile Core Data Persistence/Core Data Persistence-Prefix.pch12f84b522865b341^f1f09a562865b341^---0#0#0#-19%DVTDocumentLocation2@145"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core%20Data%20Persistence/Core%20Data%20Persistence/Core%20Data%20Persistence-Prefix.pch0000000000000000^3027"ProcessPCH "DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch.gch" "Core Data Persistence/Core Data Persistence-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/Core Data Persistence-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Intermediates/Core Data Persistence.build/Debug-iphonesimulator/Core Data Persistence.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/Core Data Persistence/Core Data Persistence-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/PrecompiledHeaders/Core Data Persistence-Prefix-gmucddtfwkfszadkwdukocoeqbdy/Core Data Persistence-Prefix.pch.gch"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Index/PrecompiledHeaders/Core Data Persistence-Prefix-gbzlybanfajoydgvajlaqiyqadfu_ast/Core Data Persistence-Prefix.pch.pth" "Core Data Persistence/Core Data Persistence-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app"
+s325399122.576856
+e325399122.585608
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection165"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app09c093523265b341^64eb95523265b341^---0#0#0#--492"Touch "DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/Core Data Persistence/DerivedData/Core Data Persistence/Build/Products/Debug-iphonesimulator/Core Data Persistence.app"
+
