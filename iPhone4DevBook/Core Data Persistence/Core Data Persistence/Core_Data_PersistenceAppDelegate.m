@@ -7,6 +7,7 @@
 //
 
 #import "Core_Data_PersistenceAppDelegate.h"
+#import "PersistenceViewController.h"
 
 @implementation Core_Data_PersistenceAppDelegate
 
@@ -19,9 +20,12 @@
 
 @synthesize persistentStoreCoordinator=__persistentStoreCoordinator;
 
+@synthesize rootController;
+
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [self.window addSubview:rootController.view];
     [self.window makeKeyAndVisible];
     return YES;
 }

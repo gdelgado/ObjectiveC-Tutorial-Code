@@ -1,0 +1,368 @@
+TSlowWorker
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/Info.plist SlowWorker/SlowWorker-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch.gch SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch.pth SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m
+cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m
+cAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m
+cCompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker normal i386
+cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker
+cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/InfoPlist.strings SlowWorker/en.lproj/InfoPlist.strings
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xib
+cTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorker.LinkFileList
+c000000004DB63E28000000000000023B
+t1303789096
+s571
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerAppDelegate.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/StaticAnalyzer/normal/i386/SlowWorkerAppDelegate.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/StaticAnalyzer/normal/i386/SlowWorkerViewController.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/StaticAnalyzer/normal/i386/main.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch.gch
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch.pth
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/Info.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/PkgInfo
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/SlowWorkerViewController.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorker-Prefix.pch
+c000000004DB63BE50000000000000146
+t1303788517
+s326
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.h
+c000000004DB63BE500000000000001B2
+t1303788517
+s434
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m
+c000000004DB63BE50000000000000975
+t1303788517
+s2421
+i"SlowWorkerAppDelegate.h"
+i"SlowWorkerViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.h
+c000000004DB63E2800000000000001DC
+t1303789096
+s476
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m
+c000000004DB63E28000000000000070A
+t1303789096
+s1802
+i"SlowWorkerViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/InfoPlist.strings
+c000000004DB63BE5000000000000002D
+t1303788517
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib
+c000000004DB63BE50000000000004E3D
+t1303788517
+s20029
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xib
+c000000004DB63BE50000000000001A49
+t1303788517
+s6729
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m
+c000000004DB63BE5000000000000016A
+t1303788517
+s362
+i<UIKit/UIKit.h>
+
+NSlowWorker/SlowWorker-Info.plist
+c000000004DB63BE500000000000004A1
+t1303788517
+s1185
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m
+s325481897.606566
+e325481897.710466
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.mc3639ba97566b341^69e2b5a97566b341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m0000000000000000^2791"Analyze SlowWorker/SlowWorkerAppDelegate.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/StaticAnalyzer/normal/i386/SlowWorkerAppDelegate.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m
+s325481897.710674
+e325481897.803856
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:31:13:{31:25-31:38}: warning: Value stored to 'startTime' during its initialization is never read
+o     NSDate *startTime = [NSDate date];
+o             ^           ~~~~~~~~~~~~~
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34:15:{34:29-34:68}: warning: Value stored to 'firstResult' during its initialization is never read
+o     NSString *firstResult = [self calculateFirstResult:processData];
+o               ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:35:15:{35:30-35:70}: warning: Value stored to 'secondResult' during its initialization is never read
+o     NSString *secondResult = [self calculateSecondResult:processData];
+o               ^              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o3 warnings generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0f0ab6a97566b341^efc7cda97566b341^-952"/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:31:13:{31:25-31:38}: warning: Value stored to 'startTime' during its initialization is never read     NSDate *startTime = [NSDate date];             ^           ~~~~~~~~~~~~~/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34:15:{34:29-34:68}: warning: Value stored to 'firstResult' during its initialization is never read     NSString *firstResult = [self calculateFirstResult:processData];               ^             ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:35:15:{35:30-35:70}: warning: Value stored to 'secondResult' during its initialization is never read     NSString *secondResult = [self calculateSecondResult:processData];               ^              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~3 warnings generated.3(35%IDEActivityLogAnalyzerResultMessage2@67"Value stored to 'startTime' during its initialization is never read-325481897#18446744073709551615#0#1(38%IDEActivityLogAnalyzerEventStepMessage3@67"Value stored to 'startTime' during its initialization is never read-325481897#18446744073709551615#0#-1#32"com.apple.dt.IDE.analyzer.result23%DVTTextDocumentLocation4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^30#12#30#12#18446744073709551615#0#-1(4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^30#24#30#37#18446744073709551615#0#-67"Value stored to 'startTime' during its initialization is never read1#32"com.apple.dt.IDE.analyzer.result4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^30#12#30#12#18446744073709551615#0#10"Dead store1(4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^30#24#30#37#18446744073709551615#0#-19"Dead initialization2@69"Value stored to 'firstResult' during its initialization is never read-325481897#18446744073709551615#0#1(3@69"Value stored to 'firstResult' during its initialization is never read-325481897#18446744073709551615#0#-1#32"com.apple.dt.IDE.analyzer.result4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#14#33#14#18446744073709551615#0#-1(4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#28#33#67#18446744073709551615#0#-69"Value stored to 'firstResult' during its initialization is never read1#32"com.apple.dt.IDE.analyzer.result4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#14#33#14#18446744073709551615#0#10"Dead store1(4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#28#33#67#18446744073709551615#0#-19"Dead initialization2@70"Value stored to 'secondResult' during its initialization is never read-325481897#18446744073709551615#0#1(3@70"Value stored to 'secondResult' during its initialization is never read-325481897#18446744073709551615#0#-1#32"com.apple.dt.IDE.analyzer.result4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^34#14#34#14#18446744073709551615#0#-1(4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^34#29#34#69#18446744073709551615#0#-70"Value stored to 'secondResult' during its initialization is never read1#32"com.apple.dt.IDE.analyzer.result4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^34#14#34#14#18446744073709551615#0#10"Dead store1(4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^34#29#34#69#18446744073709551615#0#-19"Dead initialization0#0#0#-19%DVTDocumentLocation5@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^2800"Analyze SlowWorker/SlowWorkerViewController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/StaticAnalyzer/normal/i386/SlowWorkerViewController.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m
+s325481897.490841
+e325481897.606426
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m26c37da97566b341^b3409ba97566b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m0000000000000000^2740"Analyze SlowWorker/main.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/StaticAnalyzer/normal/i386/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies56b96ca87566b341^ecc190a87566b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325481898.471446
+e325481898.594788
+r1
+xCompileC
+xDerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.mb8cd78aa7566b341^f0329baa7566b341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m0000000000000000^2723"CompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerAppDelegate.o SlowWorker/SlowWorkerAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerAppDelegate.o
+
+CCompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325481898.278833
+e325481898.518802
+r1
+xCompileC
+xDerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m: In function '-[SlowWorkerViewController doWork:]':
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: 'SlowWorkerViewController' may not respond to '-calculateFirstResult:'
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: (Messages without a matching method signature
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: will be assumed to return 'id' and accept
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: '...' as arguments.)
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:35: warning: 'SlowWorkerViewController' may not respond to '-calculateSecondResult:'
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:35: warning: unused variable 'secondResult'
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: unused variable 'firstResult'
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:31: warning: unused variable 'startTime'
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m588f47aa7566b341^96d184aa7566b341^-1307"/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m: In function '-[SlowWorkerViewController doWork:]':/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: 'SlowWorkerViewController' may not respond to '-calculateFirstResult:'/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: (Messages without a matching method signature/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: will be assumed to return 'id' and accept/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: '...' as arguments.)/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:35: warning: 'SlowWorkerViewController' may not respond to '-calculateSecondResult:'/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:35: warning: unused variable 'secondResult'/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:34: warning: unused variable 'firstResult'/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m:31: warning: unused variable 'startTime'6(21%IDEActivityLogMessage2@70"'SlowWorkerViewController' may not respond to '-calculateFirstResult:'-325481898#142#174#-1#-23%DVTTextDocumentLocation3@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#18446744073709551615#33#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)-325481898#316#149#-0#-3@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#18446744073709551615#33#18446744073709551615#18446744073709551615#0#19"LLVM GCC 4.2 Notice--2@71"'SlowWorkerViewController' may not respond to '-calculateSecondResult:'-325481898#734#175#-1#-3@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#26"'*' may not respond to '*'--2@30"Unused variable 'secondResult'-325481898#909#134#-1#-3@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^34#18446744073709551615#34#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@29"Unused variable 'firstResult'-325481898#1043#133#-1#-3@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^33#18446744073709551615#33#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--2@27"Unused variable 'startTime'-325481898#1176#131#-1#-3@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^30#18446744073709551615#30#18446744073709551615#18446744073709551615#0#19"Unused variable '*'--0#0#0#-19%DVTDocumentLocation4@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m0000000000000000^2735"CompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerViewController.o SlowWorker/SlowWorkerViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorkerViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorkerViewController.o
+
+CCompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325481898.279846
+e325481898.471302
+r1
+xCompileC
+xDerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m96ce47aa7566b341^c7d978aa7566b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m0000000000000000^2655"CompileC DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/main.o SlowWorker/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib
+s325481898.682523
+e325481899.710626
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib10cbaeaa7566b341^96ebb5ab7566b341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib0000000000000000^728"CompileXIB SlowWorker/en.lproj/MainWindow.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/MainWindow.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xib
+s325481898.688895
+e325481899.822493
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xibb56db0aa7566b341^2d96d2ab7566b341^---0#0#0#-19%DVTDocumentLocation2@116"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xib0000000000000000^770"CompileXIB SlowWorker/en.lproj/SlowWorkerViewController.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/SlowWorkerViewController.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/SlowWorkerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/InfoPlist.strings SlowWorker/en.lproj/InfoPlist.strings
+s325481898.681740
+e325481898.688652
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/InfoPlist.strings
+xSlowWorker/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy SlowWorker/en.lproj/InfoPlist.stringsa9a0aeaa7566b341^d34fb0aa7566b341^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/en.lproj/InfoPlist.strings0000000000000000^613"CopyStringsFile DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj/InfoPlist.strings SlowWorker/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/en.lproj -- SlowWorker/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker
+s325481898.654230
+e325481898.678720
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM2a8ea7aa7566b341^0610aeaa7566b341^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM0000204d2205f041^678"GenerateDSYMFile DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app.dSYM
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker normal i386
+s325481898.594981
+e325481898.653320
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker85289baa7566b341^6347a7aa7566b341^---0#0#0#--1219"Ld DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/Objects-normal/i386/SlowWorker.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/SlowWorker
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/Info.plist SlowWorker/SlowWorker-Info.plist
+s325481896.572268
+e325481896.576420
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/Info.plist
+xSlowWorker/SlowWorker-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Process SlowWorker/SlowWorker-Info.plist4a9b92a87566b341^639893a87566b341^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorker-Info.plist0000000000000000^742"ProcessInfoPlistFile DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/Info.plist SlowWorker/SlowWorker-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SlowWorker/SlowWorker-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch.gch SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s325481896.578135
+e325481898.278540
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch.gch
+xSlowWorker/SlowWorker-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile SlowWorker/SlowWorker-Prefix.pchbb2694a87566b341^bff44aaa7566b341^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorker-Prefix.pch0000000000000000^2506"ProcessPCH DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch.gch SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorker-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fqjilnlmkkwovpakyueowlknyzws/SlowWorker-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch.pth SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s325481896.578302
+e325481897.490112
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch.pth
+xSlowWorker/SlowWorker-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile SlowWorker/SlowWorker-Prefix.pchc32c94a87566b341^d87f7da97566b341^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorker-Prefix.pch0000000000000000^2768"ProcessPCH DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch.pth SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/SlowWorker-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Intermediates/SlowWorker.build/Debug-iphonesimulator/SlowWorker.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/SlowWorker/SlowWorker-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/PrecompiledHeaders/SlowWorker-Prefix-fsjfhnoybnxubmcgeuxnlmtojhni/SlowWorker-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Index/PrecompiledHeaders/SlowWorker-Prefix-ekylmpmnmobsmtgaiuzjgqmrzbbe_ast/SlowWorker-Prefix.pch.pth SlowWorker/SlowWorker-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app
+s325481899.824719
+e325481899.836093
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection132"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.appf032d3ab7566b341^cb11d6ab7566b341^---0#0#0#--420"Touch DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/SlowWorker/DerivedData/SlowWorker/Build/Products/Debug-iphonesimulator/SlowWorker.app
+

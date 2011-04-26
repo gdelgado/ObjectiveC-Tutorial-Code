@@ -8,7 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
+@class PersistenceViewController;
+
 @interface Core_Data_PersistenceAppDelegate : NSObject <UIApplicationDelegate> {
+    PersistenceViewController *rootController;
 
 }
 
@@ -17,6 +20,7 @@
 @property (nonatomic, retain, readonly) NSManagedObjectContext *managedObjectContext;
 @property (nonatomic, retain, readonly) NSManagedObjectModel *managedObjectModel;
 @property (nonatomic, retain, readonly) NSPersistentStoreCoordinator *persistentStoreCoordinator;
+@property (nonatomic,retain) IBOutlet PersistenceViewController *rootController;
 
 - (void)saveContext;
 - (NSURL *)applicationDocumentsDirectory;

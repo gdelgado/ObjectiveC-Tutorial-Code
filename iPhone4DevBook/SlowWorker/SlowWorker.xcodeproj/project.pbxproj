@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		23CBB8A71366736500B90EE8 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23CBB8A61366736500B90EE8 /* UIKit.framework */; };
+		23CBB8A91366736500B90EE8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23CBB8A81366736500B90EE8 /* Foundation.framework */; };
+		23CBB8AB1366736500B90EE8 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23CBB8AA1366736500B90EE8 /* CoreGraphics.framework */; };
+		23CBB8B11366736500B90EE8 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8AF1366736500B90EE8 /* InfoPlist.strings */; };
+		23CBB8B41366736500B90EE8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB8B31366736500B90EE8 /* main.m */; };
+		23CBB8B71366736500B90EE8 /* SlowWorkerAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB8B61366736500B90EE8 /* SlowWorkerAppDelegate.m */; };
+		23CBB8BA1366736500B90EE8 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8B81366736500B90EE8 /* MainWindow.xib */; };
+		23CBB8BD1366736500B90EE8 /* SlowWorkerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB8BC1366736500B90EE8 /* SlowWorkerViewController.m */; };
+		23CBB8C01366736500B90EE8 /* SlowWorkerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8BE1366736500B90EE8 /* SlowWorkerViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		23CBB8A21366736500B90EE8 /* SlowWorker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlowWorker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		23CBB8A61366736500B90EE8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		23CBB8A81366736500B90EE8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		23CBB8AA1366736500B90EE8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		23CBB8AE1366736500B90EE8 /* SlowWorker-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SlowWorker-Info.plist"; sourceTree = "<group>"; };
+		23CBB8B01366736500B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		23CBB8B21366736500B90EE8 /* SlowWorker-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SlowWorker-Prefix.pch"; sourceTree = "<group>"; };
+		23CBB8B31366736500B90EE8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		23CBB8B51366736500B90EE8 /* SlowWorkerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SlowWorkerAppDelegate.h; sourceTree = "<group>"; };
+		23CBB8B61366736500B90EE8 /* SlowWorkerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SlowWorkerAppDelegate.m; sourceTree = "<group>"; };
+		23CBB8B91366736500B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		23CBB8BB1366736500B90EE8 /* SlowWorkerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SlowWorkerViewController.h; sourceTree = "<group>"; };
+		23CBB8BC1366736500B90EE8 /* SlowWorkerViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SlowWorkerViewController.m; sourceTree = "<group>"; };
+		23CBB8BF1366736500B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SlowWorkerViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		23CBB89F1366736500B90EE8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23CBB8A71366736500B90EE8 /* UIKit.framework in Frameworks */,
+				23CBB8A91366736500B90EE8 /* Foundation.framework in Frameworks */,
+				23CBB8AB1366736500B90EE8 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		23CBB8971366736500B90EE8 = {
+			isa = PBXGroup;
+			children = (
+				23CBB8AC1366736500B90EE8 /* SlowWorker */,
+				23CBB8A51366736500B90EE8 /* Frameworks */,
+				23CBB8A31366736500B90EE8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		23CBB8A31366736500B90EE8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				23CBB8A21366736500B90EE8 /* SlowWorker.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		23CBB8A51366736500B90EE8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				23CBB8A61366736500B90EE8 /* UIKit.framework */,
+				23CBB8A81366736500B90EE8 /* Foundation.framework */,
+				23CBB8AA1366736500B90EE8 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		23CBB8AC1366736500B90EE8 /* SlowWorker */ = {
+			isa = PBXGroup;
+			children = (
+				23CBB8B51366736500B90EE8 /* SlowWorkerAppDelegate.h */,
+				23CBB8B61366736500B90EE8 /* SlowWorkerAppDelegate.m */,
+				23CBB8B81366736500B90EE8 /* MainWindow.xib */,
+				23CBB8BB1366736500B90EE8 /* SlowWorkerViewController.h */,
+				23CBB8BC1366736500B90EE8 /* SlowWorkerViewController.m */,
+				23CBB8BE1366736500B90EE8 /* SlowWorkerViewController.xib */,
+				23CBB8AD1366736500B90EE8 /* Supporting Files */,
+			);
+			path = SlowWorker;
+			sourceTree = "<group>";
+		};
+		23CBB8AD1366736500B90EE8 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				23CBB8AE1366736500B90EE8 /* SlowWorker-Info.plist */,
+				23CBB8AF1366736500B90EE8 /* InfoPlist.strings */,
+				23CBB8B21366736500B90EE8 /* SlowWorker-Prefix.pch */,
+				23CBB8B31366736500B90EE8 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		23CBB8A11366736500B90EE8 /* SlowWorker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23CBB8C31366736500B90EE8 /* Build configuration list for PBXNativeTarget "SlowWorker" */;
+			buildPhases = (
+				23CBB89E1366736500B90EE8 /* Sources */,
+				23CBB89F1366736500B90EE8 /* Frameworks */,
+				23CBB8A01366736500B90EE8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SlowWorker;
+			productName = SlowWorker;
+			productReference = 23CBB8A21366736500B90EE8 /* SlowWorker.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		23CBB8991366736500B90EE8 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 23CBB89C1366736500B90EE8 /* Build configuration list for PBXProject "SlowWorker" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 23CBB8971366736500B90EE8;
+			productRefGroup = 23CBB8A31366736500B90EE8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				23CBB8A11366736500B90EE8 /* SlowWorker */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		23CBB8A01366736500B90EE8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23CBB8B11366736500B90EE8 /* InfoPlist.strings in Resources */,
+				23CBB8BA1366736500B90EE8 /* MainWindow.xib in Resources */,
+				23CBB8C01366736500B90EE8 /* SlowWorkerViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		23CBB89E1366736500B90EE8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23CBB8B41366736500B90EE8 /* main.m in Sources */,
+				23CBB8B71366736500B90EE8 /* SlowWorkerAppDelegate.m in Sources */,
+				23CBB8BD1366736500B90EE8 /* SlowWorkerViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		23CBB8AF1366736500B90EE8 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23CBB8B01366736500B90EE8 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		23CBB8B81366736500B90EE8 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23CBB8B91366736500B90EE8 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		23CBB8BE1366736500B90EE8 /* SlowWorkerViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23CBB8BF1366736500B90EE8 /* en */,
+			);
+			name = SlowWorkerViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		23CBB8C11366736500B90EE8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		23CBB8C21366736500B90EE8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		23CBB8C41366736500B90EE8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SlowWorker/SlowWorker-Prefix.pch";
+				INFOPLIST_FILE = "SlowWorker/SlowWorker-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		23CBB8C51366736500B90EE8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "SlowWorker/SlowWorker-Prefix.pch";
+				INFOPLIST_FILE = "SlowWorker/SlowWorker-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23CBB89C1366736500B90EE8 /* Build configuration list for PBXProject "SlowWorker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23CBB8C11366736500B90EE8 /* Debug */,
+				23CBB8C21366736500B90EE8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		23CBB8C31366736500B90EE8 /* Build configuration list for PBXNativeTarget "SlowWorker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23CBB8C41366736500B90EE8 /* Debug */,
+				23CBB8C51366736500B90EE8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 23CBB8991366736500B90EE8 /* Project object */;
+}

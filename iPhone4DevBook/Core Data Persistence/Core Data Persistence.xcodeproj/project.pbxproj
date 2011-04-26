@@ -16,6 +16,8 @@
 		23CBB8861362895E00B90EE8 /* Core_Data_PersistenceAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB8851362895E00B90EE8 /* Core_Data_PersistenceAppDelegate.m */; };
 		23CBB8891362895E00B90EE8 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8871362895E00B90EE8 /* MainWindow.xib */; };
 		23CBB88C1362895E00B90EE8 /* Core_Data_Persistence.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB88A1362895E00B90EE8 /* Core_Data_Persistence.xcdatamodeld */; };
+		23CBB8951365263800B90EE8 /* PersistenceViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB8931365263800B90EE8 /* PersistenceViewController.m */; };
+		23CBB8961365263800B90EE8 /* PersistenceViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8941365263800B90EE8 /* PersistenceViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,14 +26,17 @@
 		23CBB8751362895D00B90EE8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23CBB8771362895D00B90EE8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		23CBB8791362895D00B90EE8 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		23CBB87D1362895D00B90EE8 /* Core Data Persistence-Info.plist */ = {isa = PBXFileReference; path = "Core Data Persistence-Info.plist"; sourceTree = "<group>"; };
+		23CBB87D1362895D00B90EE8 /* Core Data Persistence-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Core Data Persistence-Info.plist"; sourceTree = "<group>"; };
 		23CBB87F1362895D00B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		23CBB8811362895D00B90EE8 /* Core Data Persistence-Prefix.pch */ = {isa = PBXFileReference; path = "Core Data Persistence-Prefix.pch"; sourceTree = "<group>"; };
+		23CBB8811362895D00B90EE8 /* Core Data Persistence-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Core Data Persistence-Prefix.pch"; sourceTree = "<group>"; };
 		23CBB8821362895D00B90EE8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		23CBB8841362895D00B90EE8 /* Core_Data_PersistenceAppDelegate.h */ = {isa = PBXFileReference; path = Core_Data_PersistenceAppDelegate.h; sourceTree = "<group>"; };
+		23CBB8841362895D00B90EE8 /* Core_Data_PersistenceAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Core_Data_PersistenceAppDelegate.h; sourceTree = "<group>"; };
 		23CBB8851362895E00B90EE8 /* Core_Data_PersistenceAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Core_Data_PersistenceAppDelegate.m; sourceTree = "<group>"; };
 		23CBB8881362895E00B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		23CBB88B1362895E00B90EE8 /* Core_Data_Persistence.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Core_Data_Persistence.xcdatamodel; sourceTree = "<group>"; };
+		23CBB8921365263800B90EE8 /* PersistenceViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PersistenceViewController.h; sourceTree = "<group>"; };
+		23CBB8931365263800B90EE8 /* PersistenceViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PersistenceViewController.m; sourceTree = "<group>"; };
+		23CBB8941365263800B90EE8 /* PersistenceViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersistenceViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,10 +86,13 @@
 			isa = PBXGroup;
 			children = (
 				23CBB8841362895D00B90EE8 /* Core_Data_PersistenceAppDelegate.h */,
+				23CBB8921365263800B90EE8 /* PersistenceViewController.h */,
+				23CBB8931365263800B90EE8 /* PersistenceViewController.m */,
 				23CBB8851362895E00B90EE8 /* Core_Data_PersistenceAppDelegate.m */,
 				23CBB8871362895E00B90EE8 /* MainWindow.xib */,
 				23CBB88A1362895E00B90EE8 /* Core_Data_Persistence.xcdatamodeld */,
 				23CBB87C1362895D00B90EE8 /* Supporting Files */,
+				23CBB8941365263800B90EE8 /* PersistenceViewController.xib */,
 			);
 			path = "Core Data Persistence";
 			sourceTree = "<group>";
@@ -149,6 +157,7 @@
 			files = (
 				23CBB8801362895D00B90EE8 /* InfoPlist.strings in Resources */,
 				23CBB8891362895E00B90EE8 /* MainWindow.xib in Resources */,
+				23CBB8961365263800B90EE8 /* PersistenceViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,6 +171,7 @@
 				23CBB8831362895D00B90EE8 /* main.m in Sources */,
 				23CBB8861362895E00B90EE8 /* Core_Data_PersistenceAppDelegate.m in Sources */,
 				23CBB88C1362895E00B90EE8 /* Core_Data_Persistence.xcdatamodeld in Sources */,
+				23CBB8951365263800B90EE8 /* PersistenceViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
