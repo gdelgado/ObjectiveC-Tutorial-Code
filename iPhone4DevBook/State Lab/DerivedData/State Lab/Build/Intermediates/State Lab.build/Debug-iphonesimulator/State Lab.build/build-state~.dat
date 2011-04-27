@@ -1,0 +1,292 @@
+TState Lab
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/Info.plist" "State Lab/State Lab-Info.plist"
+cProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch.gch" "State Lab/State Lab-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/main.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabAppDelegate.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabViewController.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab" normal i386
+cGenerateDSYMFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYM" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab"
+cCopyStringsFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/InfoPlist.strings" "State Lab/en.lproj/InfoPlist.strings"
+cCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/MainWindow.xib"
+cCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/State_LabViewController.xib"
+cTouch "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State Lab.LinkFileList
+c000000004DB7919D000000000000022D
+t1303875997
+s557
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabAppDelegate.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch.gch
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYM
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/Info.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/PkgInfo
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/State_LabViewController.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State Lab-Prefix.pch
+c000000004DB790E00000000000000144
+t1303875808
+s324
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.h
+c000000004DB790E100000000000001AD
+t1303875809
+s429
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m
+c000000004DB7919D0000000000000A84
+t1303875997
+s2692
+i"State_LabAppDelegate.h"
+i"State_LabViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.h
+c000000004DB790E100000000000000FB
+t1303875809
+s251
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m
+c000000004DB790E100000000000003F8
+t1303875809
+s1016
+i"State_LabViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/InfoPlist.strings
+c000000004DB790E0000000000000002D
+t1303875808
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/MainWindow.xib
+c000000004DB790E10000000000004E31
+t1303875809
+s20017
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/State_LabViewController.xib
+c000000004DB790E10000000000001A45
+t1303875809
+s6725
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m
+c000000004DB790E00000000000000169
+t1303875808
+s361
+i<UIKit/UIKit.h>
+
+NState Lab/State Lab-Info.plist
+c000000004DB790E000000000000004A1
+t1303875808
+s1185
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m"
+r0
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m"
+r0
+
+CBuild AST from "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf6795c1dc967b341^dd247a1dc967b341^---0#1#0#--18"Check dependencies
+
+CCompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabAppDelegate.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325568798.858370
+e325568799.002795
+r1
+xCompileC
+xDerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m54e1db1ec967b341^8fc3001fc967b341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/State_LabAppDelegate.m0000000000000000^2700"CompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabAppDelegate.o" "State Lab/State_LabAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabAppDelegate.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabAppDelegate.o"
+
+CCompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabViewController.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325568798.936681
+e325568799.030987
+r1
+xCompileC
+xDerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m4aebef1ec967b341^07ef071fc967b341^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/State_LabViewController.m0000000000000000^2712"CompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabViewController.o" "State Lab/State_LabViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State_LabViewController.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State_LabViewController.o"
+
+CCompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/main.o" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325568798.858186
+e325568798.936413
+r1
+xCompileC
+xDerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m02d9db1ec967b341^d8b7ef1ec967b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/main.m0000000000000000^2636"CompileC "DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/main.o" "State Lab/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator" -include "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/main.m" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/main.o"
+
+CCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/MainWindow.xib"
+s325568799.093803
+e325568800.171056
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/MainWindow.xib2716181fc967b341^89d12b20c967b341^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/en.lproj/MainWindow.xib0000000000000000^729"CompileXIB "State Lab/en.lproj/MainWindow.xib"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/MainWindow.nib" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/State_LabViewController.xib"
+s325568799.097479
+e325568800.248530
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/State_LabViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/State_LabViewController.xibaf09191fc967b341^dfa63f20c967b341^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/en.lproj/State_LabViewController.xib0000000000000000^768"CompileXIB "State Lab/en.lproj/State_LabViewController.xib"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/State_LabViewController.nib" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/en.lproj/State_LabViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/InfoPlist.strings" "State Lab/en.lproj/InfoPlist.strings"
+s325568799.093629
+e325568799.097370
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/InfoPlist.strings
+xState Lab/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Copy State Lab/en.lproj/InfoPlist.strings740c181fc967b341^96ec181fc967b341^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/en.lproj/InfoPlist.strings0000000000000000^615"CopyStringsFile "DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj/InfoPlist.strings" "State Lab/en.lproj/InfoPlist.strings"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/en.lproj" -- "State Lab/en.lproj/InfoPlist.strings"
+
+CGenerateDSYMFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYM" "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab"
+s325568799.068482
+e325568799.091749
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYMfa9a111fc967b341^357c171fc967b341^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/DerivedData/State%20Lab/Build/Products/Debug-iphonesimulator/State%20Lab.app.dSYM0000204d2205f041^675"GenerateDSYMFile "DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYM" "DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app.dSYM"
+
+CLd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab" normal i386
+s325568799.031189
+e325568799.068250
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Labae12081fc967b341^7d79111fc967b341^---0#0#0#--1214"Ld "DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab" normal i386    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator" -filelist "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/Objects-normal/i386/State Lab.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/State Lab"
+
+CProcessInfoPlistFile "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/Info.plist" "State Lab/State Lab-Info.plist"
+s325568797.493479
+e325568797.501913
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/Info.plist
+xState Lab/State Lab-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process State Lab/State Lab-Info.plist90687e1dc967b341^e888801dc967b341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/State%20Lab-Info.plist0000000000000000^741"ProcessInfoPlistFile "DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/Info.plist" "State Lab/State Lab-Info.plist"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility "State Lab/State Lab-Info.plist" -genpkginfo "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app/Info.plist"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch.gch" "State Lab/State Lab-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+s325568797.504544
+e325568798.857293
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch.gch
+xState Lab/State Lab-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile State Lab/State Lab-Prefix.pchf851811dc967b341^4f76db1ec967b341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/State%20Lab/State%20Lab/State%20Lab-Prefix.pch0000000000000000^2487"ProcessPCH "DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch.gch" "State Lab/State Lab-Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-generated-files.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-own-target-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-all-target-headers.hmap" -iquote "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/State Lab-project-headers.hmap" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/include" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources/i386" "-I/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Intermediates/State Lab.build/Debug-iphonesimulator/State Lab.build/DerivedSources" "-F/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator" -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/State Lab/State Lab-Prefix.pch" -o "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/PrecompiledHeaders/State Lab-Prefix-glwtggakmzjesaddxlxhkrrtuvhp/State Lab-Prefix.pch.gch"
+
+CProcessPCH "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Index/PrecompiledHeaders/State Lab-Prefix-gtucdiirlamgmndxtxfazvidxfja_ast/State Lab-Prefix.pch.pth" "State Lab/State Lab-Prefix.pch" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app"
+s325568800.250161
+e325568800.260473
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.appc51c4020c967b341^39b64220c967b341^---0#0#0#--420"Touch "DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app"    cd "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/ObjectiveC-Tutorial-Code/iPhone4DevBook/State Lab/DerivedData/State Lab/Build/Products/Debug-iphonesimulator/State Lab.app"
+
