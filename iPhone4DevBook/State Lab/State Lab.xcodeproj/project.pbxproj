@@ -16,6 +16,7 @@
 		23CBB8E91367C86100B90EE8 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8E71367C86100B90EE8 /* MainWindow.xib */; };
 		23CBB8EC1367C86100B90EE8 /* State_LabViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23CBB8EB1367C86100B90EE8 /* State_LabViewController.m */; };
 		23CBB8EF1367C86100B90EE8 /* State_LabViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8ED1367C86100B90EE8 /* State_LabViewController.xib */; };
+		23CBB8FE136C7EB000B90EE8 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = 23CBB8FD136C7EB000B90EE8 /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,16 +24,17 @@
 		23CBB8D51367C86000B90EE8 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		23CBB8D71367C86000B90EE8 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		23CBB8D91367C86000B90EE8 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		23CBB8DD1367C86000B90EE8 /* State Lab-Info.plist */ = {isa = PBXFileReference; path = "State Lab-Info.plist"; sourceTree = "<group>"; };
+		23CBB8DD1367C86000B90EE8 /* State Lab-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "State Lab-Info.plist"; sourceTree = "<group>"; };
 		23CBB8DF1367C86000B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		23CBB8E11367C86000B90EE8 /* State Lab-Prefix.pch */ = {isa = PBXFileReference; path = "State Lab-Prefix.pch"; sourceTree = "<group>"; };
+		23CBB8E11367C86000B90EE8 /* State Lab-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "State Lab-Prefix.pch"; sourceTree = "<group>"; };
 		23CBB8E21367C86000B90EE8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		23CBB8E41367C86100B90EE8 /* State_LabAppDelegate.h */ = {isa = PBXFileReference; path = State_LabAppDelegate.h; sourceTree = "<group>"; };
+		23CBB8E41367C86100B90EE8 /* State_LabAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = State_LabAppDelegate.h; sourceTree = "<group>"; };
 		23CBB8E51367C86100B90EE8 /* State_LabAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = State_LabAppDelegate.m; sourceTree = "<group>"; };
 		23CBB8E81367C86100B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		23CBB8EA1367C86100B90EE8 /* State_LabViewController.h */ = {isa = PBXFileReference; path = State_LabViewController.h; sourceTree = "<group>"; };
+		23CBB8EA1367C86100B90EE8 /* State_LabViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = State_LabViewController.h; sourceTree = "<group>"; };
 		23CBB8EB1367C86100B90EE8 /* State_LabViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = State_LabViewController.m; sourceTree = "<group>"; };
 		23CBB8EE1367C86100B90EE8 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/State_LabViewController.xib; sourceTree = "<group>"; };
+		23CBB8FD136C7EB000B90EE8 /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = smiley.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		23CBB8DC1367C86000B90EE8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				23CBB8FD136C7EB000B90EE8 /* smiley.png */,
 				23CBB8DD1367C86000B90EE8 /* State Lab-Info.plist */,
 				23CBB8DE1367C86000B90EE8 /* InfoPlist.strings */,
 				23CBB8E11367C86000B90EE8 /* State Lab-Prefix.pch */,
@@ -151,6 +154,7 @@
 				23CBB8E01367C86000B90EE8 /* InfoPlist.strings in Resources */,
 				23CBB8E91367C86100B90EE8 /* MainWindow.xib in Resources */,
 				23CBB8EF1367C86100B90EE8 /* State_LabViewController.xib in Resources */,
+				23CBB8FE136C7EB000B90EE8 /* smiley.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,6 +280,7 @@
 				23CBB8F41367C86100B90EE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
