@@ -1,0 +1,451 @@
+TMap
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Info.plist Map/Map-Info.plist
+cProcessPCH /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch.gch Map/Map-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/main.o /iPhoneBootCamp/Map/Map/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapAppDelegate.o /iPhoneBootCamp/Map/Map/MapAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/RootViewController.o /iPhoneBootCamp/Map/Map/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/TableViewController.o /iPhoneBootCamp/Map/Map/TableViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MainView.o /iPhoneBootCamp/Map/Map/MainView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map normal i386
+cGenerateDSYMFile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map
+cCopyStringsFile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings
+cCompileXIB /iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib
+cCompileXIB /iPhoneBootCamp/Map/Map/TableViewController.xib
+cCompileXIB /iPhoneBootCamp/Map/Map/MainView.xib
+cTouch /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D99FACD000000000018CAB0
+t1301936845
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MainView.o
+t1305345462
+s35696
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/Map.LinkFileList
+c000000004DCDFD5B000000000000029C
+t1305345371
+s668
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapAppDelegate.o
+t1305346392
+s47544
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapViewController.o
+t1305162651
+s34576
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/RootViewController.o
+t1305346839
+s43740
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/TableViewController.o
+t1305258191
+s44312
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/main.o
+t1305346207
+s3044
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch.gch
+t1305162646
+s12283312
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app
+t1305346976
+s306
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM
+t1305346840
+s102
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Info.plist
+t1305162635
+s763
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/MainView.nib
+t1305346010
+s2159
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map
+t1305346840
+s27944
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/PkgInfo
+t1305162635
+s8
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/RootViewController.nib
+t1305344309
+s2556
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/TableViewController.nib
+t1305258210
+s2059
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/InfoPlist.strings
+t1305162653
+s42
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/MainWindow.nib
+t1305346976
+s3220
+
+N/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/MapViewController.nib
+t1305163685
+s2534
+
+N/iPhoneBootCamp/Map/Map/MainView.h
+c000000004DCDFB0800000000000000D8
+t1305344776
+s216
+i<UIKit/UIKit.h>
+
+N/iPhoneBootCamp/Map/Map/MainView.m
+c000000004DCDFB08000000000000048B
+t1305344776
+s1163
+i"MainView.h"
+
+N/iPhoneBootCamp/Map/Map/MainView.xib
+c000000004DCDFF52000000000000236D
+t1305345874
+s9069
+
+N/iPhoneBootCamp/Map/Map/Map-Prefix.pch
+c000000004DCB33620000000000000138
+t1305162594
+s312
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/iPhoneBootCamp/Map/Map/MapAppDelegate.h
+c000000004DCDFD5A000000000000019C
+t1305345370
+s412
+i<UIKit/UIKit.h>
+
+N/iPhoneBootCamp/Map/Map/MapAppDelegate.m
+c000000004DCE0673000000000000094D
+t1305347699
+s2381
+i"MapAppDelegate.h"
+i"RootViewController.h"
+
+N/iPhoneBootCamp/Map/Map/MapViewController.h
+c000000004DCB336200000000000000E9
+t1305162594
+s233
+i<UIKit/UIKit.h>
+
+N/iPhoneBootCamp/Map/Map/MapViewController.m
+c000000004DCB336200000000000003E0
+t1305162594
+s992
+i"MapViewController.h"
+
+N/iPhoneBootCamp/Map/Map/RootViewController.h
+c000000004DCDFD5A0000000000000273
+t1305345370
+s627
+i<UIKit/UIKit.h>
+
+N/iPhoneBootCamp/Map/Map/RootViewController.m
+c000000004DCE03140000000000000928
+t1305346836
+s2344
+i"RootViewController.h"
+i"MapViewController.h"
+i"TableViewController.h"
+
+N/iPhoneBootCamp/Map/Map/RootViewController.xib
+c000000004DCDFA6E0000000000002B40
+t1305344622
+s11072
+
+N/iPhoneBootCamp/Map/Map/TableViewController.h
+c000000004DCCA6C2000000000000014C
+t1305257666
+s332
+i<UIKit/UIKit.h>
+
+N/iPhoneBootCamp/Map/Map/TableViewController.m
+c000000004DCCA6F10000000000001175
+t1305257713
+s4469
+i"TableViewController.h"
+
+N/iPhoneBootCamp/Map/Map/TableViewController.xib
+c000000004DCCA81000000000000028DB
+t1305258000
+s10459
+
+N/iPhoneBootCamp/Map/Map/en.lproj/InfoPlist.strings
+c000000004DCB3362000000000000002D
+t1305162594
+s45
+
+N/iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib
+c000000004DCE039D00000000000048BE
+t1305346973
+s18622
+
+N/iPhoneBootCamp/Map/Map/en.lproj/MapViewController.xib
+c000000004DCB379E0000000000003380
+t1305163678
+s13184
+
+N/iPhoneBootCamp/Map/Map/main.m
+c000000004DCE009C0000000000000163
+t1305346204
+s355
+i<UIKit/UIKit.h>
+
+NMap/Map-Info.plist
+c000000004DCB336200000000000004A5
+t1305162594
+s1189
+
+CBuild AST from /iPhoneBootCamp/Map/Map/MainView.m
+r0
+
+CBuild AST from /iPhoneBootCamp/Map/Map/MapAppDelegate.m
+r0
+
+CBuild AST from /iPhoneBootCamp/Map/Map/MapViewController.m
+r0
+
+CBuild AST from /iPhoneBootCamp/Map/Map/RootViewController.m
+r0
+
+CBuild AST from /iPhoneBootCamp/Map/Map/TableViewController.m
+r0
+
+CBuild AST from /iPhoneBootCamp/Map/Map/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesaa0f90f33d7eb341^41d7a6f33d7eb341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MainView.o /iPhoneBootCamp/Map/Map/MainView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327038262.571596
+e327038262.846031
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MainView.o
+x/iPhoneBootCamp/Map/Map/MainView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Compile /iPhoneBootCamp/Map/Map/MainView.m446e9236357eb341^9facd836357eb341^---0#0#0#-19%DVTDocumentLocation2@50"file://localhost/iPhoneBootCamp/Map/Map/MainView.m0000000000000000^2042"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MainView.o Map/MainView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -include /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch -c /iPhoneBootCamp/Map/Map/MainView.m -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MainView.o
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapAppDelegate.o /iPhoneBootCamp/Map/Map/MapAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327040499.673504
+e327040513.507626
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapAppDelegate.o
+x/iPhoneBootCamp/Map/Map/MapAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection48"Compile /iPhoneBootCamp/Map/Map/MapAppDelegate.mc784acf33d7eb341^c3f481013e7eb341^---0#0#0#-19%DVTDocumentLocation2@56"file://localhost/iPhoneBootCamp/Map/Map/MapAppDelegate.m0000000000000000^2066"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapAppDelegate.o Map/MapAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -include /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch -c /iPhoneBootCamp/Map/Map/MapAppDelegate.m -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapAppDelegate.o
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapViewController.o /iPhoneBootCamp/Map/Map/MapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326855451.729979
+e326855451.941692
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapViewController.o
+x/iPhoneBootCamp/Map/Map/MapViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection51"Compile /iPhoneBootCamp/Map/Map/MapViewController.me8faba1b6b7bb341^871af11b6b7bb341^---0#0#0#-19%DVTDocumentLocation2@59"file://localhost/iPhoneBootCamp/Map/Map/MapViewController.m0000000000000000^2078"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapViewController.o Map/MapViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -include /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch -c /iPhoneBootCamp/Map/Map/MapViewController.m -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/MapViewController.o
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/RootViewController.o /iPhoneBootCamp/Map/Map/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327039639.630538
+e327039639.861033
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/RootViewController.o
+x/iPhoneBootCamp/Map/Map/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Compile /iPhoneBootCamp/Map/Map/RootViewController.m6d8ca1973a7eb341^9a77dc973a7eb341^---0#0#0#-19%DVTDocumentLocation2@60"file://localhost/iPhoneBootCamp/Map/Map/RootViewController.m0000000000000000^2082"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/RootViewController.o Map/RootViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -include /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch -c /iPhoneBootCamp/Map/Map/RootViewController.m -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/RootViewController.o
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/TableViewController.o /iPhoneBootCamp/Map/Map/TableViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326950991.537740
+e326950992.033443
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/TableViewController.o
+x/iPhoneBootCamp/Map/Map/TableViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/iPhoneBootCamp/Map/Map/TableViewController.m:88:2: warning: #warning Potentially incomplete method implementation.
+o/iPhoneBootCamp/Map/Map/TableViewController.m:95:2: warning: #warning Incomplete method implementation.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Compile /iPhoneBootCamp/Map/Map/TableViewController.m23c0894fe07cb341^85970850e07cb341^-220"/iPhoneBootCamp/Map/Map/TableViewController.m:88:2: warning: #warning Potentially incomplete method implementation./iPhoneBootCamp/Map/Map/TableViewController.m:95:2: warning: #warning Incomplete method implementation.2(21%IDEActivityLogMessage2@54"#warning Potentially incomplete method implementation.-326950991#0#116#-1#-23%DVTTextDocumentLocation3@61"file://localhost/iPhoneBootCamp/Map/Map/TableViewController.m0000000000000000^87#18446744073709551615#87#18446744073709551615#18446744073709551615#0#10"#warning *--2@42"#warning Incomplete method implementation.-326950991#116#104#-1#-3@61"file://localhost/iPhoneBootCamp/Map/Map/TableViewController.m0000000000000000^94#18446744073709551615#94#18446744073709551615#18446744073709551615#0#10"#warning *--0#0#0#-19%DVTDocumentLocation4@61"file://localhost/iPhoneBootCamp/Map/Map/TableViewController.m0000000000000000^2086"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/TableViewController.o Map/TableViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -include /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch -c /iPhoneBootCamp/Map/Map/TableViewController.m -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/TableViewController.o
+
+CCompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/main.o /iPhoneBootCamp/Map/Map/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327039007.262743
+e327039007.396259
+r1
+xCompileC
+xDerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/main.o
+x/iPhoneBootCamp/Map/Map/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Compile /iPhoneBootCamp/Map/Map/main.m2864431f387eb341^6e15681f387eb341^---0#0#0#-19%DVTDocumentLocation2@46"file://localhost/iPhoneBootCamp/Map/Map/main.m0000000000000000^2026"CompileC DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/main.o Map/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -include /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch -c /iPhoneBootCamp/Map/Map/main.m -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/main.o
+
+CCompileXIB /iPhoneBootCamp/Map/Map/MainView.xib
+s327038802.651875
+e327038811.038987
+r1
+xCompileXIB
+x/iPhoneBootCamp/Map/Map/MainView.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Compiling /iPhoneBootCamp/Map/Map/MainView.xibc3f3a652377eb341^40fb095b377eb341^---0#0#0#-19%DVTDocumentLocation2@52"file://localhost/iPhoneBootCamp/Map/Map/MainView.xib0000000000000000^571"CompileXIB Map/MainView.xib    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/MainView.nib /iPhoneBootCamp/Map/Map/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /iPhoneBootCamp/Map/Map/RootViewController.xib
+s327037428.315821
+e327037437.342384
+r1
+xCompileXIB
+x/iPhoneBootCamp/Map/Map/RootViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compiling /iPhoneBootCamp/Map/Map/RootViewController.xib63ec50f4317eb341^4bad57fd317eb341^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/iPhoneBootCamp/Map/Map/RootViewController.xib0000000000000000^601"CompileXIB Map/RootViewController.xib    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/RootViewController.nib /iPhoneBootCamp/Map/Map/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /iPhoneBootCamp/Map/Map/TableViewController.xib
+s326950992.712147
+e326951012.555792
+r1
+xCompileXIB
+x/iPhoneBootCamp/Map/Map/TableViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compiling /iPhoneBootCamp/Map/Map/TableViewController.xib5e68b650e07cb341^d4498e64e07cb341^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/iPhoneBootCamp/Map/Map/TableViewController.xib0000000000000000^604"CompileXIB Map/TableViewController.xib    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/TableViewController.nib /iPhoneBootCamp/Map/Map/TableViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib
+s327039776.918569
+e327039776.968038
+r1
+xCompileXIB
+x/iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compiling /iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib5646eb203b7eb341^02f0f7203b7eb341^---0#0#0#-19%DVTDocumentLocation2@63"file://localhost/iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib0000000000000000^604"CompileXIB Map/en.lproj/MainWindow.xib    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/MainWindow.nib /iPhoneBootCamp/Map/Map/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /iPhoneBootCamp/Map/Map/en.lproj/MapViewController.xib
+s326856482.682725
+e326856485.977137
+r1
+xCompileXIB
+x/iPhoneBootCamp/Map/Map/en.lproj/MapViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compiling /iPhoneBootCamp/Map/Map/en.lproj/MapViewController.xib44deae226f7bb341^4980fa256f7bb341^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/iPhoneBootCamp/Map/Map/en.lproj/MapViewController.xib0000000000000000^625"CompileXIB Map/en.lproj/MapViewController.xib    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/MapViewController.nib /iPhoneBootCamp/Map/Map/en.lproj/MapViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings
+s326855453.105037
+e326855453.196456
+r1
+xCopyStringsFile
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/InfoPlist.strings
+xMap/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Copy Map/en.lproj/InfoPlist.strings2fa81f1d6b7bb341^7e51321d6b7bb341^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/iPhoneBootCamp/Map/Map/en.lproj/InfoPlist.strings0000000000000000^507"CopyStringsFile DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj/InfoPlist.strings Map/en.lproj/InfoPlist.strings    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/en.lproj -- Map/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map
+s327040514.849232
+e327040515.102415
+r1
+xGenerateDSYMFile
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Generating /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM0b7cd9023e7eb341^7bdd1a033e7eb341^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM/0000000000000000^512"GenerateDSYMFile DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app.dSYM
+
+CLd /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map normal i386
+s327040513.508627
+e327040514.849036
+r1
+xLd
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Link /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map925882013e7eb341^3f8bd9023e7eb341^---0#0#0#--993"Ld DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map normal i386    cd /iPhoneBootCamp/Map    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -filelist /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Objects-normal/i386/Map.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework MapKit -framework UIKit -framework Foundation -framework CoreGraphics -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Map
+
+CProcessInfoPlistFile /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Info.plist Map/Map-Info.plist
+s326855435.442272
+e326855435.461196
+r1
+xProcessInfoPlistFile
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Info.plist
+xMap/Map-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection26"Process Map/Map-Info.plist9351710b6b7bb341^4d2e760b6b7bb341^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/iPhoneBootCamp/Map/Map/Map-Info.plist0000000000000000^576"ProcessInfoPlistFile DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Info.plist Map/Map-Info.plist    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Map/Map-Info.plist -genpkginfo /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app/Info.plist
+
+CProcessPCH /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch.gch Map/Map-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s326855435.462873
+e326855448.871925
+r1
+xProcessPCH
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch.gch
+xMap/Map-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection29"Precompile Map/Map-Prefix.pch4d9e760b6b7bb341^de3edf186b7bb341^---0#0#0#-19%DVTDocumentLocation2@54"file://localhost/iPhoneBootCamp/Map/Map/Map-Prefix.pch0000000000000000^1916"ProcessPCH DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch.gch Map/Map-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /iPhoneBootCamp/Map    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-generated-files.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-own-target-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-all-target-headers.hmap -iquote /iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/Map-project-headers.hmap -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/include -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources/i386 -I/iPhoneBootCamp/Map/DerivedData/Map/Build/Intermediates/Map.build/Debug-iphonesimulator/Map.build/DerivedSources -F/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator -c /iPhoneBootCamp/Map/Map/Map-Prefix.pch -o /iPhoneBootCamp/Map/DerivedData/Map/Build/PrecompiledHeaders/Map-Prefix-fxltxziujdvnjrbfnwdvvpnbjzkn/Map-Prefix.pch.gch
+
+CProcessPCH /iPhoneBootCamp/Map/DerivedData/Map/Index/PrecompiledHeaders/Map-Prefix-efnqlnvetplsfubxqxidpmzjvqsb_ast/Map-Prefix.pch.pth Map/Map-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app
+s327040515.105526
+e327040515.154895
+r1
+xTouch
+x/iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Touch /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app1b121b033e7eb341^04ae27033e7eb341^---0#0#0#--328"Touch DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app    cd /iPhoneBootCamp/Map    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /iPhoneBootCamp/Map/DerivedData/Map/Build/Products/Debug-iphonesimulator/Map.app
+
