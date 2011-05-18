@@ -1,0 +1,317 @@
+TQuartzFun
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/Info.plist QuartzFun/QuartzFun-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch.gch QuartzFun/QuartzFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunView.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFun.LinkFileList
+c000000004DBDD95E000000000000039C
+t1304287582
+s924
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunAppDelegate.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunView.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunViewController.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/UIColor-Random.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch.gch
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app.dSYM
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/Info.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/PkgInfo
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/QuartzFun
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/en.lproj/QuartzFunViewController.nib
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/Constants.h
+c000000004DBDD95D00000000000001AA
+t1304287581
+s426
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFun-Prefix.pch
+c000000004DBDBEE60000000000000144
+t1304280806
+s324
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.h
+c000000004DBDBEE600000000000001AC
+t1304280806
+s428
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m
+c000000004DBDBEE6000000000000096F
+t1304280806
+s2415
+i"QuartzFunAppDelegate.h"
+i"QuartzFunViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.h
+c000000004DBDD95D0000000000000298
+t1304287581
+s664
+i<UIKit/UIKit.h>
+i"Constants.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m
+c000000004DBDD95D0000000000000718
+t1304287581
+s1816
+i"QuartzFunView.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.h
+c000000004DBDD95D00000000000001B0
+t1304287581
+s432
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m
+c000000004DBDD95D000000000000096F
+t1304287581
+s2415
+i"QuartzFunViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/UIColor-Random.h
+c000000004DBDD95D00000000000000F0
+t1304287581
+s240
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/UIColor-Random.m
+c000000004DBDD95D000000000000024D
+t1304287581
+s589
+i"UIColor-Random.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/en.lproj/InfoPlist.strings
+c000000004DBDBEE6000000000000002D
+t1304280806
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/en.lproj/MainWindow.xib
+c000000004DBDBEE60000000000004E31
+t1304280806
+s20017
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/en.lproj/QuartzFunViewController.xib
+c000000004DBDD94D0000000000004CF6
+t1304287565
+s19702
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m
+c000000004DBDBEE60000000000000168
+t1304280806
+s360
+i<UIKit/UIKit.h>
+
+NQuartzFun/QuartzFun-Info.plist
+c000000004DBDBEE600000000000004A1
+t1304280806
+s1185
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/UIColor-Random.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies71e3fadd106eb341^9e242dde106eb341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325980384.023413
+e325980384.138675
+r1
+xCompileC
+xDerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m1d1e06e0106eb341^db8823e0106eb341^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m0000000000000000^2672"CompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunAppDelegate.o QuartzFun/QuartzFunAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunAppDelegate.o
+
+CCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunView.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325980384.138982
+e325980384.316302
+r1
+xCompileC
+xDerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunView.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.maf2524e0106eb341^cc9757e0106eb341^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m0000000000000000^2644"CompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunView.o QuartzFun/QuartzFunView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunView.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunView.o
+
+CCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325980384.121509
+e325980384.215846
+r0
+xCompileC
+xDerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m: In function '-[QuartzFunViewController changeShape:]':
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m:52: error: expected expression before 'BOOL'
+o#'property_reference_expr' not supported by pp_c_expression#'/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m:52: error: called object  is not a function
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m:52: error: expected ';' before numeric constant
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m76371fe0106eb341^513037e0106eb341^-602"/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m: In function '-[QuartzFunViewController changeShape:]':/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m:52: error: expected expression before 'BOOL'#'property_reference_expr' not supported by pp_c_expression#'/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m:52: error: called object  is not a function/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m:52: error: expected ';' before numeric constant3(21%IDEActivityLogMessage2@33"Expected expression before 'BOOL'-325980384#143#132#-2#-23%DVTTextDocumentLocation3@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#19"Expected * before *--2@32"Called object  is not a function-325980384#275#192#-2#-3@176"file://localhost/%23'property_reference_expr'%20not%20supported%20by%20pp_c_expression%23'/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#18"LLVM GCC 4.2 Error--2@36"Expected ';' before numeric constant-325980384#467#135#-2#-3@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#19"Expected * before *--0#0#0#-19%DVTDocumentLocation4@102"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m0000000000000000^2684"CompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunViewController.o QuartzFun/QuartzFunViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFunViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/QuartzFunViewController.o
+
+CCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/UIColor-Random.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/UIColor-Random.m normal i386 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CCompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s325980384.023404
+e325980384.121124
+r1
+xCompileC
+xDerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m0c1e06e0106eb341^42091fe0106eb341^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m0000000000000000^2608"CompileC DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/main.o QuartzFun/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/en.lproj/MainWindow.xib
+r0
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/en.lproj/QuartzFunViewController.xib
+r0
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/en.lproj/InfoPlist.strings QuartzFun/en.lproj/InfoPlist.strings
+r0
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/QuartzFun
+r0
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/QuartzFun normal i386
+r0
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/Info.plist QuartzFun/QuartzFun-Info.plist
+s325980382.181852
+e325980382.187765
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/Info.plist
+xQuartzFun/QuartzFun-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection38"Process QuartzFun/QuartzFun-Info.plistfda02ede106eb341^e84e30de106eb341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFun-Info.plist0000000000000000^729"ProcessInfoPlistFile DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/Info.plist QuartzFun/QuartzFun-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility QuartzFun/QuartzFun-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch.gch QuartzFun/QuartzFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s325980382.189422
+e325980384.022374
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch.gch
+xQuartzFun/QuartzFun-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection41"Precompile QuartzFun/QuartzFun-Prefix.pch359a30de106eb341^33c405e0106eb341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFun-Prefix.pch0000000000000000^2461"ProcessPCH DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch.gch QuartzFun/QuartzFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/QuartzFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Intermediates/QuartzFun.build/Debug-iphonesimulator/QuartzFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/QuartzFun/QuartzFun-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/PrecompiledHeaders/QuartzFun-Prefix-cgdrumkswcxrjxemkxkedqbpzapg/QuartzFun-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Index/PrecompiledHeaders/QuartzFun-Prefix-gfjkjalxfhpvzfdtgnpafjfpzrve_ast/QuartzFun-Prefix.pch.pth QuartzFun/QuartzFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/QuartzFun/DerivedData/QuartzFun/Build/Products/Debug-iphonesimulator/QuartzFun.app
+r0
+

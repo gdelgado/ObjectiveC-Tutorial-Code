@@ -21,6 +21,8 @@
 		23C683BC1373AE910040306A /* OpenGLES2DView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683B91373AE910040306A /* OpenGLES2DView.m */; };
 		23C683BD1373AE910040306A /* Texture2D.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683BB1373AE910040306A /* Texture2D.m */; };
 		23C683C01373AF840040306A /* GLFunView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683BF1373AF840040306A /* GLFunView.m */; };
+		23F421741383805600CF8FCF /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421731383805600CF8FCF /* OpenGLES.framework */; };
+		23F421771383806400CF8FCF /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421761383806400CF8FCF /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +50,8 @@
 		23C683BB1373AE910040306A /* Texture2D.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Texture2D.m; sourceTree = "<group>"; };
 		23C683BE1373AF840040306A /* GLFunView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GLFunView.h; sourceTree = "<group>"; };
 		23C683BF1373AF840040306A /* GLFunView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLFunView.m; sourceTree = "<group>"; };
+		23F421731383805600CF8FCF /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		23F421761383806400CF8FCF /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23F421771383806400CF8FCF /* QuartzCore.framework in Frameworks */,
+				23F421741383805600CF8FCF /* OpenGLES.framework in Frameworks */,
 				23C683931373AA790040306A /* UIKit.framework in Frameworks */,
 				23C683951373AA790040306A /* Foundation.framework in Frameworks */,
 				23C683971373AA790040306A /* CoreGraphics.framework in Frameworks */,
@@ -67,6 +73,8 @@
 		23C683831373AA790040306A = {
 			isa = PBXGroup;
 			children = (
+				23F421761383806400CF8FCF /* QuartzCore.framework */,
+				23F421731383805600CF8FCF /* OpenGLES.framework */,
 				23C683981373AA790040306A /* GLFun */,
 				23C683911373AA790040306A /* Frameworks */,
 				23C6838F1373AA790040306A /* Products */,
@@ -306,6 +314,7 @@
 				23C683B11373AA790040306A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

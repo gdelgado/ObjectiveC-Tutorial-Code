@@ -1,0 +1,616 @@
+TGLFun
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/Info.plist GLFun/GLFun-Info.plist
+cProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch.gch GLFun/GLFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/OpenGLES2DView.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/Texture2D.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunView.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/UIColor-Random.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun normal i386
+cGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun
+cCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/InfoPlist.strings GLFun/en.lproj/InfoPlist.strings
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib
+cCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib
+cCpResource GLFun/iphone.png DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png
+cTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004D93E081000000000000094F
+t1301536897
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004D93E0810000000000000A61
+t1301536897
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004D93E0810000000000009369
+t1301536897
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004D93E0810000000000003C4A
+t1301536897
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004D93E08B00000000000191D0
+t1301536907
+s102864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D93E12E00000000000000C4
+t1301537070
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D93E1B20000000000162C50
+t1301537202
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFun.LinkFileList
+c000000004DC378F9000000000000048B
+t1304656121
+s1163
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunAppDelegate.o
+t1304656124
+s48432
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunView.o
+t1305692746
+s56716
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunViewController.o
+t1305692398
+s41412
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/OpenGLES2DView.o
+t1304656178
+s40736
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/Texture2D.o
+t1304656178
+s27648
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/UIColor-Random.o
+t1304656124
+s4044
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/main.o
+t1304656124
+s3100
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/GLFunAppDelegate.plist
+t1304656123
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/GLFunView.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/GLFunViewController.plist
+t2
+s0
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/OpenGLES2DView.plist
+t1304656123
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/Texture2D.plist
+t1304656123
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/UIColor-Random.plist
+t1304656123
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/main.plist
+t1304656123
+s276
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch.gch
+t1304656123
+s12283312
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch.pth
+t1304656122
+s3351760
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app
+t1305692749
+s238
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM
+t1305692747
+s102
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun
+t1305692747
+s52344
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/Info.plist
+t1304656122
+s767
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/PkgInfo
+t1304656122
+s8
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/GLFunViewController.nib
+t1305692749
+s1269
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/InfoPlist.strings
+t1305692747
+s42
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/MainWindow.nib
+t1305692749
+s1661
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png
+t1305692749
+s2013
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Constants.h
+c000000004DBDD95D00000000000001AA
+t1304287581
+s426
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFun-Prefix.pch
+c000000004DC372F9000000000000013C
+t1304654585
+s316
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.h
+c000000004DC372F90000000000000198
+t1304654585
+s408
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m
+c000000004DC372F9000000000000095B
+t1304654585
+s2395
+i"GLFunAppDelegate.h"
+i"GLFunViewController.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h
+c000000004DC3793100000000000002A3
+t1304656177
+s675
+i<Foundation/Foundation.h>
+i"Constants.h"
+i"OpenGLES2DView.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m
+c000000004DD34A4A000000000000136C
+t1305692746
+s4972
+i"GLFunView.h"
+i"UIColor-Random.h"
+i"Texture2D.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.h
+c000000004DC378F900000000000001A4
+t1304656121
+s420
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m
+c000000004DD1F5A40000000000000931
+t1305605540
+s2353
+i"GLFunViewController.h"
+i"GLFunView.h"
+i"Constants.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.h
+c0000000049F59E3800000000000001F3
+t1240833592
+s499
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGLDrawable.h>
+i"Constants.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m
+c0000000049F59E380000000000000975
+t1240833592
+s2421
+i"OpenGLES2DView.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.h
+c0000000049F59E3800000000000012A9
+t1240833592
+s4777
+i<UIKit/UIKit.h>
+i<OpenGLES/ES1/gl.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m
+c0000000049F59E380000000000002DF9
+t1240833592
+s11769
+i<OpenGLES/ES1/glext.h>
+i"Texture2D.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.h
+c000000004DBDD95D00000000000000F0
+t1304287581
+s240
+i<UIKit/UIKit.h>
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m
+c000000004DBDD95D000000000000024D
+t1304287581
+s589
+i"UIColor-Random.h"
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib
+c000000004DC372F90000000000001A35
+t1304654585
+s6709
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/InfoPlist.strings
+c000000004DC372F9000000000000002D
+t1304654585
+s45
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib
+c000000004DC372F90000000000004E01
+t1304654585
+s19969
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/iphone.png
+c000000004D03AF3200000000000007DD
+t1292087090
+s2013
+
+N/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m
+c000000004DC372F90000000000000164
+t1304654585
+s356
+i<UIKit/UIKit.h>
+
+NGLFun/GLFun-Info.plist
+c000000004DC372F900000000000004A1
+t1304654585
+s1185
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m
+s326348923.313192
+e326348923.572037
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m8849507bb073b341^8177927bb073b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m0000000000000000^2556"Analyze GLFun/GLFunAppDelegate.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/GLFunAppDelegate.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m
+r0
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m
+s326348922.555397
+e326348923.258946
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m
+oIn file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:10:
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:21:5: error: unknown type name 'Texture2D' [3]
+o     Texture2D *sprite;
+o     ^
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:30:31: error: unknown type name 'Texture2D' [3]
+o @property (nonatomic, retain) Texture2D *sprite;
+o                               ^
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:30:1: error: property with 'retain' attribute must be of object type [2]
+o @property (nonatomic, retain) Texture2D *sprite;
+o ^
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:26:20: error: property 'useRadomColor' not found on object of type 'GLFunView *'; did you mean 'useRandomColor'? [2]
+o             glView.useRadomColor = NO;
+o                    ^~~~~~~~~~~~~
+o                    useRandomColor
+ofix-it:"/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m":{26:20-26:33}:"useRandomColor"
+oIn file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:10:
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:28:16: note: 'useRandomColor' declared here [2]
+o @property BOOL useRandomColor;
+o                ^
+o/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:52:9: error: expected expression [3]
+o         else
+o         ^
+o5 errors generated.
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m834c8e7ab073b341^304c427bb073b341^-1468"In file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:10:/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:21:5: error: unknown type name 'Texture2D' [3]     Texture2D *sprite;     ^/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:30:31: error: unknown type name 'Texture2D' [3] @property (nonatomic, retain) Texture2D *sprite;                               ^/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:30:1: error: property with 'retain' attribute must be of object type [2] @property (nonatomic, retain) Texture2D *sprite; ^/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:26:20: error: property 'useRadomColor' not found on object of type 'GLFunView *'; did you mean 'useRandomColor'? [2]             glView.useRadomColor = NO;                    ^~~~~~~~~~~~~                    useRandomColorfix-it:"/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m":{26:20-26:33}:"useRandomColor"In file included from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:10:/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h:28:16: note: 'useRandomColor' declared here [2] @property BOOL useRandomColor;                ^/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m:52:9: error: expected expression [3]         else         ^5 errors generated.1(36%IDEActivityLogAnalyzerWarningMessage2@46"Analyzer skipped this file due to parse errors-326348923#18446744073709551615#0#5(2@29"unknown type name 'Texture2D'-326348923#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning23%DVTTextDocumentLocation3@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h0000000000000000^20#18446744073709551615#20#18446744073709551615#18446744073709551615#0#---2@29"unknown type name 'Texture2D'-326348923#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning3@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#---2@55"property with 'retain' attribute must be of object type-326348923#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning3@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h0000000000000000^29#18446744073709551615#29#18446744073709551615#18446744073709551615#0#---2@98"property 'useRadomColor' not found on object of type 'GLFunView *'; did you mean 'useRandomColor'?-326348923#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning3@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m0000000000000000^25#18446744073709551615#25#18446744073709551615#18446744073709551615#0#---2@19"expected expression-326348923#18446744073709551615#0#-1#33"com.apple.dt.IDE.analyzer.warning3@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m0000000000000000^51#18446744073709551615#51#18446744073709551615#18446744073709551615#0#---1#33"com.apple.dt.IDE.analyzer.warning3@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.h0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m0000000000000000^2565"Analyze GLFun/GLFunViewController.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/GLFunViewController.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m
+s326348923.667361
+e326348923.901848
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.mc7f2aa7bb073b341^04e5e67bb073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m0000000000000000^2550"Analyze GLFun/OpenGLES2DView.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/OpenGLES2DView.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m
+s326348923.826846
+e326348923.980336
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m15c9d37bb073b341^522cfb7bb073b341^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m0000000000000000^2535"Analyze GLFun/Texture2D.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/Texture2D.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m
+s326348923.573352
+e326348923.667224
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m7cf0927bb073b341^a7cfaa7bb073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m0000000000000000^2550"Analyze GLFun/UIColor-Random.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/UIColor-Random.plist
+
+CAnalyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m
+s326348923.259180
+e326348923.313050
+r1
+xAnalyze
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m207e427bb073b341^f225507bb073b341^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m0000000000000000^2520"Analyze GLFun/main.m    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch --analyze /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/StaticAnalyzer/normal/i386/main.plist
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m
+r0
+
+CBuild AST from /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies14b3fad38183b341^1fbe10d48183b341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunAppDelegate.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326348923.980513
+e326348924.140717
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunAppDelegate.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m8e1efb7bb073b341^4e0d247cb073b341^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m0000000000000000^2468"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunAppDelegate.o GLFun/GLFunAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunAppDelegate.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunAppDelegate.o
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunView.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327385546.349183
+e327385546.480464
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunView.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m848359ca8183b341^7a007bca8183b341^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m0000000000000000^2440"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunView.o GLFun/GLFunView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunView.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunView.o
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunViewController.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s327385197.983123
+e327385198.282083
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunViewController.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m9acdfb6d8083b341^836d5c6e8083b341^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m0000000000000000^2480"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunViewController.o GLFun/GLFunViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFunViewController.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFunViewController.o
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/OpenGLES2DView.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326348977.777330
+e326348978.016859
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/OpenGLES2DView.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m471fc7b1b073b341^72310eb2b073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m0000000000000000^2460"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/OpenGLES2DView.o GLFun/OpenGLES2DView.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/OpenGLES2DView.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/OpenGLES2DView.o
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/Texture2D.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326348978.017051
+e326348978.360920
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/Texture2D.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m247b04b2b073b341^802c60b2b073b341^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m0000000000000000^2440"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/Texture2D.o GLFun/Texture2D.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/Texture2D.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/Texture2D.o
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/UIColor-Random.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326348924.145879
+e326348924.277956
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/UIColor-Random.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.mb474257cb073b341^b64b477cb073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m0000000000000000^2460"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/UIColor-Random.o GLFun/UIColor-Random.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/UIColor-Random.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/UIColor-Random.o
+
+CCompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/main.o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s326348923.902330
+e326348924.105195
+r1
+xCompileC
+xDerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/main.o
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m581be77bb073b341^99f51a7cb073b341^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m0000000000000000^2420"CompileC DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/main.o GLFun/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -include /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/main.m -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/main.o
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib
+s327385547.366455
+e327385549.742308
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib32e35dcb8183b341^6c08becd8183b341^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib0000000000000000^720"CompileXIB GLFun/en.lproj/GLFunViewController.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/GLFunViewController.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/GLFunViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib
+s327385547.325392
+e327385549.744039
+r1
+xCompileXIB
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib815f53cb8183b341^537abecd8183b341^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib0000000000000000^693"CompileXIB GLFun/en.lproj/MainWindow.xib    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/MainWindow.nib /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/InfoPlist.strings GLFun/en.lproj/InfoPlist.strings
+s327385547.324614
+e327385547.366141
+r1
+xCopyStringsFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/InfoPlist.strings
+xGLFun/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy GLFun/en.lproj/InfoPlist.stringsdf3253cb8183b341^72c15dcb8183b341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/en.lproj/InfoPlist.strings0000000000000000^573"CopyStringsFile DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj/InfoPlist.strings GLFun/en.lproj/InfoPlist.strings    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/en.lproj -- GLFun/en.lproj/InfoPlist.strings
+
+CCpResource GLFun/iphone.png DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png
+s327385549.742826
+e327385549.763931
+r1
+xCpResource
+xGLFun/iphone.png
+xDerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png3144becd8183b341^1493c3cd8183b341^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png0000204d2205f041^564"CpResource GLFun/iphone.png DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/iphone.png    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/iphone.png /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app
+
+CGenerateDSYMFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun
+s327385547.216792
+e327385547.322774
+r1
+xGenerateDSYMFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Generating /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYMd09a37cb8183b341^97a852cb8183b341^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM0000204d2205f041^613"GenerateDSYMFile DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app.dSYM
+
+CLd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun normal i386
+s327385546.481402
+e327385547.215787
+r1
+xLd
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Link /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun705b7bca8183b341^753f37cb8183b341^---0#0#0#--1176"Ld DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun normal i386    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -filelist /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/Objects-normal/i386/GLFun.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework QuartzCore -framework OpenGLES -framework UIKit -framework Foundation -framework CoreGraphics -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/GLFun
+
+CProcessInfoPlistFile /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/Info.plist GLFun/GLFun-Info.plist
+s326348922.008536
+e326348922.012425
+r1
+xProcessInfoPlistFile
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/Info.plist
+xGLFun/GLFun-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection30"Process GLFun/GLFun-Info.plist2443027ab073b341^a06f037ab073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFun-Info.plist0000000000000000^677"ProcessInfoPlistFile DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/Info.plist GLFun/GLFun-Info.plist    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GLFun/GLFun-Info.plist -genpkginfo /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app/Info.plist
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch.gch GLFun/GLFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s326348922.014036
+e326348923.826671
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch.gch
+xGLFun/GLFun-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile GLFun/GLFun-Prefix.pchefe4037ab073b341^0fb7d37bb073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFun-Prefix.pch0000000000000000^2281"ProcessPCH DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch.gch GLFun/GLFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFun-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fxlqxkpxldwrwjanodgjsqfgwrxj/GLFun-Prefix.pch.gch
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch.pth GLFun/GLFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s326348922.014213
+e326348922.554346
+r1
+xProcessPCH
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch.pth
+xGLFun/GLFun-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile GLFun/GLFun-Prefix.pch2bc0037ab073b341^e0108e7ab073b341^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFun-Prefix.pch0000000000000000^2543"ProcessPCH DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch.pth GLFun/GLFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -DIBOutlet=__attribute__((iboutlet)) -DIBOutletCollection(ClassName)=__attribute__((iboutletcollection)) -DIBAction=void)__attribute__((ibaction) -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-generated-files.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-own-target-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-all-target-headers.hmap -iquote /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/GLFun-project-headers.hmap -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/include -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources/i386 -I/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Intermediates/GLFun.build/Debug-iphonesimulator/GLFun.build/DerivedSources -F/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/GLFun/GLFun-Prefix.pch -o /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/PrecompiledHeaders/GLFun-Prefix-fzqclokjsyzrokhcqamlscwanjzc/GLFun-Prefix.pch.pth
+
+CProcessPCH /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Index/PrecompiledHeaders/GLFun-Prefix-evjxemrekssdiifjixmtulefuvbb_ast/GLFun-Prefix.pch.pth GLFun/GLFun-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app
+s327385549.766002
+e327385549.803765
+r1
+xTouch
+x/ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Touch /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app1c43c4cd8183b341^50c5cdcd8183b341^---0#0#0#--390"Touch DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app    cd /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /ObjectiveC-Tutorial-Code/iPhone4DevBook/GLFun/DerivedData/GLFun/Build/Products/Debug-iphonesimulator/GLFun.app
+
