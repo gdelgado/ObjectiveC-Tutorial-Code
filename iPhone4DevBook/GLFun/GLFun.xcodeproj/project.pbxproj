@@ -15,7 +15,7 @@
 		23C683A31373AA790040306A /* GLFunAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683A21373AA790040306A /* GLFunAppDelegate.m */; };
 		23C683A61373AA790040306A /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23C683A41373AA790040306A /* MainWindow.xib */; };
 		23C683A91373AA790040306A /* GLFunViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683A81373AA790040306A /* GLFunViewController.m */; };
-		23C683AC1373AA790040306A /* GLFunViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23C683AA1373AA790040306A /* GLFunViewController.xib */; };
+		23C683AC1373AA790040306A /* GLFunViewController_old.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23C683AA1373AA790040306A /* GLFunViewController_old.xib */; };
 		23C683B51373AAB40040306A /* UIColor-Random.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683B41373AAB40040306A /* UIColor-Random.m */; };
 		23C683B71373AABF0040306A /* iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = 23C683B61373AABF0040306A /* iphone.png */; };
 		23C683BC1373AE910040306A /* OpenGLES2DView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683B91373AE910040306A /* OpenGLES2DView.m */; };
@@ -23,6 +23,7 @@
 		23C683C01373AF840040306A /* GLFunView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23C683BF1373AF840040306A /* GLFunView.m */; };
 		23F421741383805600CF8FCF /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421731383805600CF8FCF /* OpenGLES.framework */; };
 		23F421771383806400CF8FCF /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421761383806400CF8FCF /* QuartzCore.framework */; };
+		23F421891384CE3C00CF8FCF /* GLFunViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23F421881384CE3C00CF8FCF /* GLFunViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +40,7 @@
 		23C683A51373AA790040306A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
 		23C683A71373AA790040306A /* GLFunViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GLFunViewController.h; sourceTree = "<group>"; };
 		23C683A81373AA790040306A /* GLFunViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLFunViewController.m; sourceTree = "<group>"; };
-		23C683AB1373AA790040306A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GLFunViewController.xib; sourceTree = "<group>"; };
+		23C683AB1373AA790040306A /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GLFunViewController_old.xib; sourceTree = "<group>"; };
 		23C683B21373AAA50040306A /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		23C683B31373AAB40040306A /* UIColor-Random.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor-Random.h"; sourceTree = "<group>"; };
 		23C683B41373AAB40040306A /* UIColor-Random.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor-Random.m"; sourceTree = "<group>"; };
@@ -52,6 +53,7 @@
 		23C683BF1373AF840040306A /* GLFunView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GLFunView.m; sourceTree = "<group>"; };
 		23F421731383805600CF8FCF /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		23F421761383806400CF8FCF /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		23F421881384CE3C00CF8FCF /* GLFunViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = GLFunViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +109,8 @@
 				23C683A41373AA790040306A /* MainWindow.xib */,
 				23C683A71373AA790040306A /* GLFunViewController.h */,
 				23C683A81373AA790040306A /* GLFunViewController.m */,
-				23C683AA1373AA790040306A /* GLFunViewController.xib */,
+				23C683AA1373AA790040306A /* GLFunViewController_old.xib */,
+				23F421881384CE3C00CF8FCF /* GLFunViewController.xib */,
 				23C683991373AA790040306A /* Supporting Files */,
 			);
 			path = GLFun;
@@ -183,8 +186,9 @@
 			files = (
 				23C6839D1373AA790040306A /* InfoPlist.strings in Resources */,
 				23C683A61373AA790040306A /* MainWindow.xib in Resources */,
-				23C683AC1373AA790040306A /* GLFunViewController.xib in Resources */,
+				23C683AC1373AA790040306A /* GLFunViewController_old.xib in Resources */,
 				23C683B71373AABF0040306A /* iphone.png in Resources */,
+				23F421891384CE3C00CF8FCF /* GLFunViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -224,12 +228,12 @@
 			name = MainWindow.xib;
 			sourceTree = "<group>";
 		};
-		23C683AA1373AA790040306A /* GLFunViewController.xib */ = {
+		23C683AA1373AA790040306A /* GLFunViewController_old.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
 				23C683AB1373AA790040306A /* en */,
 			);
-			name = GLFunViewController.xib;
+			name = GLFunViewController_old.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
