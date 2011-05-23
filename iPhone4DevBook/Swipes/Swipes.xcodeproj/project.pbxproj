@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		23F421D2138A14DF00CF8FCF /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421D1138A14DF00CF8FCF /* UIKit.framework */; };
+		23F421D4138A14DF00CF8FCF /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421D3138A14DF00CF8FCF /* Foundation.framework */; };
+		23F421D6138A14DF00CF8FCF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23F421D5138A14DF00CF8FCF /* CoreGraphics.framework */; };
+		23F421DC138A14DF00CF8FCF /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 23F421DA138A14DF00CF8FCF /* InfoPlist.strings */; };
+		23F421DF138A14DF00CF8FCF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F421DE138A14DF00CF8FCF /* main.m */; };
+		23F421E2138A14DF00CF8FCF /* SwipesAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F421E1138A14DF00CF8FCF /* SwipesAppDelegate.m */; };
+		23F421E5138A14DF00CF8FCF /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23F421E3138A14DF00CF8FCF /* MainWindow.xib */; };
+		23F421E8138A14DF00CF8FCF /* SwipesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23F421E7138A14DF00CF8FCF /* SwipesViewController.m */; };
+		23F421EB138A14DF00CF8FCF /* SwipesViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23F421E9138A14DF00CF8FCF /* SwipesViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		23F421CD138A14DF00CF8FCF /* Swipes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swipes.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		23F421D1138A14DF00CF8FCF /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		23F421D3138A14DF00CF8FCF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		23F421D5138A14DF00CF8FCF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		23F421D9138A14DF00CF8FCF /* Swipes-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Swipes-Info.plist"; sourceTree = "<group>"; };
+		23F421DB138A14DF00CF8FCF /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		23F421DD138A14DF00CF8FCF /* Swipes-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Swipes-Prefix.pch"; sourceTree = "<group>"; };
+		23F421DE138A14DF00CF8FCF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		23F421E0138A14DF00CF8FCF /* SwipesAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwipesAppDelegate.h; sourceTree = "<group>"; };
+		23F421E1138A14DF00CF8FCF /* SwipesAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwipesAppDelegate.m; sourceTree = "<group>"; };
+		23F421E4138A14DF00CF8FCF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		23F421E6138A14DF00CF8FCF /* SwipesViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwipesViewController.h; sourceTree = "<group>"; };
+		23F421E7138A14DF00CF8FCF /* SwipesViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SwipesViewController.m; sourceTree = "<group>"; };
+		23F421EA138A14DF00CF8FCF /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/SwipesViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		23F421CA138A14DF00CF8FCF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23F421D2138A14DF00CF8FCF /* UIKit.framework in Frameworks */,
+				23F421D4138A14DF00CF8FCF /* Foundation.framework in Frameworks */,
+				23F421D6138A14DF00CF8FCF /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		23F421C2138A14DF00CF8FCF = {
+			isa = PBXGroup;
+			children = (
+				23F421D7138A14DF00CF8FCF /* Swipes */,
+				23F421D0138A14DF00CF8FCF /* Frameworks */,
+				23F421CE138A14DF00CF8FCF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		23F421CE138A14DF00CF8FCF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				23F421CD138A14DF00CF8FCF /* Swipes.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		23F421D0138A14DF00CF8FCF /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				23F421D1138A14DF00CF8FCF /* UIKit.framework */,
+				23F421D3138A14DF00CF8FCF /* Foundation.framework */,
+				23F421D5138A14DF00CF8FCF /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		23F421D7138A14DF00CF8FCF /* Swipes */ = {
+			isa = PBXGroup;
+			children = (
+				23F421E0138A14DF00CF8FCF /* SwipesAppDelegate.h */,
+				23F421E1138A14DF00CF8FCF /* SwipesAppDelegate.m */,
+				23F421E3138A14DF00CF8FCF /* MainWindow.xib */,
+				23F421E6138A14DF00CF8FCF /* SwipesViewController.h */,
+				23F421E7138A14DF00CF8FCF /* SwipesViewController.m */,
+				23F421E9138A14DF00CF8FCF /* SwipesViewController.xib */,
+				23F421D8138A14DF00CF8FCF /* Supporting Files */,
+			);
+			path = Swipes;
+			sourceTree = "<group>";
+		};
+		23F421D8138A14DF00CF8FCF /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				23F421D9138A14DF00CF8FCF /* Swipes-Info.plist */,
+				23F421DA138A14DF00CF8FCF /* InfoPlist.strings */,
+				23F421DD138A14DF00CF8FCF /* Swipes-Prefix.pch */,
+				23F421DE138A14DF00CF8FCF /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		23F421CC138A14DF00CF8FCF /* Swipes */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23F421EE138A14DF00CF8FCF /* Build configuration list for PBXNativeTarget "Swipes" */;
+			buildPhases = (
+				23F421C9138A14DF00CF8FCF /* Sources */,
+				23F421CA138A14DF00CF8FCF /* Frameworks */,
+				23F421CB138A14DF00CF8FCF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Swipes;
+			productName = Swipes;
+			productReference = 23F421CD138A14DF00CF8FCF /* Swipes.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		23F421C4138A14DF00CF8FCF /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 23F421C7138A14DF00CF8FCF /* Build configuration list for PBXProject "Swipes" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 23F421C2138A14DF00CF8FCF;
+			productRefGroup = 23F421CE138A14DF00CF8FCF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				23F421CC138A14DF00CF8FCF /* Swipes */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		23F421CB138A14DF00CF8FCF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23F421DC138A14DF00CF8FCF /* InfoPlist.strings in Resources */,
+				23F421E5138A14DF00CF8FCF /* MainWindow.xib in Resources */,
+				23F421EB138A14DF00CF8FCF /* SwipesViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		23F421C9138A14DF00CF8FCF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23F421DF138A14DF00CF8FCF /* main.m in Sources */,
+				23F421E2138A14DF00CF8FCF /* SwipesAppDelegate.m in Sources */,
+				23F421E8138A14DF00CF8FCF /* SwipesViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		23F421DA138A14DF00CF8FCF /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23F421DB138A14DF00CF8FCF /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		23F421E3138A14DF00CF8FCF /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23F421E4138A14DF00CF8FCF /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		23F421E9138A14DF00CF8FCF /* SwipesViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23F421EA138A14DF00CF8FCF /* en */,
+			);
+			name = SwipesViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		23F421EC138A14DF00CF8FCF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		23F421ED138A14DF00CF8FCF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		23F421EF138A14DF00CF8FCF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Swipes/Swipes-Prefix.pch";
+				INFOPLIST_FILE = "Swipes/Swipes-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		23F421F0138A14DF00CF8FCF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Swipes/Swipes-Prefix.pch";
+				INFOPLIST_FILE = "Swipes/Swipes-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23F421C7138A14DF00CF8FCF /* Build configuration list for PBXProject "Swipes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23F421EC138A14DF00CF8FCF /* Debug */,
+				23F421ED138A14DF00CF8FCF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		23F421EE138A14DF00CF8FCF /* Build configuration list for PBXNativeTarget "Swipes" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23F421EF138A14DF00CF8FCF /* Debug */,
+				23F421F0138A14DF00CF8FCF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 23F421C4138A14DF00CF8FCF /* Project object */;
+}
