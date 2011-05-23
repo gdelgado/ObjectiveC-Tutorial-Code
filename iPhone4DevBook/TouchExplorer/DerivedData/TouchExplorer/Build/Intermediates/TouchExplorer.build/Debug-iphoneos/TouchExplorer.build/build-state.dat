@@ -1,0 +1,446 @@
+TTouchExplorer
+v3
+r1
+cCheck dependencies
+cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist
+cProcessInfoPlistFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/Info.plist" TouchExplorer-Info.plist
+cCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xib"
+cCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib"
+cProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch.gch" TouchExplorer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch.gch" TouchExplorer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/main.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerAppDelegate.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/main.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerAppDelegate.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerViewController.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerViewController.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer" normal armv6
+cLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer" normal armv7
+cCreateUniversalBinary "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer" normal "armv6 armv7"
+cGenerateDSYMFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer"
+cProcessProductPackaging "/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision"
+cTouch "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent"
+cCodeSign "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+c000000004DAA429C0000000000000110
+t1303003804
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+c000000004D4F6A4700000000000001A7
+t1297050183
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+c000000004D4F6A4700000000000001E5
+t1297050183
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93E13C00000000003532B0
+t1301537084
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93E1FD00000000003E22F0
+t1301537277
+s4072176
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93E1E60000000000001466
+t1301537254
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D99FA7C0000000000000AA1
+t1301936764
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D99FAFA0000000000CA2AE0
+t1301936890
+s13249248
+
+N/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision
+c000000004DD9D6950000000000001C00
+t1306121877
+s7168
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.h
+c000000004D07E12C0000000000000201
+t1292362028
+s513
+i<UIKit/UIKit.h>
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m
+c000000004D07E12C0000000000000AB1
+t1292362028
+s2737
+i"TouchExplorerAppDelegate.h"
+i"TouchExplorerViewController.h"
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.h
+c000000004D07E164000000000000023B
+t1292362084
+s571
+i<UIKit/UIKit.h>
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m
+c000000004D07E2C200000000000007C8
+t1292362434
+s1992
+i"TouchExplorerViewController.h"
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer.LinkFileList
+c000000004DD9E40B0000000000000283
+t1306125323
+s643
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerAppDelegate.o
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerViewController.o
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer.LinkFileList
+c000000004DD9E40B0000000000000283
+t1306125323
+s643
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerAppDelegate.o
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerViewController.o
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch.gch
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch.gch
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/Info.plist
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/MainWindow.nib
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/PkgInfo
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorerViewController.nib
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision
+t2
+s0
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xib
+c000000004D07E12C0000000000004E71
+t1292362028
+s20081
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib
+c000000004D07E28600000000000057D2
+t1292362374
+s22482
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer_Prefix.pch
+c000000004D07E12C00000000000000C3
+t1292362028
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m
+c000000004D07E12C000000000000016D
+t1292362028
+s365
+i<UIKit/UIKit.h>
+
+NTouchExplorer-Info.plist
+c000000004D07E12C000000000000038D
+t1292362028
+s909
+
+CBuild AST from "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m"
+r0
+
+CBuild AST from "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m"
+r0
+
+CBuild AST from "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies2e00418b1b8ab341^a7b1598b1b8ab341^---0#1#0#--18"Check dependencies
+
+CCodeSign "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+s327818127.454631
+e327818127.853550
+r1
+xCodeSign
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"CodeSign DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.appd97c748f1b8ab341^fe81da8f1b8ab341^---0#0#0#-19%DVTDocumentLocation2@163"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/0000000000000000^1010"CodeSign DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Gerardo Delgado (8644PC3T8B)" "--resource-rules=/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist" --entitlements "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+
+CCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerAppDelegate.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327818126.445541
+e327818126.546078
+r1
+xCompileC
+xDerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerAppDelegate.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m412d728e1b8ab341^32ca8b8e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m0000000000000000^2888"CompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerAppDelegate.o Classes/TouchExplorerAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv6" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerAppDelegate.o"
+
+CCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerViewController.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327818126.491011
+e327818126.606970
+r1
+xCompileC
+xDerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerViewController.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.mabcf7d8e1b8ab341^be6c9b8e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m0000000000000000^2900"CompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerViewController.o Classes/TouchExplorerViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv6" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorerViewController.o"
+
+CCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/main.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327818126.422737
+e327818126.490848
+r1
+xCompileC
+xDerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/main.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.mab5c6c8e1b8ab341^f3af7d8e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m0000000000000000^2792"CompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/main.o main.m normal armv6 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv6" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/main.o"
+
+CCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerAppDelegate.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327818126.339302
+e327818126.445018
+r1
+xCompileC
+xDerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerAppDelegate.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m5111578e1b8ab341^6ff4718e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m0000000000000000^2888"CompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerAppDelegate.o Classes/TouchExplorerAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv7" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerAppDelegate.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerAppDelegate.o"
+
+CCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerViewController.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327818126.546282
+e327818126.638298
+r1
+xCompileC
+xDerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerViewController.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m2bf68b8e1b8ab341^e36fa38e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m0000000000000000^2900"CompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerViewController.o Classes/TouchExplorerViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv7" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/Classes/TouchExplorerViewController.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorerViewController.o"
+
+CCompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/main.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327818126.168629
+e327818126.422477
+r1
+xCompileC
+xDerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/main.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m5c582b8e1b8ab341^9a266c8e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m0000000000000000^2792"CompileC DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/main.o main.m normal armv7 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv7" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/main.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/main.o"
+
+CCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xib"
+s327818123.489962
+e327818123.576284
+r1
+xCompileXIB
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compiling /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xibc1c87f8b1b8ab341^eb90938b1b8ab341^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xib0000000000000000^720"CompileXIB MainWindow.xib    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/MainWindow.nib" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+
+CCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib"
+s327818123.490284
+e327818124.347981
+r1
+xCompileXIB
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compiling /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib42d27f8b1b8ab341^1615598c1b8ab341^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib0000000000000000^771"CompileXIB TouchExplorerViewController.xib    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorerViewController.nib" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorerViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+
+CCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist
+s327818123.453464
+e327818123.477970
+r1
+xCpResource
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist
+xDerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Copy DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist2d3f748b1b8ab341^67627a8b1b8ab341^---0#0#0#-19%DVTDocumentLocation2@182"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist0000204d2205f041^735"CpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/ResourceRules.plist "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+
+CCreateUniversalBinary "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer" normal "armv6 armv7"
+s327818127.338608
+e327818127.352677
+r1
+xCreateUniversalBinary
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer
+xnormal
+xarmv6 armv7
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection182"Create universal binary /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer47ca568f1b8ab341^5e495a8f1b8ab341^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer0000204d2205f041^948"CreateUniversalBinary DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer normal "armv6 armv7"    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer" -output "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer"
+
+CGenerateDSYMFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer"
+s327818127.352887
+e327818127.387398
+r1
+xGenerateDSYMFile
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection160"Generating /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM9c695a8f1b8ab341^aa2b638f1b8ab341^---0#0#0#-19%DVTDocumentLocation2@167"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM0000204d2205f041^736"GenerateDSYMFile DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app.dSYM"
+
+CLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer" normal armv6
+s327818126.607462
+e327818127.337334
+r1
+xLd
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer
+xnormal
+xarmv6
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection211"Link /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer3dd39b8e1b8ab341^925c568f1b8ab341^---0#0#0#--1367"Ld DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer normal armv6    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -filelist "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer.LinkFileList" -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv6/TouchExplorer"
+
+CLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer" normal armv7
+s327818126.638846
+e327818127.338358
+r1
+xLd
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer
+xnormal
+xarmv7
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection211"Link /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer27a2a38e1b8ab341^f19f568f1b8ab341^---0#0#0#--1367"Ld DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer normal armv7    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk "-L/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -filelist "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer.LinkFileList" -dead_strip -miphoneos-version-min=4.3 -framework Foundation -framework UIKit -framework CoreGraphics -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/Objects-normal/armv7/TouchExplorer"
+
+CLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/TouchExplorer" normal armv7
+r0
+
+CProcessInfoPlistFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/Info.plist" TouchExplorer-Info.plist
+s327818123.453668
+e327818123.488403
+r1
+xProcessInfoPlistFile
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/Info.plist
+xTouchExplorer-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection32"Process TouchExplorer-Info.plist8e3c748b1b8ab341^f10d7d8b1b8ab341^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer-Info.plist0000000000000000^958"ProcessInfoPlistFile DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/Info.plist TouchExplorer-Info.plist    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TouchExplorer-Info.plist -genpkginfo "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/ResourceRules.plist" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/Info.plist"
+
+CProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch.gch" TouchExplorer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s327818124.349828
+e327818126.338965
+r1
+xProcessPCH
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch.gch
+xTouchExplorer_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TouchExplorer_Prefix.pcha2b6598c1b8ab341^00c7568e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer_Prefix.pch0000000000000000^2631"ProcessPCH DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch.gch TouchExplorer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv6" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer_Prefix.pch" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-amhsftbkyytclofnpshlwfvgqgzk/TouchExplorer_Prefix.pch.gch"
+
+CProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch.gch" TouchExplorer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s327818124.350004
+e327818126.168199
+r1
+xProcessPCH
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch.gch
+xTouchExplorer_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection35"Precompile TouchExplorer_Prefix.pch13b8598c1b8ab341^4d122b8e1b8ab341^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer_Prefix.pch0000000000000000^2631"ProcessPCH DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch.gch TouchExplorer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk -gdwarf-2 -fvisibility=hidden -mthumb -miphoneos-version-min=4.3 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources/armv7" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer_Prefix.pch" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/PrecompiledHeaders/TouchExplorer_Prefix-gfadkhrnillivfhcbvpvlbqjjhfa/TouchExplorer_Prefix.pch.gch"
+
+CProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Index/PrecompiledHeaders/TouchExplorer_Prefix-czppltkwsvhgpjgncertkpqxgsvo_ast/TouchExplorer_Prefix.pch.pth" TouchExplorer_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Index/PrecompiledHeaders/TouchExplorer_Prefix-gxeugubfntsalmgsrsqmaugrcvek_ast/TouchExplorer_Prefix.pch.pth" TouchExplorer_Prefix.pch normal armv6 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessProductPackaging "/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision"
+s327818127.388831
+e327818127.392891
+r1
+xProcessProductPackaging
+x/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection236"ProcessProductPackaging "/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision" DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision61a4638f1b8ab341^7c99648f1b8ab341^---0#0#0#-19%DVTDocumentLocation2@187"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision0000204d2205f041^772"ProcessProductPackaging "/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision" DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/MyMacPro/Library/MobileDevice/Provisioning Profiles/508D968C-DDFF-429F-9F0C-79DBEFCC5B10.mobileprovision" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app/embedded.mobileprovision"
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent"
+s327818127.440290
+e327818127.453040
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection233"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcentb8e4708f1b8ab341^77f4738f1b8ab341^---0#0#0#-19%DVTDocumentLocation2@209"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent0000204d2205f041^792"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/Entitlements.plist -entitlements -format xml -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Intermediates/TouchExplorer.build/Debug-iphoneos/TouchExplorer.build/TouchExplorer.xcent"
+
+CTouch "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+s327818127.394507
+e327818127.437911
+r1
+xTouch
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Touch /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app020e658f1b8ab341^581a708f1b8ab341^---0#0#0#--453"Touch DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/TouchExplorer.app"
+

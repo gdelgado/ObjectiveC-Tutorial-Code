@@ -1,0 +1,21 @@
+Contents of /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/TouchExplorer_Prefix.pch
+4.2.1 (Apple Inc. build 5666) (dot 3)
+-x
+objective-c
+-arch
+armv7
+-fmessage-length=0
+-pipe
+-std=c99
+-fpascal-strings
+-O0
+-isysroot
+/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk
+-gdwarf-2
+-fvisibility=hidden
+-mthumb
+-miphoneos-version-min=4.3
+-iquote
+-iquote
+-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos/include
+-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TouchExplorer/DerivedData/TouchExplorer/Build/Products/Debug-iphoneos
