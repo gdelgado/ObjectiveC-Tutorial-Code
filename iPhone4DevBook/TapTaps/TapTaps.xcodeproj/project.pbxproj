@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		23995CDC138B646500F4694C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23995CDB138B646500F4694C /* UIKit.framework */; };
+		23995CDE138B646500F4694C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23995CDD138B646500F4694C /* Foundation.framework */; };
+		23995CE0138B646500F4694C /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23995CDF138B646500F4694C /* CoreGraphics.framework */; };
+		23995CE6138B646500F4694C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 23995CE4138B646500F4694C /* InfoPlist.strings */; };
+		23995CE9138B646500F4694C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 23995CE8138B646500F4694C /* main.m */; };
+		23995CEC138B646500F4694C /* TapTapsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 23995CEB138B646500F4694C /* TapTapsAppDelegate.m */; };
+		23995CEF138B646500F4694C /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23995CED138B646500F4694C /* MainWindow.xib */; };
+		23995CF2138B646500F4694C /* TapTapsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 23995CF1138B646500F4694C /* TapTapsViewController.m */; };
+		23995CF5138B646500F4694C /* TapTapsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 23995CF3138B646500F4694C /* TapTapsViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		23995CD7138B646500F4694C /* TapTaps.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TapTaps.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		23995CDB138B646500F4694C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		23995CDD138B646500F4694C /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		23995CDF138B646500F4694C /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		23995CE3138B646500F4694C /* TapTaps-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TapTaps-Info.plist"; sourceTree = "<group>"; };
+		23995CE5138B646500F4694C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		23995CE7138B646500F4694C /* TapTaps-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TapTaps-Prefix.pch"; sourceTree = "<group>"; };
+		23995CE8138B646500F4694C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		23995CEA138B646500F4694C /* TapTapsAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TapTapsAppDelegate.h; sourceTree = "<group>"; };
+		23995CEB138B646500F4694C /* TapTapsAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TapTapsAppDelegate.m; sourceTree = "<group>"; };
+		23995CEE138B646500F4694C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		23995CF0138B646500F4694C /* TapTapsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TapTapsViewController.h; sourceTree = "<group>"; };
+		23995CF1138B646500F4694C /* TapTapsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TapTapsViewController.m; sourceTree = "<group>"; };
+		23995CF4138B646500F4694C /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TapTapsViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		23995CD4138B646500F4694C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23995CDC138B646500F4694C /* UIKit.framework in Frameworks */,
+				23995CDE138B646500F4694C /* Foundation.framework in Frameworks */,
+				23995CE0138B646500F4694C /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		23995CCC138B646500F4694C = {
+			isa = PBXGroup;
+			children = (
+				23995CE1138B646500F4694C /* TapTaps */,
+				23995CDA138B646500F4694C /* Frameworks */,
+				23995CD8138B646500F4694C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		23995CD8138B646500F4694C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				23995CD7138B646500F4694C /* TapTaps.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		23995CDA138B646500F4694C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				23995CDB138B646500F4694C /* UIKit.framework */,
+				23995CDD138B646500F4694C /* Foundation.framework */,
+				23995CDF138B646500F4694C /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		23995CE1138B646500F4694C /* TapTaps */ = {
+			isa = PBXGroup;
+			children = (
+				23995CEA138B646500F4694C /* TapTapsAppDelegate.h */,
+				23995CEB138B646500F4694C /* TapTapsAppDelegate.m */,
+				23995CED138B646500F4694C /* MainWindow.xib */,
+				23995CF0138B646500F4694C /* TapTapsViewController.h */,
+				23995CF1138B646500F4694C /* TapTapsViewController.m */,
+				23995CF3138B646500F4694C /* TapTapsViewController.xib */,
+				23995CE2138B646500F4694C /* Supporting Files */,
+			);
+			path = TapTaps;
+			sourceTree = "<group>";
+		};
+		23995CE2138B646500F4694C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				23995CE3138B646500F4694C /* TapTaps-Info.plist */,
+				23995CE4138B646500F4694C /* InfoPlist.strings */,
+				23995CE7138B646500F4694C /* TapTaps-Prefix.pch */,
+				23995CE8138B646500F4694C /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		23995CD6138B646500F4694C /* TapTaps */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 23995CF8138B646500F4694C /* Build configuration list for PBXNativeTarget "TapTaps" */;
+			buildPhases = (
+				23995CD3138B646500F4694C /* Sources */,
+				23995CD4138B646500F4694C /* Frameworks */,
+				23995CD5138B646500F4694C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TapTaps;
+			productName = TapTaps;
+			productReference = 23995CD7138B646500F4694C /* TapTaps.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		23995CCE138B646500F4694C /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 23995CD1138B646500F4694C /* Build configuration list for PBXProject "TapTaps" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 23995CCC138B646500F4694C;
+			productRefGroup = 23995CD8138B646500F4694C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				23995CD6138B646500F4694C /* TapTaps */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		23995CD5138B646500F4694C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23995CE6138B646500F4694C /* InfoPlist.strings in Resources */,
+				23995CEF138B646500F4694C /* MainWindow.xib in Resources */,
+				23995CF5138B646500F4694C /* TapTapsViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		23995CD3138B646500F4694C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				23995CE9138B646500F4694C /* main.m in Sources */,
+				23995CEC138B646500F4694C /* TapTapsAppDelegate.m in Sources */,
+				23995CF2138B646500F4694C /* TapTapsViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		23995CE4138B646500F4694C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23995CE5138B646500F4694C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		23995CED138B646500F4694C /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23995CEE138B646500F4694C /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		23995CF3138B646500F4694C /* TapTapsViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				23995CF4138B646500F4694C /* en */,
+			);
+			name = TapTapsViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		23995CF6138B646500F4694C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		23995CF7138B646500F4694C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		23995CF9138B646500F4694C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TapTaps/TapTaps-Prefix.pch";
+				INFOPLIST_FILE = "TapTaps/TapTaps-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		23995CFA138B646500F4694C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TapTaps/TapTaps-Prefix.pch";
+				INFOPLIST_FILE = "TapTaps/TapTaps-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		23995CD1138B646500F4694C /* Build configuration list for PBXProject "TapTaps" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23995CF6138B646500F4694C /* Debug */,
+				23995CF7138B646500F4694C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		23995CF8138B646500F4694C /* Build configuration list for PBXNativeTarget "TapTaps" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				23995CF9138B646500F4694C /* Debug */,
+				23995CFA138B646500F4694C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 23995CCE138B646500F4694C /* Project object */;
+}

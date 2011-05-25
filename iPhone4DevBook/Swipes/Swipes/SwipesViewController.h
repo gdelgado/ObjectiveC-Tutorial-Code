@@ -10,11 +10,10 @@
 
 @interface SwipesViewController : UIViewController {
     UILabel *label;
-    CGPoint gestureStartPoint;
+
 }
 
 @property (nonatomic, retain) IBOutlet UILabel *label;
-@property CGPoint gestureStartPoint;
 -(void)eraseText;
 
 @end

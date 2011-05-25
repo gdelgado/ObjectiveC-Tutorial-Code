@@ -1,0 +1,292 @@
+TTapTaps
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/Info.plist" TapTaps/TapTaps-Info.plist
+cProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch.gch" TapTaps/TapTaps-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsViewController.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsAppDelegate.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/main.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps" normal i386
+cGenerateDSYMFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps"
+cCopyStringsFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/InfoPlist.strings" TapTaps/en.lproj/InfoPlist.strings
+cCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib"
+cCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib"
+cTouch "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004DAA432C0000000000000110
+t1303003948
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTaps.LinkFileList
+c000000004DDC80ED0000000000000241
+t1306296557
+s577
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsAppDelegate.o
+t1306296562
+s47912
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsViewController.o
+t1306296563
+s49024
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/main.o
+t1306296562
+s3140
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch.gch
+t1306296562
+s12283312
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app
+t1306296564
+s204
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM
+t1306296563
+s102
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/Info.plist
+t1306296557
+s779
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/PkgInfo
+t1306296557
+s8
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps
+t1306296563
+s24476
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/InfoPlist.strings
+t1306296563
+s42
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/MainWindow.nib
+t1306296564
+s1665
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/TapTapsViewController.nib
+t1306296564
+s3229
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTaps-Prefix.pch
+c000000004DDB2CE50000000000000140
+t1306209509
+s320
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.h
+c000000004DDB2CE500000000000001A3
+t1306209509
+s419
+i<UIKit/UIKit.h>
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m
+c000000004DDB2CE50000000000000966
+t1306209509
+s2406
+i"TapTapsAppDelegate.h"
+i"TapTapsViewController.h"
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.h
+c000000004DDB2DBC00000000000002B6
+t1306209724
+s694
+i<UIKit/UIKit.h>
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m
+c000000004DDC80ED0000000000000D71
+t1306296557
+s3441
+i"TapTapsViewController.h"
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/InfoPlist.strings
+c000000004DDB2CE5000000000000002D
+t1306209509
+s45
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib
+c000000004DDB2CE50000000000004E19
+t1306209509
+s19993
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib
+c000000004DDC79A20000000000003AF5
+t1306294690
+s15093
+
+N/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m
+c000000004DDB2CE50000000000000167
+t1306209509
+s359
+i<UIKit/UIKit.h>
+
+NTapTaps/TapTaps-Info.plist
+c000000004DDB2CE500000000000004A5
+t1306209509
+s1189
+
+CBuild AST from "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m"
+r0
+
+CBuild AST from "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m"
+r0
+
+CBuild AST from "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa9330b79b88cb341^33de0e79b88cb341^---0#1#0#--18"Check dependencies
+
+CCompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsAppDelegate.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s327989362.777135
+e327989362.939284
+r1
+xCompileC
+xDerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsAppDelegate.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.mda20c772b88cb341^1074f072b88cb341^---0#0#0#-19%DVTDocumentLocation2@111"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m0000000000000000^2786"CompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsAppDelegate.o TapTaps/TapTapsAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources/i386" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsAppDelegate.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsAppDelegate.o"
+
+CCompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsViewController.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s327989362.908420
+e327989363.011382
+r1
+xCompileC
+xDerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsViewController.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.mfcaae872b88cb341^abe90273b88cb341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m0000000000000000^2798"CompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsViewController.o TapTaps/TapTapsViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources/i386" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTapsViewController.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTapsViewController.o"
+
+CCompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/main.o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s327989362.777151
+e327989362.907694
+r1
+xCompileC
+xDerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/main.o
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.mc91cc772b88cb341^a166e872b88cb341^---0#0#0#-19%DVTDocumentLocation2@97"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m0000000000000000^2730"CompileC DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/main.o TapTaps/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources/i386" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator" -include "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/main.m" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/main.o"
+
+CCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib"
+s327989363.637051
+e327989364.740650
+r1
+xCompileXIB
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compiling /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib0726a373b88cb341^0b9bbd74b88cb341^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib0000000000000000^761"CompileXIB TapTaps/en.lproj/MainWindow.xib    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/MainWindow.nib" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib"
+s327989363.640328
+e327989364.745433
+r1
+xCompileXIB
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compiling /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib691aa473b88cb341^91d4be74b88cb341^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib0000000000000000^794"CompileXIB TapTaps/en.lproj/TapTapsViewController.xib    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/TapTapsViewController.nib" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/TapTapsViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/InfoPlist.strings" TapTaps/en.lproj/InfoPlist.strings
+s327989363.636666
+e327989363.640189
+r1
+xCopyStringsFile
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/InfoPlist.strings
+xTapTaps/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy TapTaps/en.lproj/InfoPlist.strings001ca373b88cb341^7903a473b88cb341^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/en.lproj/InfoPlist.strings0000000000000000^625"CopyStringsFile DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj/InfoPlist.strings TapTaps/en.lproj/InfoPlist.strings    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/en.lproj" -- TapTaps/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM" "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps"
+s327989363.518264
+e327989363.635150
+r1
+xGenerateDSYMFile
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection149"Generating /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM4dbf8473b88cb341^d49aa273b88cb341^---0#0#0#-19%DVTDocumentLocation2@156"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM0000204d2205f041^693"GenerateDSYMFile DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app.dSYM"
+
+CLd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps" normal i386
+s327989363.011578
+e327989363.518056
+r1
+xLd
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection146"Link /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTapsa20e0373b88cb341^67439273b88cb341^---0#0#0#--1258"Ld DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps normal i386    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator" -filelist "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/Objects-normal/i386/TapTaps.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/TapTaps"
+
+CProcessInfoPlistFile "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/Info.plist" TapTaps/TapTaps-Info.plist
+s327989357.917153
+e327989357.923106
+r1
+xProcessInfoPlistFile
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/Info.plist
+xTapTaps/TapTaps-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Process TapTaps/TapTaps-Info.plist87deea6db88cb341^357bec6db88cb341^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTaps-Info.plist0000000000000000^757"ProcessInfoPlistFile DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/Info.plist TapTaps/TapTaps-Info.plist    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TapTaps/TapTaps-Info.plist -genpkginfo "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app/Info.plist"
+
+CProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch.gch" TapTaps/TapTaps-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s327989357.935427
+e327989362.776449
+r1
+xProcessPCH
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch.gch
+xTapTaps/TapTaps-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile TapTaps/TapTaps-Prefix.pch5f95ef6db88cb341^c1c9c672b88cb341^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/iPhone%20Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTaps-Prefix.pch0000000000000000^2569"ProcessPCH DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch.gch TapTaps/TapTaps-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-generated-files.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-own-target-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-all-target-headers.hmap" -iquote "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/TapTaps-project-headers.hmap" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/include" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources/i386" "-I/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Intermediates/TapTaps.build/Debug-iphonesimulator/TapTaps.build/DerivedSources" "-F/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator" -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/TapTaps/TapTaps-Prefix.pch" -o "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/PrecompiledHeaders/TapTaps-Prefix-cgpbaxuzcczoquepwwptewbtvbmk/TapTaps-Prefix.pch.gch"
+
+CProcessPCH "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Index/PrecompiledHeaders/TapTaps-Prefix-asigknzjffaotdcuwqxeqmlssdqx_ast/TapTaps-Prefix.pch.pth" TapTaps/TapTaps-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app"
+s327989364.747098
+e327989364.755767
+r1
+xTouch
+x/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Touch /iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app1152bf74b88cb341^317bc174b88cb341^---0#0#0#--438"Touch DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app    cd "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/iPhone Projects/ObjectiveC-Tutorial-Code/iPhone4DevBook/TapTaps/DerivedData/TapTaps/Build/Products/Debug-iphonesimulator/TapTaps.app"
+
